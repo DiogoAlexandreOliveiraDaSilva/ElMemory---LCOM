@@ -1,1670 +1,1217 @@
-NOW: 2023/5/28 @17:39:59
-NOW: 2023/5/28 @17:40:0
-NOW: 2023/5/28 @17:40:1
-Match found: matrix[0][0].id = 6 and matrix[0][1].id = 6
-Match found: matrix[0][1].id = 6 and matrix[0][0].id = 6
-Match found: matrix[1][0].id = 5 and matrix[1][1].id = 5
-Match found: matrix[1][1].id = 5 and matrix[1][0].id = 5
-matrix allocated
-,138396288gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
-ENTREI NO BOTAO 2
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-Counter: 199
-gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-NOW: 2023/5/28 @17:40:2
-gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
-ENTREI NO BOTAO 2
-gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
-BOTAO 1 CLICK
-Entrei no botao 1
-THe value of the index_1->state on button 1 is 1
-The value of index_2 on button1 is 142888960
-The value of matrix_id2 on button1 is 6ENTREI NO BOTAO 2
-gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-Counter: 4
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-NOW: 2023/5/28 @17:40:3
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-Counter: 3
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-NOW: 2023/5/28 @17:40:4
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTREI NO BOTAO 2
-Counter: 2
-gameplayCounter 2player1 1player2 0player1score 0player2score 0matrix: 6
-Entrei no botao 1
-ENTERED HEREplayer1CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARNOW: 2023/5/28 @17:40:5
-gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-Counter: 1
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-NOW: 2023/5/28 @17:40:6
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-Counter: 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-NOW: 2023/5/28 @17:40:7
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-Counter: 3
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-NOW: 2023/5/28 @17:40:8
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTREI NO BOTAO 4
-Counter: 2
-gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
-CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
-ENTERED HEREENTERED HERE player1CONSEGUIU BLOQUEARplayer1Score 2player2Score 0NOW: 2023/5/28 @17:40:9
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-NOW: 2023/5/28 @17:40:10
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
-The value of player_1 is 2
-The value of player_2 is 0
+NOW: 2023/5/28 @18:15:22
+NOW: 2023/5/28 @18:15:23
+NOW: 2023/5/28 @18:15:24
+NOW: 2023/5/28 @18:15:25
+NOW: 2023/5/28 @18:15:26
+NOW: 2023/5/28 @18:15:27
+NOW: 2023/5/28 @18:15:28
+NOW: 2023/5/28 @18:15:29
+NOW: 2023/5/28 @18:15:30
+NOW: 2023/5/28 @18:15:31
+NOW: 2023/5/28 @18:15:32
+NOW: 2023/5/28 @18:15:33
+NOW: 2023/5/28 @18:15:34
+NOW: 2023/5/28 @18:15:35
+NOW: 2023/5/28 @18:15:36
+NOW: 2023/5/28 @18:15:37
+NOW: 2023/5/28 @18:15:38
+NOW: 2023/5/28 @18:15:39
+NOW: 2023/5/28 @18:15:40
+NOW: 2023/5/28 @18:15:41
+NOW: 2023/5/28 @18:15:42
+NOW: 2023/5/28 @18:15:43
+NOW: 2023/5/28 @18:15:44
+NOW: 2023/5/28 @18:15:45
+NOW: 2023/5/28 @18:15:46
+NOW: 2023/5/28 @18:15:47
+NOW: 2023/5/28 @18:15:48
+NOW: 2023/5/28 @18:15:49
+NOW: 2023/5/28 @18:15:50
+NOW: 2023/5/28 @18:15:51
+NOW: 2023/5/28 @18:15:52
+NOW: 2023/5/28 @18:15:53
+NOW: 2023/5/28 @18:15:54
+NOW: 2023/5/28 @18:15:55
+NOW: 2023/5/28 @18:15:56
+NOW: 2023/5/28 @18:15:57
+NOW: 2023/5/28 @18:15:58
+NOW: 2023/5/28 @18:15:59
+NOW: 2023/5/28 @18:16:0
+NOW: 2023/5/28 @18:16:1
+NOW: 2023/5/28 @18:16:2
+NOW: 2023/5/28 @18:16:3
+NOW: 2023/5/28 @18:16:4
+NOW: 2023/5/28 @18:16:5
+NOW: 2023/5/28 @18:16:6
+NOW: 2023/5/28 @18:16:7
+NOW: 2023/5/28 @18:16:8
+NOW: 2023/5/28 @18:16:9
+NOW: 2023/5/28 @18:16:10
+NOW: 2023/5/28 @18:16:11
+NOW: 2023/5/28 @18:16:12
+NOW: 2023/5/28 @18:16:13
+NOW: 2023/5/28 @18:16:14
+NOW: 2023/5/28 @18:16:15
+NOW: 2023/5/28 @18:16:16
+NOW: 2023/5/28 @18:16:17
+NOW: 2023/5/28 @18:16:18
+NOW: 2023/5/28 @18:16:19
+NOW: 2023/5/28 @18:16:20
+NOW: 2023/5/28 @18:16:21
+NOW: 2023/5/28 @18:16:22
+NOW: 2023/5/28 @18:16:23
+NOW: 2023/5/28 @18:16:24
+NOW: 2023/5/28 @18:16:25
+NOW: 2023/5/28 @18:16:26
+NOW: 2023/5/28 @18:16:27
+NOW: 2023/5/28 @18:16:28
+NOW: 2023/5/28 @18:16:29
+NOW: 2023/5/28 @18:16:30
+NOW: 2023/5/28 @18:16:31
+NOW: 2023/5/28 @18:16:32
+NOW: 2023/5/28 @18:16:33
+NOW: 2023/5/28 @18:16:34
+NOW: 2023/5/28 @18:16:35
+NOW: 2023/5/28 @18:16:36
+NOW: 2023/5/28 @18:16:37
+NOW: 2023/5/28 @18:16:38
+NOW: 2023/5/28 @18:16:39
+NOW: 2023/5/28 @18:16:40
+NOW: 2023/5/28 @18:16:41
+NOW: 2023/5/28 @18:16:42
+NOW: 2023/5/28 @18:16:43
+NOW: 2023/5/28 @18:16:44
+NOW: 2023/5/28 @18:16:45
+NOW: 2023/5/28 @18:16:46
+NOW: 2023/5/28 @18:16:47
+NOW: 2023/5/28 @18:16:48
+NOW: 2023/5/28 @18:16:49
+NOW: 2023/5/28 @18:16:50
+NOW: 2023/5/28 @18:16:51
+NOW: 2023/5/28 @18:16:52
+NOW: 2023/5/28 @18:16:53
+NOW: 2023/5/28 @18:16:54
+NOW: 2023/5/28 @18:16:55
+NOW: 2023/5/28 @18:16:56
+NOW: 2023/5/28 @18:16:57
+NOW: 2023/5/28 @18:16:58
+NOW: 2023/5/28 @18:16:59
+NOW: 2023/5/28 @18:17:0
+NOW: 2023/5/28 @18:17:1
+NOW: 2023/5/28 @18:17:2
+NOW: 2023/5/28 @18:17:3
+NOW: 2023/5/28 @18:17:4
+NOW: 2023/5/28 @18:17:5
+NOW: 2023/5/28 @18:17:6
+NOW: 2023/5/28 @18:17:7
+NOW: 2023/5/28 @18:17:8
+NOW: 2023/5/28 @18:17:9
+NOW: 2023/5/28 @18:17:10
+NOW: 2023/5/28 @18:17:11
+NOW: 2023/5/28 @18:17:12
+NOW: 2023/5/28 @18:17:13
+NOW: 2023/5/28 @18:17:14
+NOW: 2023/5/28 @18:17:15
+NOW: 2023/5/28 @18:17:16
+NOW: 2023/5/28 @18:17:17
+NOW: 2023/5/28 @18:17:18
+NOW: 2023/5/28 @18:17:19
+NOW: 2023/5/28 @18:17:20
+NOW: 2023/5/28 @18:17:21
+NOW: 2023/5/28 @18:17:22
+NOW: 2023/5/28 @18:17:23
+NOW: 2023/5/28 @18:17:24
+NOW: 2023/5/28 @18:17:25
+NOW: 2023/5/28 @18:17:26
+NOW: 2023/5/28 @18:17:27
+NOW: 2023/5/28 @18:17:28
+NOW: 2023/5/28 @18:17:29
+NOW: 2023/5/28 @18:17:30
+NOW: 2023/5/28 @18:17:31
+NOW: 2023/5/28 @18:17:32
+NOW: 2023/5/28 @18:17:33
+NOW: 2023/5/28 @18:17:34
+NOW: 2023/5/28 @18:17:35
+NOW: 2023/5/28 @18:17:36
+NOW: 2023/5/28 @18:17:37
+NOW: 2023/5/28 @18:17:38
+NOW: 2023/5/28 @18:17:39
+NOW: 2023/5/28 @18:17:40
+NOW: 2023/5/28 @18:17:41
+NOW: 2023/5/28 @18:17:42
+NOW: 2023/5/28 @18:17:43
+NOW: 2023/5/28 @18:17:44
+NOW: 2023/5/28 @18:17:45
+NOW: 2023/5/28 @18:17:46
+NOW: 2023/5/28 @18:17:47
+NOW: 2023/5/28 @18:17:48
+NOW: 2023/5/28 @18:17:49
+NOW: 2023/5/28 @18:17:50
+NOW: 2023/5/28 @18:17:51
+NOW: 2023/5/28 @18:17:52
+NOW: 2023/5/28 @18:17:53
+NOW: 2023/5/28 @18:17:54
+NOW: 2023/5/28 @18:17:55
+NOW: 2023/5/28 @18:17:56
+NOW: 2023/5/28 @18:17:57
+NOW: 2023/5/28 @18:17:58
+NOW: 2023/5/28 @18:17:59
+NOW: 2023/5/28 @18:18:0
+NOW: 2023/5/28 @18:18:1
+NOW: 2023/5/28 @18:18:2
+NOW: 2023/5/28 @18:18:3
+NOW: 2023/5/28 @18:18:4
+NOW: 2023/5/28 @18:18:5
+NOW: 2023/5/28 @18:18:6
+NOW: 2023/5/28 @18:18:7
+NOW: 2023/5/28 @18:18:8
+NOW: 2023/5/28 @18:18:9
+NOW: 2023/5/28 @18:18:10
+NOW: 2023/5/28 @18:18:11
+NOW: 2023/5/28 @18:18:12
+NOW: 2023/5/28 @18:18:13
+NOW: 2023/5/28 @18:18:14
+NOW: 2023/5/28 @18:18:15
+NOW: 2023/5/28 @18:18:16
+NOW: 2023/5/28 @18:18:17
+NOW: 2023/5/28 @18:18:18
+NOW: 2023/5/28 @18:18:19
+NOW: 2023/5/28 @18:18:20
+NOW: 2023/5/28 @18:18:21
+NOW: 2023/5/28 @18:18:22
+NOW: 2023/5/28 @18:18:23
+NOW: 2023/5/28 @18:18:24
+NOW: 2023/5/28 @18:18:25
+NOW: 2023/5/28 @18:18:26
+NOW: 2023/5/28 @18:18:27
+NOW: 2023/5/28 @18:18:28
+NOW: 2023/5/28 @18:18:29
+NOW: 2023/5/28 @18:18:30
+NOW: 2023/5/28 @18:18:31
+NOW: 2023/5/28 @18:18:32
+NOW: 2023/5/28 @18:18:33
+NOW: 2023/5/28 @18:18:34
+NOW: 2023/5/28 @18:18:35
+NOW: 2023/5/28 @18:18:36
+NOW: 2023/5/28 @18:18:37
+NOW: 2023/5/28 @18:18:38
+NOW: 2023/5/28 @18:18:39
+NOW: 2023/5/28 @18:18:40
+NOW: 2023/5/28 @18:18:41
+NOW: 2023/5/28 @18:18:42
+NOW: 2023/5/28 @18:18:43
+NOW: 2023/5/28 @18:18:44
+NOW: 2023/5/28 @18:18:45
+NOW: 2023/5/28 @18:18:46
+NOW: 2023/5/28 @18:18:47
+NOW: 2023/5/28 @18:18:48
+NOW: 2023/5/28 @18:18:49
+NOW: 2023/5/28 @18:18:50
+NOW: 2023/5/28 @18:18:51
+NOW: 2023/5/28 @18:18:52
+NOW: 2023/5/28 @18:18:53
+NOW: 2023/5/28 @18:18:54
+NOW: 2023/5/28 @18:18:55
+NOW: 2023/5/28 @18:18:56
+NOW: 2023/5/28 @18:18:57
+NOW: 2023/5/28 @18:18:58
+NOW: 2023/5/28 @18:18:59
+NOW: 2023/5/28 @18:19:0
+NOW: 2023/5/28 @18:19:1
+NOW: 2023/5/28 @18:19:2
+NOW: 2023/5/28 @18:19:3
+NOW: 2023/5/28 @18:19:4
+NOW: 2023/5/28 @18:19:5
+NOW: 2023/5/28 @18:19:6
+NOW: 2023/5/28 @18:19:7
+NOW: 2023/5/28 @18:19:8
+NOW: 2023/5/28 @18:19:9
+NOW: 2023/5/28 @18:19:10
+NOW: 2023/5/28 @18:19:11
+NOW: 2023/5/28 @18:19:12
+NOW: 2023/5/28 @18:19:13
+NOW: 2023/5/28 @18:19:14
+NOW: 2023/5/28 @18:19:15
+NOW: 2023/5/28 @18:19:16
+NOW: 2023/5/28 @18:19:17
+NOW: 2023/5/28 @18:19:18
+NOW: 2023/5/28 @18:19:19
+NOW: 2023/5/28 @18:19:20
+NOW: 2023/5/28 @18:19:21
+NOW: 2023/5/28 @18:19:22
+NOW: 2023/5/28 @18:19:23
+NOW: 2023/5/28 @18:19:24
+NOW: 2023/5/28 @18:19:25
+NOW: 2023/5/28 @18:19:26
+NOW: 2023/5/28 @18:19:27
+NOW: 2023/5/28 @18:19:28
+NOW: 2023/5/28 @18:19:29
+NOW: 2023/5/28 @18:19:30
+NOW: 2023/5/28 @18:19:31
+NOW: 2023/5/28 @18:19:32
+NOW: 2023/5/28 @18:19:33
+NOW: 2023/5/28 @18:19:34
+NOW: 2023/5/28 @18:19:35
+NOW: 2023/5/28 @18:19:36
+NOW: 2023/5/28 @18:19:37
+NOW: 2023/5/28 @18:19:38
+NOW: 2023/5/28 @18:19:39
+NOW: 2023/5/28 @18:19:40
+NOW: 2023/5/28 @18:19:41
+NOW: 2023/5/28 @18:19:42
+NOW: 2023/5/28 @18:19:43
+NOW: 2023/5/28 @18:19:44
+NOW: 2023/5/28 @18:19:45
+NOW: 2023/5/28 @18:19:46
+NOW: 2023/5/28 @18:19:47
+NOW: 2023/5/28 @18:19:48
+NOW: 2023/5/28 @18:19:49
+NOW: 2023/5/28 @18:19:50
+NOW: 2023/5/28 @18:19:51
+NOW: 2023/5/28 @18:19:52
+NOW: 2023/5/28 @18:19:53
+NOW: 2023/5/28 @18:19:54
+NOW: 2023/5/28 @18:19:55
+NOW: 2023/5/28 @18:19:56
+NOW: 2023/5/28 @18:19:57
+NOW: 2023/5/28 @18:19:58
+NOW: 2023/5/28 @18:19:59
+NOW: 2023/5/28 @18:20:0
+NOW: 2023/5/28 @18:20:1
+NOW: 2023/5/28 @18:20:2
+NOW: 2023/5/28 @18:20:3
+NOW: 2023/5/28 @18:20:4
+NOW: 2023/5/28 @18:20:5
+NOW: 2023/5/28 @18:20:6
+NOW: 2023/5/28 @18:20:7
+NOW: 2023/5/28 @18:20:8
+NOW: 2023/5/28 @18:20:9
+NOW: 2023/5/28 @18:20:10
+NOW: 2023/5/28 @18:20:11
+NOW: 2023/5/28 @18:20:12
+NOW: 2023/5/28 @18:20:13
+NOW: 2023/5/28 @18:20:14
+NOW: 2023/5/28 @18:20:15
+NOW: 2023/5/28 @18:20:16
+NOW: 2023/5/28 @18:20:17
+NOW: 2023/5/28 @18:20:18
+NOW: 2023/5/28 @18:20:19
+NOW: 2023/5/28 @18:20:20
+NOW: 2023/5/28 @18:20:21
+NOW: 2023/5/28 @18:20:22
+NOW: 2023/5/28 @18:20:23
+NOW: 2023/5/28 @18:20:24
+NOW: 2023/5/28 @18:20:25
+NOW: 2023/5/28 @18:20:26
+NOW: 2023/5/28 @18:20:27
+NOW: 2023/5/28 @18:20:28
+NOW: 2023/5/28 @18:20:29
+NOW: 2023/5/28 @18:20:30
+NOW: 2023/5/28 @18:20:31
+NOW: 2023/5/28 @18:20:32
+NOW: 2023/5/28 @18:20:33
+NOW: 2023/5/28 @18:20:34
+NOW: 2023/5/28 @18:20:35
+NOW: 2023/5/28 @18:20:36
+NOW: 2023/5/28 @18:20:37
+NOW: 2023/5/28 @18:20:38
+NOW: 2023/5/28 @18:20:39
+NOW: 2023/5/28 @18:20:40
+NOW: 2023/5/28 @18:20:41
+NOW: 2023/5/28 @18:20:42
+NOW: 2023/5/28 @18:20:43
+NOW: 2023/5/28 @18:20:44
+NOW: 2023/5/28 @18:20:45
+NOW: 2023/5/28 @18:20:46
+NOW: 2023/5/28 @18:20:47
+NOW: 2023/5/28 @18:20:48
+NOW: 2023/5/28 @18:20:49
+NOW: 2023/5/28 @18:20:50
+NOW: 2023/5/28 @18:20:51
+NOW: 2023/5/28 @18:20:52
+NOW: 2023/5/28 @18:20:53
+NOW: 2023/5/28 @18:20:54
+NOW: 2023/5/28 @18:20:55
+NOW: 2023/5/28 @18:20:56
+NOW: 2023/5/28 @18:20:57
+NOW: 2023/5/28 @18:20:58
+NOW: 2023/5/28 @18:20:59
+NOW: 2023/5/28 @18:21:0
+NOW: 2023/5/28 @18:21:1
+NOW: 2023/5/28 @18:21:2
+NOW: 2023/5/28 @18:21:3
+NOW: 2023/5/28 @18:21:4
+NOW: 2023/5/28 @18:21:5
+NOW: 2023/5/28 @18:21:6
+NOW: 2023/5/28 @18:21:7
+NOW: 2023/5/28 @18:21:8
+NOW: 2023/5/28 @18:21:9
+NOW: 2023/5/28 @18:21:10
+NOW: 2023/5/28 @18:21:11
+NOW: 2023/5/28 @18:21:12
+NOW: 2023/5/28 @18:21:13
+NOW: 2023/5/28 @18:21:14
+NOW: 2023/5/28 @18:21:15
+NOW: 2023/5/28 @18:21:16
+NOW: 2023/5/28 @18:21:17
+NOW: 2023/5/28 @18:21:18
+NOW: 2023/5/28 @18:21:19
+NOW: 2023/5/28 @18:21:20
+NOW: 2023/5/28 @18:21:21
+NOW: 2023/5/28 @18:21:22
+NOW: 2023/5/28 @18:21:23
+NOW: 2023/5/28 @18:21:24
+NOW: 2023/5/28 @18:21:25
+NOW: 2023/5/28 @18:21:26
+NOW: 2023/5/28 @18:21:27
+NOW: 2023/5/28 @18:21:28
+NOW: 2023/5/28 @18:21:29
+NOW: 2023/5/28 @18:21:30
+NOW: 2023/5/28 @18:21:31
+NOW: 2023/5/28 @18:21:32
+NOW: 2023/5/28 @18:21:33
+NOW: 2023/5/28 @18:21:34
+NOW: 2023/5/28 @18:21:35
+NOW: 2023/5/28 @18:21:36
+NOW: 2023/5/28 @18:21:37
+NOW: 2023/5/28 @18:21:38
+NOW: 2023/5/28 @18:21:39
+NOW: 2023/5/28 @18:21:40
+NOW: 2023/5/28 @18:21:41
+NOW: 2023/5/28 @18:21:42
+NOW: 2023/5/28 @18:21:43
+NOW: 2023/5/28 @18:21:44
+NOW: 2023/5/28 @18:21:45
+NOW: 2023/5/28 @18:21:46
+NOW: 2023/5/28 @18:21:47
+NOW: 2023/5/28 @18:21:48
+NOW: 2023/5/28 @18:21:49
+NOW: 2023/5/28 @18:21:50
+NOW: 2023/5/28 @18:21:51
+NOW: 2023/5/28 @18:21:52
+NOW: 2023/5/28 @18:21:53
+NOW: 2023/5/28 @18:21:54
+NOW: 2023/5/28 @18:21:55
+NOW: 2023/5/28 @18:21:56
+NOW: 2023/5/28 @18:21:57
+NOW: 2023/5/28 @18:21:58
+NOW: 2023/5/28 @18:21:59
+NOW: 2023/5/28 @18:22:0
+NOW: 2023/5/28 @18:22:1
+NOW: 2023/5/28 @18:22:2
+NOW: 2023/5/28 @18:22:3
+NOW: 2023/5/28 @18:22:4
+NOW: 2023/5/28 @18:22:5
+NOW: 2023/5/28 @18:22:6
+NOW: 2023/5/28 @18:22:7
+NOW: 2023/5/28 @18:22:8
+NOW: 2023/5/28 @18:22:9
+NOW: 2023/5/28 @18:22:10
+NOW: 2023/5/28 @18:22:11
+NOW: 2023/5/28 @18:22:12
+NOW: 2023/5/28 @18:22:13
+NOW: 2023/5/28 @18:22:14
+NOW: 2023/5/28 @18:22:15
+NOW: 2023/5/28 @18:22:16
+NOW: 2023/5/28 @18:22:17
+NOW: 2023/5/28 @18:22:18
+NOW: 2023/5/28 @18:22:19
+NOW: 2023/5/28 @18:22:20
+NOW: 2023/5/28 @18:22:21
+NOW: 2023/5/28 @18:22:22
+NOW: 2023/5/28 @18:22:23
+NOW: 2023/5/28 @18:22:24
+NOW: 2023/5/28 @18:22:25
+NOW: 2023/5/28 @18:22:26
+NOW: 2023/5/28 @18:22:27
+NOW: 2023/5/28 @18:22:28
+NOW: 2023/5/28 @18:22:29
+NOW: 2023/5/28 @18:22:30
+NOW: 2023/5/28 @18:22:31
+NOW: 2023/5/28 @18:22:32
+NOW: 2023/5/28 @18:22:33
+NOW: 2023/5/28 @18:22:34
+NOW: 2023/5/28 @18:22:35
+NOW: 2023/5/28 @18:22:36
+NOW: 2023/5/28 @18:22:37
+NOW: 2023/5/28 @18:22:38
+NOW: 2023/5/28 @18:22:39
+NOW: 2023/5/28 @18:22:40
+NOW: 2023/5/28 @18:22:41
+NOW: 2023/5/28 @18:22:42
+NOW: 2023/5/28 @18:22:43
+NOW: 2023/5/28 @18:22:44
+NOW: 2023/5/28 @18:22:45
+NOW: 2023/5/28 @18:22:46
+NOW: 2023/5/28 @18:22:47
+NOW: 2023/5/28 @18:22:48
+NOW: 2023/5/28 @18:22:49
+NOW: 2023/5/28 @18:22:50
+NOW: 2023/5/28 @18:22:51
+NOW: 2023/5/28 @18:22:52
+NOW: 2023/5/28 @18:22:53
+NOW: 2023/5/28 @18:22:54
+NOW: 2023/5/28 @18:22:55
+NOW: 2023/5/28 @18:22:56
+NOW: 2023/5/28 @18:22:57
+NOW: 2023/5/28 @18:22:58
+NOW: 2023/5/28 @18:22:59
+NOW: 2023/5/28 @18:23:0
+NOW: 2023/5/28 @18:23:1
+NOW: 2023/5/28 @18:23:2
+NOW: 2023/5/28 @18:23:3
+NOW: 2023/5/28 @18:23:4
+NOW: 2023/5/28 @18:23:5
+NOW: 2023/5/28 @18:23:6
+NOW: 2023/5/28 @18:23:7
+NOW: 2023/5/28 @18:23:8
+NOW: 2023/5/28 @18:23:9
+NOW: 2023/5/28 @18:23:10
+NOW: 2023/5/28 @18:23:11
+NOW: 2023/5/28 @18:23:12
+NOW: 2023/5/28 @18:23:13
+NOW: 2023/5/28 @18:23:14
+NOW: 2023/5/28 @18:23:15
+NOW: 2023/5/28 @18:23:16
+NOW: 2023/5/28 @18:23:17
+NOW: 2023/5/28 @18:23:18
+NOW: 2023/5/28 @18:23:19
+NOW: 2023/5/28 @18:23:20
+NOW: 2023/5/28 @18:23:21
+NOW: 2023/5/28 @18:23:22
+NOW: 2023/5/28 @18:23:23
+NOW: 2023/5/28 @18:23:24
+NOW: 2023/5/28 @18:23:25
+NOW: 2023/5/28 @18:23:26
+NOW: 2023/5/28 @18:23:27
+NOW: 2023/5/28 @18:23:28
+NOW: 2023/5/28 @18:23:29
+NOW: 2023/5/28 @18:23:30
+NOW: 2023/5/28 @18:23:31
+NOW: 2023/5/28 @18:23:32
+NOW: 2023/5/28 @18:23:33
+NOW: 2023/5/28 @18:23:34
+NOW: 2023/5/28 @18:23:35
+NOW: 2023/5/28 @18:23:36
+NOW: 2023/5/28 @18:23:37
+NOW: 2023/5/28 @18:23:38
+NOW: 2023/5/28 @18:23:39
+NOW: 2023/5/28 @18:23:40
+NOW: 2023/5/28 @18:23:41
+NOW: 2023/5/28 @18:23:42
+NOW: 2023/5/28 @18:23:43
+NOW: 2023/5/28 @18:23:44
+NOW: 2023/5/28 @18:23:45
+NOW: 2023/5/28 @18:23:46
+NOW: 2023/5/28 @18:23:47
+NOW: 2023/5/28 @18:23:48
+NOW: 2023/5/28 @18:23:49
+NOW: 2023/5/28 @18:23:50
+NOW: 2023/5/28 @18:23:51
+NOW: 2023/5/28 @18:23:52
+NOW: 2023/5/28 @18:23:53
+NOW: 2023/5/28 @18:23:54
+NOW: 2023/5/28 @18:23:55
+NOW: 2023/5/28 @18:23:56
+NOW: 2023/5/28 @18:23:57
+NOW: 2023/5/28 @18:23:58
+NOW: 2023/5/28 @18:23:59
+NOW: 2023/5/28 @18:24:0
+NOW: 2023/5/28 @18:24:1
+NOW: 2023/5/28 @18:24:2
+NOW: 2023/5/28 @18:24:3
+NOW: 2023/5/28 @18:24:4
+NOW: 2023/5/28 @18:24:5
+NOW: 2023/5/28 @18:24:6
+NOW: 2023/5/28 @18:24:7
+NOW: 2023/5/28 @18:24:8
+NOW: 2023/5/28 @18:24:9
+NOW: 2023/5/28 @18:24:10
+NOW: 2023/5/28 @18:24:11
+NOW: 2023/5/28 @18:24:12
+NOW: 2023/5/28 @18:24:13
+NOW: 2023/5/28 @18:24:14
+NOW: 2023/5/28 @18:24:15
+NOW: 2023/5/28 @18:24:16
+NOW: 2023/5/28 @18:24:17
+NOW: 2023/5/28 @18:24:18
+NOW: 2023/5/28 @18:24:19
+NOW: 2023/5/28 @18:24:20
+NOW: 2023/5/28 @18:24:21
+NOW: 2023/5/28 @18:24:22
+NOW: 2023/5/28 @18:24:23
+NOW: 2023/5/28 @18:24:24
+NOW: 2023/5/28 @18:24:25
+NOW: 2023/5/28 @18:24:26
+NOW: 2023/5/28 @18:24:27
+NOW: 2023/5/28 @18:24:28
+NOW: 2023/5/28 @18:24:29
+NOW: 2023/5/28 @18:24:30
+NOW: 2023/5/28 @18:24:31
+NOW: 2023/5/28 @18:24:32
+NOW: 2023/5/28 @18:24:33
+NOW: 2023/5/28 @18:24:34
+NOW: 2023/5/28 @18:24:35
+NOW: 2023/5/28 @18:24:36
+NOW: 2023/5/28 @18:24:37
+NOW: 2023/5/28 @18:24:38
+NOW: 2023/5/28 @18:24:39
+NOW: 2023/5/28 @18:24:40
+NOW: 2023/5/28 @18:24:41
+NOW: 2023/5/28 @18:24:42
+NOW: 2023/5/28 @18:24:43
+NOW: 2023/5/28 @18:24:44
+NOW: 2023/5/28 @18:24:45
+NOW: 2023/5/28 @18:24:46
+NOW: 2023/5/28 @18:24:47
+NOW: 2023/5/28 @18:24:48
+NOW: 2023/5/28 @18:24:49
+NOW: 2023/5/28 @18:24:50
+NOW: 2023/5/28 @18:24:51
+NOW: 2023/5/28 @18:24:52
+NOW: 2023/5/28 @18:24:53
+NOW: 2023/5/28 @18:24:54
+NOW: 2023/5/28 @18:24:55
+NOW: 2023/5/28 @18:24:56
+NOW: 2023/5/28 @18:24:57
+NOW: 2023/5/28 @18:24:58
+NOW: 2023/5/28 @18:24:59
+NOW: 2023/5/28 @18:25:0
+NOW: 2023/5/28 @18:25:1
+NOW: 2023/5/28 @18:25:2
+NOW: 2023/5/28 @18:25:3
+NOW: 2023/5/28 @18:25:4
+NOW: 2023/5/28 @18:25:5
+NOW: 2023/5/28 @18:25:6
+NOW: 2023/5/28 @18:25:7
+NOW: 2023/5/28 @18:25:8
+NOW: 2023/5/28 @18:25:9
+NOW: 2023/5/28 @18:25:10
+NOW: 2023/5/28 @18:25:11
+NOW: 2023/5/28 @18:25:12
+NOW: 2023/5/28 @18:25:13
+NOW: 2023/5/28 @18:25:14
+NOW: 2023/5/28 @18:25:15
+NOW: 2023/5/28 @18:25:16
+NOW: 2023/5/28 @18:25:17
+NOW: 2023/5/28 @18:25:18
+NOW: 2023/5/28 @18:25:19
+NOW: 2023/5/28 @18:25:20
+NOW: 2023/5/28 @18:25:21
+NOW: 2023/5/28 @18:25:22
+NOW: 2023/5/28 @18:25:23
+NOW: 2023/5/28 @18:25:24
+NOW: 2023/5/28 @18:25:25
+NOW: 2023/5/28 @18:25:26
+NOW: 2023/5/28 @18:25:27
+NOW: 2023/5/28 @18:25:28
+NOW: 2023/5/28 @18:25:29
+NOW: 2023/5/28 @18:25:30
+NOW: 2023/5/28 @18:25:31
+NOW: 2023/5/28 @18:25:32
+NOW: 2023/5/28 @18:25:33
+NOW: 2023/5/28 @18:25:34
+NOW: 2023/5/28 @18:25:35
+NOW: 2023/5/28 @18:25:36
+NOW: 2023/5/28 @18:25:37
+NOW: 2023/5/28 @18:25:38
+NOW: 2023/5/28 @18:25:39
+NOW: 2023/5/28 @18:25:40
+NOW: 2023/5/28 @18:25:41
+NOW: 2023/5/28 @18:25:42
+NOW: 2023/5/28 @18:25:43
+NOW: 2023/5/28 @18:25:44
+NOW: 2023/5/28 @18:25:45
+NOW: 2023/5/28 @18:25:46
+NOW: 2023/5/28 @18:25:47
+NOW: 2023/5/28 @18:25:48
+NOW: 2023/5/28 @18:25:49
+NOW: 2023/5/28 @18:25:50
+NOW: 2023/5/28 @18:25:51
+NOW: 2023/5/28 @18:25:52
+NOW: 2023/5/28 @18:25:53
+NOW: 2023/5/28 @18:25:54
+NOW: 2023/5/28 @18:25:55
+NOW: 2023/5/28 @18:25:56
+NOW: 2023/5/28 @18:25:57
+NOW: 2023/5/28 @18:25:58
+NOW: 2023/5/28 @18:25:59
+NOW: 2023/5/28 @18:26:0
+NOW: 2023/5/28 @18:26:1
+NOW: 2023/5/28 @18:26:2
+NOW: 2023/5/28 @18:26:3
+NOW: 2023/5/28 @18:26:4
+NOW: 2023/5/28 @18:26:5
+NOW: 2023/5/28 @18:26:6
+NOW: 2023/5/28 @18:26:7
+NOW: 2023/5/28 @18:26:8
+NOW: 2023/5/28 @18:26:9
+NOW: 2023/5/28 @18:26:10
+NOW: 2023/5/28 @18:26:11
+NOW: 2023/5/28 @18:26:12
+NOW: 2023/5/28 @18:26:13
+NOW: 2023/5/28 @18:26:14
+NOW: 2023/5/28 @18:26:15
+NOW: 2023/5/28 @18:26:16
+NOW: 2023/5/28 @18:26:17
+NOW: 2023/5/28 @18:26:18
+NOW: 2023/5/28 @18:26:19
+NOW: 2023/5/28 @18:26:20
+NOW: 2023/5/28 @18:26:21
+NOW: 2023/5/28 @18:26:22
+NOW: 2023/5/28 @18:26:23
+NOW: 2023/5/28 @18:26:24
+NOW: 2023/5/28 @18:26:25
+NOW: 2023/5/28 @18:26:26
+NOW: 2023/5/28 @18:26:27
+NOW: 2023/5/28 @18:26:28
+NOW: 2023/5/28 @18:26:29
+NOW: 2023/5/28 @18:26:30
+NOW: 2023/5/28 @18:26:31
+NOW: 2023/5/28 @18:26:32
+NOW: 2023/5/28 @18:26:33
+NOW: 2023/5/28 @18:26:34
+NOW: 2023/5/28 @18:26:35
+NOW: 2023/5/28 @18:26:36
+NOW: 2023/5/28 @18:26:37
+NOW: 2023/5/28 @18:26:38
+NOW: 2023/5/28 @18:26:39
+NOW: 2023/5/28 @18:26:40
+NOW: 2023/5/28 @18:26:41
+NOW: 2023/5/28 @18:26:42
+NOW: 2023/5/28 @18:26:43
+NOW: 2023/5/28 @18:26:44
+NOW: 2023/5/28 @18:26:45
+NOW: 2023/5/28 @18:26:46
+NOW: 2023/5/28 @18:26:47
+NOW: 2023/5/28 @18:26:48
+NOW: 2023/5/28 @18:26:49
+NOW: 2023/5/28 @18:26:50
+NOW: 2023/5/28 @18:26:51
+NOW: 2023/5/28 @18:26:52
+NOW: 2023/5/28 @18:26:53
+NOW: 2023/5/28 @18:26:54
+NOW: 2023/5/28 @18:26:55
+NOW: 2023/5/28 @18:26:56
+NOW: 2023/5/28 @18:26:57
+NOW: 2023/5/28 @18:26:58
+NOW: 2023/5/28 @18:26:59
+NOW: 2023/5/28 @18:27:0
+NOW: 2023/5/28 @18:27:1
+NOW: 2023/5/28 @18:27:2
+NOW: 2023/5/28 @18:27:3
+NOW: 2023/5/28 @18:27:4
+NOW: 2023/5/28 @18:27:5
+NOW: 2023/5/28 @18:27:6
+NOW: 2023/5/28 @18:27:7
+NOW: 2023/5/28 @18:27:8
+NOW: 2023/5/28 @18:27:9
+NOW: 2023/5/28 @18:27:10
+NOW: 2023/5/28 @18:27:11
+NOW: 2023/5/28 @18:27:12
+NOW: 2023/5/28 @18:27:13
+NOW: 2023/5/28 @18:27:14
+NOW: 2023/5/28 @18:27:15
+NOW: 2023/5/28 @18:27:16
+NOW: 2023/5/28 @18:27:17
+NOW: 2023/5/28 @18:27:18
+NOW: 2023/5/28 @18:27:19
+NOW: 2023/5/28 @18:27:20
+NOW: 2023/5/28 @18:27:21
+NOW: 2023/5/28 @18:27:22
+NOW: 2023/5/28 @18:27:23
+NOW: 2023/5/28 @18:27:24
+NOW: 2023/5/28 @18:27:25
+NOW: 2023/5/28 @18:27:26
+NOW: 2023/5/28 @18:27:27
+NOW: 2023/5/28 @18:27:28
+NOW: 2023/5/28 @18:27:29
+NOW: 2023/5/28 @18:27:30
+NOW: 2023/5/28 @18:27:31
+NOW: 2023/5/28 @18:27:32
+NOW: 2023/5/28 @18:27:33
+NOW: 2023/5/28 @18:27:34
+NOW: 2023/5/28 @18:27:35
+NOW: 2023/5/28 @18:27:36
+NOW: 2023/5/28 @18:27:37
+NOW: 2023/5/28 @18:27:38
+NOW: 2023/5/28 @18:27:39
+NOW: 2023/5/28 @18:27:40
+NOW: 2023/5/28 @18:27:41
+NOW: 2023/5/28 @18:27:42
+NOW: 2023/5/28 @18:27:43
+NOW: 2023/5/28 @18:27:44
+NOW: 2023/5/28 @18:27:45
+NOW: 2023/5/28 @18:27:46
+NOW: 2023/5/28 @18:27:47
+NOW: 2023/5/28 @18:27:48
+NOW: 2023/5/28 @18:27:49
+NOW: 2023/5/28 @18:27:50
+NOW: 2023/5/28 @18:27:51
+NOW: 2023/5/28 @18:27:52
+NOW: 2023/5/28 @18:27:53
+NOW: 2023/5/28 @18:27:54
+NOW: 2023/5/28 @18:27:55
+NOW: 2023/5/28 @18:27:56
+NOW: 2023/5/28 @18:27:57
+NOW: 2023/5/28 @18:27:58
+NOW: 2023/5/28 @18:27:59
+NOW: 2023/5/28 @18:28:0
+NOW: 2023/5/28 @18:28:1
+NOW: 2023/5/28 @18:28:2
+NOW: 2023/5/28 @18:28:3
+NOW: 2023/5/28 @18:28:4
+NOW: 2023/5/28 @18:28:5
+NOW: 2023/5/28 @18:28:6
+NOW: 2023/5/28 @18:28:7
+NOW: 2023/5/28 @18:28:8
+NOW: 2023/5/28 @18:28:9
+NOW: 2023/5/28 @18:28:10
+NOW: 2023/5/28 @18:28:11
+NOW: 2023/5/28 @18:28:12
+NOW: 2023/5/28 @18:28:13
+NOW: 2023/5/28 @18:28:14
+NOW: 2023/5/28 @18:28:15
+NOW: 2023/5/28 @18:28:16
+NOW: 2023/5/28 @18:28:17
+NOW: 2023/5/28 @18:28:18
+NOW: 2023/5/28 @18:28:19
+NOW: 2023/5/28 @18:28:20
+NOW: 2023/5/28 @18:28:21
+NOW: 2023/5/28 @18:28:22
+NOW: 2023/5/28 @18:28:23
+NOW: 2023/5/28 @18:28:24
+NOW: 2023/5/28 @18:28:25
+NOW: 2023/5/28 @18:28:26
+NOW: 2023/5/28 @18:28:27
+NOW: 2023/5/28 @18:28:28
+NOW: 2023/5/28 @18:28:29
+NOW: 2023/5/28 @18:28:30
+NOW: 2023/5/28 @18:28:31
+NOW: 2023/5/28 @18:28:32
+NOW: 2023/5/28 @18:28:33
+NOW: 2023/5/28 @18:28:34
+NOW: 2023/5/28 @18:28:35
+NOW: 2023/5/28 @18:28:36
+NOW: 2023/5/28 @18:28:37
+NOW: 2023/5/28 @18:28:38
+NOW: 2023/5/28 @18:28:39
+NOW: 2023/5/28 @18:28:40
+NOW: 2023/5/28 @18:28:41
+NOW: 2023/5/28 @18:28:42
+NOW: 2023/5/28 @18:28:43
+NOW: 2023/5/28 @18:28:44
+NOW: 2023/5/28 @18:28:45
+NOW: 2023/5/28 @18:28:46
+NOW: 2023/5/28 @18:28:47
+NOW: 2023/5/28 @18:28:48
+NOW: 2023/5/28 @18:28:49
+NOW: 2023/5/28 @18:28:50
+NOW: 2023/5/28 @18:28:51
+NOW: 2023/5/28 @18:28:52
+NOW: 2023/5/28 @18:28:53
+NOW: 2023/5/28 @18:28:54
+NOW: 2023/5/28 @18:28:55
+NOW: 2023/5/28 @18:28:56
+NOW: 2023/5/28 @18:28:57
+NOW: 2023/5/28 @18:28:58
+NOW: 2023/5/28 @18:28:59
+NOW: 2023/5/28 @18:29:0
+NOW: 2023/5/28 @18:29:1
+NOW: 2023/5/28 @18:29:2
+NOW: 2023/5/28 @18:29:3
+NOW: 2023/5/28 @18:29:4
+NOW: 2023/5/28 @18:29:5
+NOW: 2023/5/28 @18:29:6
+NOW: 2023/5/28 @18:29:7
+NOW: 2023/5/28 @18:29:8
+NOW: 2023/5/28 @18:29:9
+NOW: 2023/5/28 @18:29:10
+NOW: 2023/5/28 @18:29:11
+NOW: 2023/5/28 @18:29:12
+NOW: 2023/5/28 @18:29:13
+NOW: 2023/5/28 @18:29:14
+NOW: 2023/5/28 @18:29:15
+NOW: 2023/5/28 @18:29:16
+NOW: 2023/5/28 @18:29:17
+NOW: 2023/5/28 @18:29:18
+NOW: 2023/5/28 @18:29:19
+NOW: 2023/5/28 @18:29:20
+NOW: 2023/5/28 @18:29:21
+NOW: 2023/5/28 @18:29:22
+NOW: 2023/5/28 @18:29:23
+NOW: 2023/5/28 @18:29:24
+NOW: 2023/5/28 @18:29:25
+NOW: 2023/5/28 @18:29:26
+NOW: 2023/5/28 @18:29:27
+NOW: 2023/5/28 @18:29:28
+NOW: 2023/5/28 @18:29:29
+NOW: 2023/5/28 @18:29:30
+NOW: 2023/5/28 @18:29:31
+NOW: 2023/5/28 @18:29:32
+NOW: 2023/5/28 @18:29:33
+NOW: 2023/5/28 @18:29:34
+NOW: 2023/5/28 @18:29:35
+NOW: 2023/5/28 @18:29:36
+NOW: 2023/5/28 @18:29:37
+NOW: 2023/5/28 @18:29:38
+NOW: 2023/5/28 @18:29:39
+NOW: 2023/5/28 @18:29:40
+NOW: 2023/5/28 @18:29:41
+NOW: 2023/5/28 @18:29:42
+NOW: 2023/5/28 @18:29:43
+NOW: 2023/5/28 @18:29:44
+NOW: 2023/5/28 @18:29:45
+NOW: 2023/5/28 @18:29:46
+NOW: 2023/5/28 @18:29:47
+NOW: 2023/5/28 @18:29:48
+NOW: 2023/5/28 @18:29:49
+NOW: 2023/5/28 @18:29:50
+NOW: 2023/5/28 @18:29:51
+NOW: 2023/5/28 @18:29:52
+NOW: 2023/5/28 @18:29:53
+NOW: 2023/5/28 @18:29:54
+NOW: 2023/5/28 @18:29:55
+NOW: 2023/5/28 @18:29:56
+NOW: 2023/5/28 @18:29:57
+NOW: 2023/5/28 @18:29:58
+NOW: 2023/5/28 @18:29:59
+NOW: 2023/5/28 @18:30:0
+NOW: 2023/5/28 @18:30:1
+NOW: 2023/5/28 @18:30:2
+NOW: 2023/5/28 @18:30:3
+NOW: 2023/5/28 @18:30:4
+NOW: 2023/5/28 @18:30:5
+NOW: 2023/5/28 @18:30:6
+NOW: 2023/5/28 @18:30:7
+NOW: 2023/5/28 @18:30:8
+NOW: 2023/5/28 @18:30:9
+NOW: 2023/5/28 @18:30:10
+NOW: 2023/5/28 @18:30:11
+NOW: 2023/5/28 @18:30:12
+NOW: 2023/5/28 @18:30:13
+NOW: 2023/5/28 @18:30:14
+NOW: 2023/5/28 @18:30:15
+NOW: 2023/5/28 @18:30:16
+NOW: 2023/5/28 @18:30:17
+NOW: 2023/5/28 @18:30:18
+NOW: 2023/5/28 @18:30:19
+NOW: 2023/5/28 @18:30:20
+NOW: 2023/5/28 @18:30:21
+NOW: 2023/5/28 @18:30:22
+NOW: 2023/5/28 @18:30:23
+NOW: 2023/5/28 @18:30:24
+NOW: 2023/5/28 @18:30:25
+NOW: 2023/5/28 @18:30:26
+NOW: 2023/5/28 @18:30:27
+NOW: 2023/5/28 @18:30:28
+NOW: 2023/5/28 @18:30:29
+NOW: 2023/5/28 @18:30:30
+NOW: 2023/5/28 @18:30:31
+NOW: 2023/5/28 @18:30:32
+NOW: 2023/5/28 @18:30:33
+NOW: 2023/5/28 @18:30:34
+NOW: 2023/5/28 @18:30:35
+NOW: 2023/5/28 @18:30:36
+NOW: 2023/5/28 @18:30:37
+NOW: 2023/5/28 @18:30:38
+NOW: 2023/5/28 @18:30:39
+NOW: 2023/5/28 @18:30:40
+NOW: 2023/5/28 @18:30:41
+NOW: 2023/5/28 @18:30:42
+NOW: 2023/5/28 @18:30:43
+NOW: 2023/5/28 @18:30:44
+NOW: 2023/5/28 @18:30:45
+NOW: 2023/5/28 @18:30:46
+NOW: 2023/5/28 @18:30:47
+NOW: 2023/5/28 @18:30:48
+NOW: 2023/5/28 @18:30:49
+NOW: 2023/5/28 @18:30:50
+NOW: 2023/5/28 @18:30:51
+NOW: 2023/5/28 @18:30:52
+NOW: 2023/5/28 @18:30:53
+NOW: 2023/5/28 @18:30:54
+NOW: 2023/5/28 @18:30:55
+NOW: 2023/5/28 @18:30:56
+NOW: 2023/5/28 @18:30:57
+NOW: 2023/5/28 @18:30:58
+NOW: 2023/5/28 @18:30:59
+NOW: 2023/5/28 @18:31:0
+NOW: 2023/5/28 @18:31:1
+NOW: 2023/5/28 @18:31:2
+NOW: 2023/5/28 @18:31:3
+NOW: 2023/5/28 @18:31:4
+NOW: 2023/5/28 @18:31:5
+NOW: 2023/5/28 @18:31:6
+NOW: 2023/5/28 @18:31:7
+NOW: 2023/5/28 @18:31:8
+NOW: 2023/5/28 @18:31:9
+NOW: 2023/5/28 @18:31:10
+NOW: 2023/5/28 @18:31:11
+NOW: 2023/5/28 @18:31:12
+NOW: 2023/5/28 @18:31:13
+NOW: 2023/5/28 @18:31:14
+NOW: 2023/5/28 @18:31:15
+NOW: 2023/5/28 @18:31:16
+NOW: 2023/5/28 @18:31:17
+NOW: 2023/5/28 @18:31:18
+NOW: 2023/5/28 @18:31:19
+NOW: 2023/5/28 @18:31:20
+NOW: 2023/5/28 @18:31:21
+NOW: 2023/5/28 @18:31:22
+NOW: 2023/5/28 @18:31:23
+NOW: 2023/5/28 @18:31:24
+NOW: 2023/5/28 @18:31:25
+NOW: 2023/5/28 @18:31:26
+NOW: 2023/5/28 @18:31:27
+NOW: 2023/5/28 @18:31:28
+NOW: 2023/5/28 @18:31:29
+NOW: 2023/5/28 @18:31:30
+NOW: 2023/5/28 @18:31:31
+NOW: 2023/5/28 @18:31:32
+NOW: 2023/5/28 @18:31:33
+NOW: 2023/5/28 @18:31:34
+NOW: 2023/5/28 @18:31:35
+NOW: 2023/5/28 @18:31:36
+NOW: 2023/5/28 @18:31:37
+NOW: 2023/5/28 @18:31:38
+NOW: 2023/5/28 @18:31:39
+NOW: 2023/5/28 @18:31:40
+NOW: 2023/5/28 @18:31:41
+NOW: 2023/5/28 @18:31:42
+NOW: 2023/5/28 @18:31:43
+NOW: 2023/5/28 @18:31:44
+NOW: 2023/5/28 @18:31:45
+NOW: 2023/5/28 @18:31:46
+NOW: 2023/5/28 @18:31:47
+NOW: 2023/5/28 @18:31:48
+NOW: 2023/5/28 @18:31:49
+NOW: 2023/5/28 @18:31:50
+NOW: 2023/5/28 @18:31:51
+NOW: 2023/5/28 @18:31:52
+NOW: 2023/5/28 @18:31:53
+NOW: 2023/5/28 @18:31:54
+NOW: 2023/5/28 @18:31:55
+NOW: 2023/5/28 @18:31:56
+NOW: 2023/5/28 @18:31:57
+NOW: 2023/5/28 @18:31:58
+NOW: 2023/5/28 @18:31:59
+NOW: 2023/5/28 @18:32:0
+NOW: 2023/5/28 @18:32:1
+NOW: 2023/5/28 @18:32:2
+NOW: 2023/5/28 @18:32:3
+NOW: 2023/5/28 @18:32:4
+NOW: 2023/5/28 @18:32:5
+NOW: 2023/5/28 @18:32:6
+NOW: 2023/5/28 @18:32:7
+NOW: 2023/5/28 @18:32:8
+NOW: 2023/5/28 @18:32:9
+NOW: 2023/5/28 @18:32:10
+NOW: 2023/5/28 @18:32:11
+NOW: 2023/5/28 @18:32:12
+NOW: 2023/5/28 @18:32:13
+NOW: 2023/5/28 @18:32:14
+NOW: 2023/5/28 @18:32:15
+NOW: 2023/5/28 @18:32:16
+NOW: 2023/5/28 @18:32:17
+NOW: 2023/5/28 @18:32:18
+NOW: 2023/5/28 @18:32:19
+NOW: 2023/5/28 @18:32:20
+NOW: 2023/5/28 @18:32:21
+NOW: 2023/5/28 @18:32:22
+NOW: 2023/5/28 @18:32:23
+NOW: 2023/5/28 @18:32:24
+NOW: 2023/5/28 @18:32:25
+NOW: 2023/5/28 @18:32:26
+NOW: 2023/5/28 @18:32:27
+NOW: 2023/5/28 @18:32:28
+NOW: 2023/5/28 @18:32:29
+NOW: 2023/5/28 @18:32:30
+NOW: 2023/5/28 @18:32:31
+NOW: 2023/5/28 @18:32:32
+NOW: 2023/5/28 @18:32:33
+NOW: 2023/5/28 @18:32:34
+NOW: 2023/5/28 @18:32:35
+NOW: 2023/5/28 @18:32:36
+NOW: 2023/5/28 @18:32:37
+NOW: 2023/5/28 @18:32:38
+NOW: 2023/5/28 @18:32:39
+NOW: 2023/5/28 @18:32:40
+NOW: 2023/5/28 @18:32:41
+NOW: 2023/5/28 @18:32:42
+NOW: 2023/5/28 @18:32:43
+NOW: 2023/5/28 @18:32:44
+NOW: 2023/5/28 @18:32:45
+NOW: 2023/5/28 @18:32:46
+NOW: 2023/5/28 @18:32:47
+NOW: 2023/5/28 @18:32:48
+NOW: 2023/5/28 @18:32:49
+NOW: 2023/5/28 @18:32:50
+NOW: 2023/5/28 @18:32:51
+NOW: 2023/5/28 @18:32:52
+NOW: 2023/5/28 @18:32:53
+NOW: 2023/5/28 @18:32:54
+NOW: 2023/5/28 @18:32:55
+NOW: 2023/5/28 @18:32:56
+NOW: 2023/5/28 @18:32:57
+NOW: 2023/5/28 @18:32:58
+NOW: 2023/5/28 @18:32:59
+NOW: 2023/5/28 @18:33:0
+NOW: 2023/5/28 @18:33:1
+NOW: 2023/5/28 @18:33:2
+NOW: 2023/5/28 @18:33:3
+NOW: 2023/5/28 @18:33:4
+NOW: 2023/5/28 @18:33:5
+NOW: 2023/5/28 @18:33:6
+NOW: 2023/5/28 @18:33:7
+NOW: 2023/5/28 @18:33:8
+NOW: 2023/5/28 @18:33:9
+NOW: 2023/5/28 @18:33:10
+NOW: 2023/5/28 @18:33:11
+NOW: 2023/5/28 @18:33:12
+NOW: 2023/5/28 @18:33:13
+NOW: 2023/5/28 @18:33:14
+NOW: 2023/5/28 @18:33:15
+NOW: 2023/5/28 @18:33:16
+NOW: 2023/5/28 @18:33:17
+NOW: 2023/5/28 @18:33:18
+NOW: 2023/5/28 @18:33:19
+NOW: 2023/5/28 @18:33:20
+NOW: 2023/5/28 @18:33:21
+NOW: 2023/5/28 @18:33:22
+NOW: 2023/5/28 @18:33:23
+NOW: 2023/5/28 @18:33:24
+NOW: 2023/5/28 @18:33:25
+NOW: 2023/5/28 @18:33:26
+NOW: 2023/5/28 @18:33:27
+NOW: 2023/5/28 @18:33:28
+NOW: 2023/5/28 @18:33:29
+NOW: 2023/5/28 @18:33:30
+NOW: 2023/5/28 @18:33:31
+NOW: 2023/5/28 @18:33:32
+NOW: 2023/5/28 @18:33:33
+NOW: 2023/5/28 @18:33:34
+NOW: 2023/5/28 @18:33:35
+NOW: 2023/5/28 @18:33:36
+NOW: 2023/5/28 @18:33:37
+NOW: 2023/5/28 @18:33:38
+NOW: 2023/5/28 @18:33:39
+NOW: 2023/5/28 @18:33:40
+NOW: 2023/5/28 @18:33:41
+NOW: 2023/5/28 @18:33:42
+NOW: 2023/5/28 @18:33:43
+NOW: 2023/5/28 @18:33:44
+NOW: 2023/5/28 @18:33:45
+NOW: 2023/5/28 @18:33:46
+NOW: 2023/5/28 @18:33:47
+NOW: 2023/5/28 @18:33:48
+NOW: 2023/5/28 @18:33:49
+NOW: 2023/5/28 @18:33:50
+NOW: 2023/5/28 @18:33:51
+NOW: 2023/5/28 @18:33:52
+NOW: 2023/5/28 @18:33:53
+NOW: 2023/5/28 @18:33:54
+NOW: 2023/5/28 @18:33:55
+NOW: 2023/5/28 @18:33:56
+NOW: 2023/5/28 @18:33:57
+NOW: 2023/5/28 @18:33:58
+NOW: 2023/5/28 @18:33:59
+NOW: 2023/5/28 @18:34:0
+NOW: 2023/5/28 @18:34:1
+NOW: 2023/5/28 @18:34:2
+NOW: 2023/5/28 @18:34:3
+NOW: 2023/5/28 @18:34:4
+NOW: 2023/5/28 @18:34:5
+NOW: 2023/5/28 @18:34:6
+NOW: 2023/5/28 @18:34:7
+NOW: 2023/5/28 @18:34:8
+NOW: 2023/5/28 @18:34:9
+NOW: 2023/5/28 @18:34:10
+NOW: 2023/5/28 @18:34:11
+NOW: 2023/5/28 @18:34:12
+NOW: 2023/5/28 @18:34:13
+NOW: 2023/5/28 @18:34:14
+NOW: 2023/5/28 @18:34:15
+NOW: 2023/5/28 @18:34:16
+NOW: 2023/5/28 @18:34:17
+NOW: 2023/5/28 @18:34:18
+NOW: 2023/5/28 @18:34:19
+NOW: 2023/5/28 @18:34:20
+NOW: 2023/5/28 @18:34:21
+NOW: 2023/5/28 @18:34:22
+NOW: 2023/5/28 @18:34:23
+NOW: 2023/5/28 @18:34:24
+NOW: 2023/5/28 @18:34:25
+NOW: 2023/5/28 @18:34:26
+NOW: 2023/5/28 @18:34:27
+NOW: 2023/5/28 @18:34:28
+NOW: 2023/5/28 @18:34:29
+NOW: 2023/5/28 @18:34:30
+NOW: 2023/5/28 @18:34:31
+NOW: 2023/5/28 @18:34:32
+NOW: 2023/5/28 @18:34:33
+NOW: 2023/5/28 @18:34:34
+NOW: 2023/5/28 @18:34:35
+NOW: 2023/5/28 @18:34:36
+NOW: 2023/5/28 @18:34:37
+NOW: 2023/5/28 @18:34:38
+NOW: 2023/5/28 @18:34:39
+NOW: 2023/5/28 @18:34:40
+NOW: 2023/5/28 @18:34:41
+NOW: 2023/5/28 @18:34:42
+NOW: 2023/5/28 @18:34:43
+NOW: 2023/5/28 @18:34:44
+NOW: 2023/5/28 @18:34:45
+NOW: 2023/5/28 @18:34:46
+NOW: 2023/5/28 @18:34:47
+NOW: 2023/5/28 @18:34:48
+NOW: 2023/5/28 @18:34:49
+NOW: 2023/5/28 @18:34:50
+NOW: 2023/5/28 @18:34:51
+NOW: 2023/5/28 @18:34:52
+NOW: 2023/5/28 @18:34:53
+NOW: 2023/5/28 @18:34:54
+NOW: 2023/5/28 @18:34:55
+NOW: 2023/5/28 @18:34:56
+NOW: 2023/5/28 @18:34:57
+NOW: 2023/5/28 @18:34:58
+NOW: 2023/5/28 @18:34:59
+NOW: 2023/5/28 @18:35:0
+NOW: 2023/5/28 @18:35:1
+NOW: 2023/5/28 @18:35:2
+NOW: 2023/5/28 @18:35:3
+NOW: 2023/5/28 @18:35:4
+NOW: 2023/5/28 @18:35:5
+NOW: 2023/5/28 @18:35:6
+NOW: 2023/5/28 @18:35:7
+NOW: 2023/5/28 @18:35:8
+NOW: 2023/5/28 @18:35:9
+NOW: 2023/5/28 @18:35:10
+NOW: 2023/5/28 @18:35:11
+NOW: 2023/5/28 @18:35:12
+NOW: 2023/5/28 @18:35:13
+NOW: 2023/5/28 @18:35:14
+NOW: 2023/5/28 @18:35:15
+NOW: 2023/5/28 @18:35:16
+NOW: 2023/5/28 @18:35:17
+NOW: 2023/5/28 @18:35:18
+NOW: 2023/5/28 @18:35:19
+NOW: 2023/5/28 @18:35:20
+NOW: 2023/5/28 @18:35:21
+NOW: 2023/5/28 @18:35:22
+NOW: 2023/5/28 @18:35:23
+NOW: 2023/5/28 @18:35:24
+NOW: 2023/5/28 @18:35:25
+NOW: 2023/5/28 @18:35:26
+NOW: 2023/5/28 @18:35:27
+NOW: 2023/5/28 @18:35:28
+NOW: 2023/5/28 @18:35:29
+NOW: 2023/5/28 @18:35:30
+NOW: 2023/5/28 @18:35:31
+NOW: 2023/5/28 @18:35:32
+NOW: 2023/5/28 @18:35:33
+NOW: 2023/5/28 @18:35:34
+NOW: 2023/5/28 @18:35:35
+NOW: 2023/5/28 @18:35:36
+NOW: 2023/5/28 @18:35:37
+NOW: 2023/5/28 @18:35:38
