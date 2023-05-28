@@ -55,6 +55,7 @@ extern Sprite *back_anim4;
 extern int gameplayCounter;
 extern bool is_processing; 
 extern uint8_t scancode; 
+extern MenuState to_help;
 
 void process_button1(Sprite *cards, int size)
 {
@@ -339,6 +340,7 @@ void draw_game_menu()
     }
     if (matrix[0][0].block == true && matrix[0][1].block == true && matrix[1][0].block == true && matrix[1][1].block == true)
     {
+        to_help = menuState;
         menuState = END;
     }
      if(scancode == R_KEY){

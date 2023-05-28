@@ -62,6 +62,7 @@ Sprite *player_2_xpm;
 Sprite *player_1_menu; 
 Sprite *player_2_menu;
 
+
 int timer_interrupts = 0;
 
 void start_sprites()

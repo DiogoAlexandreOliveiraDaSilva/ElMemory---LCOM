@@ -69,10 +69,14 @@ extern Sprite *player_1_xpm;
 extern Sprite *player_2_xpm;
 extern Sprite *player_1_menu;
 extern Sprite *player_2_menu;
+extern int pre;
+extern int pre1; 
+extern int pre2;
 int animationFrame = 0;
 bool isAnimating = false;
 int chosen;
 extern int gameplayCounter;
+MenuState to_help;
 
 Sprite **alloc_matrix(int n, int m)
 {
@@ -126,6 +130,7 @@ void draw_new_fb()
         mouse_info_s.left_click = 0;
         break;
     case GAME_2P:
+        pre = 0;
         draw_game_menu_2_2();
         mouse_info_s.left_click = 0;
         break;
@@ -563,12 +568,16 @@ void draw_finish_menu()
     printf("The value of player_1 is %d\n", player_1);
     printf("The value of player_2 is %d\n", player_2);
     memset(drawing_frame_buf, 0, mode_info.XResolution * mode_info.YResolution * mode_info.BitsPerPixel / 8);
- 
+        if(to_help == GAME || to_help == GAME_2 || to_help == GAME_3)
+        {
+            draw_xpm(player_1_menu,mode_info.XResolution / 3, 0); 
+        }
+        else if(to_help == GAME_2P || to_help == GAME_4_2P || to_help == GAME_8_2P){
         draw_xpm(player_1_xpm, 0, 0);
         draw_xpm(&final[player_1], mode_info.XResolution / 2, 0);
 
         draw_xpm(player_2_xpm, 0, mode_info.YResolution / 2);
-        draw_xpm(&final[player_2], mode_info.XResolution / 2, mode_info.YResolution / 2);
+        draw_xpm(&final[player_2], mode_info.XResolution / 2, mode_info.YResolution / 2);}
 }
 
 void draw_mouse()

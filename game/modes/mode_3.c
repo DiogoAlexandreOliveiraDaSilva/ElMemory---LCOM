@@ -69,6 +69,7 @@ extern Sprite *back_anim3;
 extern Sprite *back_anim4;
 extern int gameplayCounter;
 extern bool is_processing; 
+extern MenuState to_help;
 
 void process_deck1()
 {
@@ -1139,6 +1140,7 @@ void draw_game_menu_3()
     }
     if (matrix[0][0].block == true && matrix[0][1].block == true && matrix[0][2].block == true && matrix[0][3].block == true && matrix[1][0].block == true && matrix[1][1].block == true && matrix[1][2].block == true && matrix[1][3].block == true && matrix[2][0].block == true && matrix[2][1].block == true && matrix[2][2].block == true && matrix[2][3].block == true && matrix[3][0].block == true && matrix[3][1].block == true && matrix[3][2].block == true && matrix[3][3].block == true)
     {
+        to_help = menuState;
         menuState = END;
     }
 
