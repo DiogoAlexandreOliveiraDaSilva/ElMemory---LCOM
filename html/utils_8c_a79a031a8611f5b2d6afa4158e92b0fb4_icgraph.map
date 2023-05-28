@@ -8,7 +8,7 @@
 <area shape="poly" id="edge18_Node000001_Node000011" title=" " alt="" coords="1074,169,477,169,477,164,1074,164"/>
 <area shape="rect" id="Node000014" href="$group__rtc.html#ga08dd3c2627aebf3204253ed9ba0236d3" title="Reads the output from RTC registers." alt="" coords="930,280,1041,306"/>
 <area shape="poly" id="edge19_Node000001_Node000014" title=" " alt="" coords="1108,191,1004,282,1000,278,1105,187"/>
-<area shape="rect" id="Node000021" href="$timer_8c.html#a703c60b40c8c49607d6ecb6fef82d27a" title=" " alt="" coords="932,204,1039,230"/>
+<area shape="rect" id="Node000021" href="$timer_8c.html#a703c60b40c8c49607d6ecb6fef82d27a" title="Retrieves the configuration of a timer." alt="" coords="932,204,1039,230"/>
 <area shape="poly" id="edge30_Node000001_Node000021" title=" " alt="" coords="1081,187,1026,206,1024,201,1080,182"/>
 <area shape="rect" id="Node000003" href="$keyboard_8c.html#aea970a154161a35f6894898a092ed70a" title="Keyboard interrupt handler." alt="" coords="400,5,459,31"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="522,41,459,27,460,22,523,36"/>
@@ -50,7 +50,7 @@
 <area shape="rect" id="Node000020" href="$menu_8c.html#a404ce8815fe3754781e9d40671fa24bc" title="Updates the RTC frame." alt="" coords="180,304,303,330"/>
 <area shape="poly" id="edge27_Node000019_Node000020" title=" " alt="" coords="532,365,369,346,300,333,301,328,369,341,533,360"/>
 <area shape="poly" id="edge28_Node000020_Node000005" title=" " alt="" coords="211,296,75,181,78,177,215,292"/>
-<area shape="rect" id="Node000022" href="$timer_8c.html#af2c04fa8e97ffa748fd3f612886a92a7" title=" " alt="" coords="739,204,877,230"/>
+<area shape="rect" id="Node000022" href="$timer_8c.html#af2c04fa8e97ffa748fd3f612886a92a7" title="Sets the frequency of a timer." alt="" coords="739,204,877,230"/>
 <area shape="poly" id="edge31_Node000021_Node000022" title=" " alt="" coords="917,220,877,220,877,214,917,214"/>
 <area shape="poly" id="edge32_Node000022_Node000012" title=" " alt="" coords="724,220,268,220,268,214,724,214"/>
 </map>

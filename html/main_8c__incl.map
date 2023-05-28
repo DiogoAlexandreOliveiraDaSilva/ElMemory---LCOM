@@ -1,8 +1,8 @@
 <map id="main.c" name="main.c">
-<area shape="rect" id="Node000001" title="Functions for the game mode 1 for 1 player." alt="" coords="5953,5,6012,31"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5953,5,6012,31"/>
 <area shape="rect" id="Node000002" title=" " alt="" coords="5617,389,5695,414"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="5985,32,5983,61,5976,101,5961,143,5950,163,5935,180,5919,193,5903,201,5873,208,5842,213,5808,229,5782,249,5764,268,5727,317,5676,379,5672,375,5723,313,5760,265,5778,245,5805,224,5840,208,5872,203,5901,196,5916,189,5931,176,5945,160,5956,141,5971,100,5978,61,5980,31"/>
-<area shape="rect" id="Node000003" href="$timer_8h.html" title=" " alt="" coords="5223,234,5374,260"/>
+<area shape="rect" id="Node000003" href="$timer_8h.html" title="Timer handling functions." alt="" coords="5223,234,5374,260"/>
 <area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="5952,22,4889,28,2975,49,1984,66,1123,89,777,103,507,118,326,136,274,145,251,155,246,166,251,176,305,184,448,192,948,205,1661,216,2493,225,4156,237,5209,242,5209,248,4156,243,2493,231,1660,222,948,210,448,197,305,189,248,180,241,166,247,151,273,140,326,131,506,113,777,97,1123,83,1984,60,2975,43,4889,23,5952,17"/>
 <area shape="rect" id="Node000006" href="$graphics_8h.html" title="Header file for graphic functions." alt="" coords="6084,315,6257,341"/>
 <area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="6013,19,6061,24,6122,34,6188,51,6252,77,6302,105,6339,134,6365,172,6386,225,6393,247,6392,258,6386,269,6367,283,6338,296,6266,314,6264,309,6337,290,6365,279,6382,265,6387,256,6387,248,6381,227,6361,175,6335,138,6299,109,6249,81,6186,56,6121,39,6060,29,6012,24"/>
@@ -14,7 +14,7 @@
 <area shape="poly" id="edge28_Node000001_Node000014" title=" " alt="" coords="5981,33,5950,111,5929,153,5908,180,5880,200,5854,211,5829,217,5804,220,5752,221,5688,229,5673,233,5672,227,5687,224,5752,216,5804,215,5828,212,5852,206,5877,195,5905,176,5924,150,5945,109,5976,31"/>
 <area shape="rect" id="Node000015" href="$menu_8h.html" title="Header file containing declarations for menu functions and types." alt="" coords="3714,79,3856,105"/>
 <area shape="poly" id="edge31_Node000001_Node000015" title=" " alt="" coords="5952,23,3871,90,3871,85,5952,18"/>
-<area shape="rect" id="Node000016" href="$game_8h.html" title=" " alt="" coords="6070,153,6170,178"/>
+<area shape="rect" id="Node000016" href="$game_8h.html" title="Header file containing function declarations for the menu module." alt="" coords="6070,153,6170,178"/>
 <area shape="poly" id="edge82_Node000001_Node000016" title=" " alt="" coords="5996,30,6101,140,6097,144,5992,33"/>
 <area shape="rect" id="Node000017" href="$config_8h.html" title=" " alt="" coords="6306,234,6371,260"/>
 <area shape="poly" id="edge83_Node000001_Node000017" title=" " alt="" coords="6013,20,6076,31,6156,53,6198,71,6239,92,6277,119,6310,151,6329,185,6338,219,6333,220,6324,187,6306,154,6274,123,6237,97,6196,75,6154,59,6074,36,6012,25"/>

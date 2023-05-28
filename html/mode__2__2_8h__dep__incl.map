@@ -1,13 +1,13 @@
 <map id="game/modes/mode_2_2.h" name="game/modes/mode_2_2.h">
 <area shape="rect" id="Node000001" title=" " alt="" coords="576,5,746,31"/>
-<area shape="rect" id="Node000002" href="$game_8h.html" title=" " alt="" coords="533,79,632,105"/>
+<area shape="rect" id="Node000002" href="$game_8h.html" title="Header file containing function declarations for the menu module." alt="" coords="533,79,632,105"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="631,42,590,81,587,77,628,38"/>
-<area shape="rect" id="Node000017" href="$mode__2__2_8c.html" title=" " alt="" coords="656,79,826,105"/>
+<area shape="rect" id="Node000017" href="$mode__2__2_8c.html" title="Functions for the game mode 1 for 2 players." alt="" coords="656,79,826,105"/>
 <area shape="poly" id="edge31_Node000001_Node000017" title=" " alt="" coords="687,39,729,77,726,81,683,43"/>
 <area shape="poly" id="edge27_Node000002_Node000001" title=" " alt="" coords="612,68,653,29,657,33,615,72"/>
 <area shape="rect" id="Node000003" href="$game_8c.html" title=" " alt="" coords="381,226,480,252"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="561,117,445,228,441,224,558,113"/>
-<area shape="rect" id="Node000004" href="$menu_8c.html" title="Functions for the game mode 2 for 1 player." alt="" coords="1143,226,1285,252"/>
+<area shape="rect" id="Node000004" href="$menu_8c.html" title=" " alt="" coords="1143,226,1285,252"/>
 <area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="647,102,805,123,873,132,959,150,1085,187,1184,223,1183,228,1083,192,958,155,872,138,804,128,646,108"/>
 <area shape="rect" id="Node000005" href="$menu_8h.html" title="Header file containing declarations for menu functions and types." alt="" coords="706,153,848,178"/>
 <area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="629,108,745,150,743,155,628,113"/>
@@ -21,7 +21,7 @@
 <area shape="poly" id="edge28_Node000002_Node000012" title=" " alt="" coords="604,113,744,224,740,228,601,117"/>
 <area shape="rect" id="Node000014" href="$mode__3__2_8h.html" title=" " alt="" coords="865,226,1035,252"/>
 <area shape="poly" id="edge29_Node000002_Node000014" title=" " alt="" coords="647,105,773,132,849,150,875,167,898,187,935,224,932,228,895,191,871,171,846,155,771,137,646,110"/>
-<area shape="rect" id="Node000016" href="$main_8c.html" title="Functions for the game mode 1 for 1 player." alt="" coords="1059,226,1119,252"/>
+<area shape="rect" id="Node000016" href="$main_8c.html" title=" " alt="" coords="1059,226,1119,252"/>
 <area shape="poly" id="edge30_Node000002_Node000016" title=" " alt="" coords="647,103,781,121,839,131,910,150,1000,187,1069,223,1067,228,998,192,908,155,837,136,780,126,646,108"/>
 <area shape="poly" id="edge16_Node000005_Node000001" title=" " alt="" coords="806,142,822,128,835,112,841,96,836,80,818,62,796,47,745,29,747,24,798,42,821,57,840,78,846,96,840,115,826,131,810,146"/>
 <area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="704,184,481,230,480,225,703,179"/>
@@ -33,18 +33,18 @@
 <area shape="poly" id="edge20_Node000005_Node000014" title=" " alt="" coords="820,182,922,223,920,228,818,187"/>
 <area shape="poly" id="edge23_Node000005_Node000016" title=" " alt="" coords="851,179,1048,224,1059,227,1058,232,1047,229,850,184"/>
 <area shape="poly" id="edge8_Node000006_Node000002" title=" " alt="" coords="144,219,545,103,547,108,146,224"/>
-<area shape="rect" id="Node000007" href="$mode__1_8c.html" title=" " alt="" coords="5,300,162,326"/>
+<area shape="rect" id="Node000007" href="$mode__1_8c.html" title="Functions for the game mode 1 for 1 player." alt="" coords="5,300,162,326"/>
 <area shape="poly" id="edge9_Node000006_Node000007" title=" " alt="" coords="86,267,86,300,81,300,81,267"/>
 <area shape="poly" id="edge11_Node000008_Node000002" title=" " alt="" coords="315,218,560,103,563,108,317,222"/>
 <area shape="rect" id="Node000009" href="$mode__1__2_8c.html" title=" " alt="" coords="186,300,357,326"/>
 <area shape="poly" id="edge12_Node000008_Node000009" title=" " alt="" coords="274,267,274,300,269,300,269,267"/>
 <area shape="poly" id="edge14_Node000010_Node000002" title=" " alt="" coords="587,211,588,155,585,105,590,105,594,155,592,211"/>
-<area shape="rect" id="Node000011" href="$mode__2_8c.html" title=" " alt="" coords="504,300,660,326"/>
+<area shape="rect" id="Node000011" href="$mode__2_8c.html" title="Functions for the game mode 2 for 1 player." alt="" coords="504,300,660,326"/>
 <area shape="poly" id="edge15_Node000010_Node000011" title=" " alt="" coords="585,267,585,300,580,300,580,267"/>
 <area shape="poly" id="edge18_Node000012_Node000002" title=" " alt="" coords="740,218,601,107,604,103,743,214"/>
-<area shape="rect" id="Node000013" href="$mode__3_8c.html" title=" " alt="" coords="684,300,840,326"/>
+<area shape="rect" id="Node000013" href="$mode__3_8c.html" title="Functions for the game mode 3 for 1 player." alt="" coords="684,300,840,326"/>
 <area shape="poly" id="edge19_Node000012_Node000013" title=" " alt="" coords="765,267,765,300,760,300,760,267"/>
 <area shape="poly" id="edge21_Node000014_Node000002" title=" " alt="" coords="939,215,910,183,870,155,778,133,632,104,633,99,779,128,873,150,913,179,943,212"/>
-<area shape="rect" id="Node000015" href="$mode__3__2_8c.html" title=" " alt="" coords="865,300,1035,326"/>
+<area shape="rect" id="Node000015" href="$mode__3__2_8c.html" title="Functions for the game mode 3 for 2 players." alt="" coords="865,300,1035,326"/>
 <area shape="poly" id="edge22_Node000014_Node000015" title=" " alt="" coords="953,267,953,300,948,300,948,267"/>
 </map>

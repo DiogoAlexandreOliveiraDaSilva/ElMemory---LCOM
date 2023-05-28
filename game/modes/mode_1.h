@@ -1,5 +1,5 @@
 /**
- * @file main.c
+ * @file mode_1.c
  * @brief Functions for the game mode 1 for 1 player.
  */
 

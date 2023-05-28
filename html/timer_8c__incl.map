@@ -4,7 +4,7 @@
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="70,33,53,54,39,80,34,115,40,151,52,185,66,212,61,215,47,187,35,153,29,115,34,78,48,51,66,30"/>
 <area shape="rect" id="Node000003" title=" " alt="" coords="49,79,112,105"/>
 <area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="83,31,83,64,78,64,78,31"/>
-<area shape="rect" id="Node000004" href="$timer_8h.html" title=" " alt="" coords="136,79,196,105"/>
+<area shape="rect" id="Node000004" href="$timer_8h.html" title="Timer handling functions." alt="" coords="136,79,196,105"/>
 <area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="97,29,142,67,139,72,93,34"/>
 <area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="151,107,128,128,107,154,94,183,86,212,81,211,89,182,102,151,124,124,148,103"/>
 <area shape="rect" id="Node000005" title=" " alt="" coords="152,226,254,252"/>

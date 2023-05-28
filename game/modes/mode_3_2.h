@@ -1,5 +1,5 @@
 /**
- * @file menu.c
+ * @file mode_3_2.c
  * @brief Functions for the game mode 3 for 2 players.
  */
 

@@ -1,6 +1,6 @@
 <map id="game/game.c" name="game/game.c">
 <area shape="rect" id="Node000001" title=" " alt="" coords="5868,5,5967,31"/>
-<area shape="rect" id="Node000002" href="$game_8h.html" title=" " alt="" coords="3532,79,3596,105"/>
+<area shape="rect" id="Node000002" href="$game_8h.html" title="Header file containing function declarations for the menu module." alt="" coords="3532,79,3596,105"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="5867,24,3611,92,3611,86,5867,18"/>
 <area shape="rect" id="Node000016" title=" " alt="" coords="3686,226,3746,252"/>
 <area shape="poly" id="edge90_Node000001_Node000016" title=" " alt="" coords="5868,27,4766,131,3761,230,3760,224,4766,125,5867,22"/>

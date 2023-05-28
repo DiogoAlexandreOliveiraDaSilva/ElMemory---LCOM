@@ -1,6 +1,6 @@
 <map id="util_get_LSB" name="util_get_LSB">
 <area shape="rect" id="Node000001" title=" " alt="" coords="449,5,546,31"/>
-<area shape="rect" id="Node000002" href="$timer_8c.html#af2c04fa8e97ffa748fd3f612886a92a7" title=" " alt="" coords="263,5,401,31"/>
+<area shape="rect" id="Node000002" href="$timer_8c.html#af2c04fa8e97ffa748fd3f612886a92a7" title="Sets the frequency of a timer." alt="" coords="263,5,401,31"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="434,21,402,21,402,16,434,16"/>
 <area shape="rect" id="Node000003" href="$main_8c.html#a099d48038e444c2f3e69904477527798" title=" " alt="" coords="162,5,215,31"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="248,21,216,21,216,16,248,16"/>

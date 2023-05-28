@@ -76,26 +76,30 @@ $(function() {
   <div class="headertitle"><div class="title">timer.h</div></div>
 </div><!--header-->
 <div class="contents">
-<a href="timer_8h.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno">    1</span><span class="preprocessor">#ifndef _LCOM_TIMER_H_</span></div>
-<div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span><span class="preprocessor">#define _LCOM_TIMER_H_</span></div>
-<div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span> </div>
-<div class="line"><a id="l00004" name="l00004"></a><span class="lineno"><a class="line" href="timer_8h.html#ae8ef8b0f9d8793777e5751c7c37bb49f">    4</a></span><span class="preprocessor">#define TIMER_BIT BIT(0)</span></div>
-<div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span> </div>
-<div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span><span class="preprocessor">#include &lt;minix/sysutil.h&gt;</span></div>
-<div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span><span class="preprocessor">#include &lt;lcom/lcf.h&gt;</span></div>
-<div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span><span class="preprocessor">#include &quot;<a class="code" href="i8254_8h.html">i8254.h</a>&quot;</span></div>
-<div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span> </div>
-<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span>int (<a class="code hl_function" href="timer_8h.html#af2c04fa8e97ffa748fd3f612886a92a7">timer_set_frequency</a>)(uint8_t timer, uint32_t freq);</div>
-<div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span>int (<a class="code hl_function" href="timer_8h.html#a74c67a2dec2c0d3d6f0cf68e89d4b14e">timer_subscribe_interrupts</a>)();</div>
-<div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span>int (<a class="code hl_function" href="timer_8h.html#a34c22ebdcbc43e47f0ad8406704d3610">timer_unsubscribe_interrupts</a>)();</div>
-<div class="line"><a id="l00013" name="l00013"></a><span class="lineno">   13</span>int (<a class="code hl_function" href="timer_8h.html#a703c60b40c8c49607d6ecb6fef82d27a">timer_get_conf</a>)(uint8_t timer, uint8_t *st);</div>
+<a href="timer_8h.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno">    1</span> </div>
+<div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span><span class="preprocessor">#ifndef _LCOM_TIMER_H_</span></div>
+<div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span><span class="preprocessor">#define _LCOM_TIMER_H_</span></div>
+<div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span> </div>
+<div class="line"><a id="l00009" name="l00009"></a><span class="lineno"><a class="line" href="timer_8h.html#ae8ef8b0f9d8793777e5751c7c37bb49f">    9</a></span><span class="preprocessor">#define TIMER_BIT BIT(0)</span></div>
+<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span> </div>
+<div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span><span class="preprocessor">#include &lt;minix/sysutil.h&gt;</span></div>
+<div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span><span class="preprocessor">#include &lt;lcom/lcf.h&gt;</span></div>
+<div class="line"><a id="l00013" name="l00013"></a><span class="lineno">   13</span><span class="preprocessor">#include &quot;<a class="code" href="i8254_8h.html">i8254.h</a>&quot;</span></div>
 <div class="line"><a id="l00014" name="l00014"></a><span class="lineno">   14</span> </div>
-<div class="line"><a id="l00015" name="l00015"></a><span class="lineno">   15</span><span class="preprocessor">#endif</span></div>
+<div class="line"><a id="l00023" name="l00023"></a><span class="lineno">   23</span>int(<a class="code hl_function" href="timer_8h.html#af2c04fa8e97ffa748fd3f612886a92a7">timer_set_frequency</a>)(uint8_t timer, uint32_t freq);</div>
+<div class="line"><a id="l00024" name="l00024"></a><span class="lineno">   24</span> </div>
+<div class="line"><a id="l00030" name="l00030"></a><span class="lineno">   30</span>int(<a class="code hl_function" href="timer_8h.html#a74c67a2dec2c0d3d6f0cf68e89d4b14e">timer_subscribe_interrupts</a>)();</div>
+<div class="line"><a id="l00031" name="l00031"></a><span class="lineno">   31</span> </div>
+<div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span>int(<a class="code hl_function" href="timer_8h.html#a34c22ebdcbc43e47f0ad8406704d3610">timer_unsubscribe_interrupts</a>)();</div>
+<div class="line"><a id="l00038" name="l00038"></a><span class="lineno">   38</span> </div>
+<div class="line"><a id="l00047" name="l00047"></a><span class="lineno">   47</span>int(<a class="code hl_function" href="timer_8h.html#a703c60b40c8c49607d6ecb6fef82d27a">timer_get_conf</a>)(uint8_t timer, uint8_t *st);</div>
+<div class="line"><a id="l00048" name="l00048"></a><span class="lineno">   48</span> </div>
+<div class="line"><a id="l00049" name="l00049"></a><span class="lineno">   49</span><span class="preprocessor">#endif</span></div>
 <div class="ttc" id="ai8254_8h_html"><div class="ttname"><a href="i8254_8h.html">i8254.h</a></div></div>
-<div class="ttc" id="atimer_8h_html_a34c22ebdcbc43e47f0ad8406704d3610"><div class="ttname"><a href="timer_8h.html#a34c22ebdcbc43e47f0ad8406704d3610">timer_unsubscribe_interrupts</a></div><div class="ttdeci">int() timer_unsubscribe_interrupts()</div><div class="ttdef"><b>Definition</b> timer.c:71</div></div>
-<div class="ttc" id="atimer_8h_html_a703c60b40c8c49607d6ecb6fef82d27a"><div class="ttname"><a href="timer_8h.html#a703c60b40c8c49607d6ecb6fef82d27a">timer_get_conf</a></div><div class="ttdeci">int() timer_get_conf(uint8_t timer, uint8_t *st)</div><div class="ttdef"><b>Definition</b> timer.c:78</div></div>
-<div class="ttc" id="atimer_8h_html_a74c67a2dec2c0d3d6f0cf68e89d4b14e"><div class="ttname"><a href="timer_8h.html#a74c67a2dec2c0d3d6f0cf68e89d4b14e">timer_subscribe_interrupts</a></div><div class="ttdeci">int() timer_subscribe_interrupts()</div><div class="ttdef"><b>Definition</b> timer.c:66</div></div>
-<div class="ttc" id="atimer_8h_html_af2c04fa8e97ffa748fd3f612886a92a7"><div class="ttname"><a href="timer_8h.html#af2c04fa8e97ffa748fd3f612886a92a7">timer_set_frequency</a></div><div class="ttdeci">int() timer_set_frequency(uint8_t timer, uint32_t freq)</div><div class="ttdef"><b>Definition</b> timer.c:8</div></div>
+<div class="ttc" id="atimer_8h_html_a34c22ebdcbc43e47f0ad8406704d3610"><div class="ttname"><a href="timer_8h.html#a34c22ebdcbc43e47f0ad8406704d3610">timer_unsubscribe_interrupts</a></div><div class="ttdeci">int() timer_unsubscribe_interrupts()</div><div class="ttdoc">Unsubscribes from timer interrupts.</div><div class="ttdef"><b>Definition</b> timer.c:71</div></div>
+<div class="ttc" id="atimer_8h_html_a703c60b40c8c49607d6ecb6fef82d27a"><div class="ttname"><a href="timer_8h.html#a703c60b40c8c49607d6ecb6fef82d27a">timer_get_conf</a></div><div class="ttdeci">int() timer_get_conf(uint8_t timer, uint8_t *st)</div><div class="ttdoc">Retrieves the configuration of a timer.</div><div class="ttdef"><b>Definition</b> timer.c:78</div></div>
+<div class="ttc" id="atimer_8h_html_a74c67a2dec2c0d3d6f0cf68e89d4b14e"><div class="ttname"><a href="timer_8h.html#a74c67a2dec2c0d3d6f0cf68e89d4b14e">timer_subscribe_interrupts</a></div><div class="ttdeci">int() timer_subscribe_interrupts()</div><div class="ttdoc">Subscribes to timer interrupts.</div><div class="ttdef"><b>Definition</b> timer.c:66</div></div>
+<div class="ttc" id="atimer_8h_html_af2c04fa8e97ffa748fd3f612886a92a7"><div class="ttname"><a href="timer_8h.html#af2c04fa8e97ffa748fd3f612886a92a7">timer_set_frequency</a></div><div class="ttdeci">int() timer_set_frequency(uint8_t timer, uint32_t freq)</div><div class="ttdoc">Sets the frequency of a timer.</div><div class="ttdef"><b>Definition</b> timer.c:8</div></div>
 </div><!-- fragment --></div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>

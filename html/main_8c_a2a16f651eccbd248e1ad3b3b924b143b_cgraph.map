@@ -89,9 +89,9 @@
 <area shape="poly" id="edge47_Node000089_Node000100" title=" " alt="" coords="252,1010,317,1138,371,1235,394,1247,419,1255,418,1260,392,1252,367,1239,312,1141,247,1013"/>
 <area shape="rect" id="Node000106" href="$menu_8c.html#ab6ac87fd3d0ffee40696dd0e80392fae" title="Initializes the sprites." alt="" coords="422,837,515,863"/>
 <area shape="poly" id="edge49_Node000089_Node000106" title=" " alt="" coords="250,983,296,929,330,898,368,872,406,857,408,862,370,877,333,902,300,933,254,987"/>
-<area shape="rect" id="Node000108" href="$timer_8c.html#af2c04fa8e97ffa748fd3f612886a92a7" title=" " alt="" coords="399,887,537,912"/>
+<area shape="rect" id="Node000108" href="$timer_8c.html#af2c04fa8e97ffa748fd3f612886a92a7" title="Sets the frequency of a timer." alt="" coords="399,887,537,912"/>
 <area shape="poly" id="edge50_Node000089_Node000108" title=" " alt="" coords="260,982,308,952,368,921,386,914,388,919,370,926,310,956,263,987"/>
-<area shape="rect" id="Node000112" href="$timer_8c.html#a74c67a2dec2c0d3d6f0cf68e89d4b14e" title=" " alt="" coords="381,936,555,962"/>
+<area shape="rect" id="Node000112" href="$timer_8c.html#a74c67a2dec2c0d3d6f0cf68e89d4b14e" title="Subscribes to timer interrupts." alt="" coords="381,936,555,962"/>
 <area shape="poly" id="edge51_Node000089_Node000112" title=" " alt="" coords="268,990,391,963,392,968,269,995"/>
 <area shape="rect" id="Node000103" href="$group__rtc.html#ga94769392d96ebee5ccce3a4a4d398f01" title="Updates the display with the current time information." alt="" coords="628,1273,758,1299"/>
 <area shape="poly" id="edge48_Node000100_Node000103" title=" " alt="" coords="504,1262,614,1275,614,1280,503,1267"/>
@@ -104,7 +104,7 @@
 <area shape="poly" id="edge55_Node000113_Node000117" title=" " alt="" coords="274,650,401,683,400,688,273,655"/>
 <area shape="rect" id="Node000118" href="$group__rtc.html#gae0e5cb47db8832528abb7dc48255cd3a" title="Unsubscribes from RTC interrupts." alt="" coords="381,739,555,764"/>
 <area shape="poly" id="edge57_Node000113_Node000118" title=" " alt="" coords="261,656,308,691,370,725,386,731,384,736,368,730,305,695,258,660"/>
-<area shape="rect" id="Node000119" href="$timer_8c.html#a34c22ebdcbc43e47f0ad8406704d3610" title=" " alt="" coords="374,525,562,551"/>
+<area shape="rect" id="Node000119" href="$timer_8c.html#a34c22ebdcbc43e47f0ad8406704d3610" title="Unsubscribes from timer interrupts." alt="" coords="374,525,562,551"/>
 <area shape="poly" id="edge58_Node000113_Node000119" title=" " alt="" coords="258,629,305,595,368,560,384,553,386,558,370,565,308,599,261,634"/>
 <area shape="poly" id="edge60_Node000120_Node000002" title=" " alt="" coords="321,288,404,288,404,294,321,293"/>
 <area shape="rect" id="Node000121" href="$keyboard_8c.html#aea970a154161a35f6894898a092ed70a" title="Keyboard interrupt handler." alt="" coords="439,229,498,255"/>

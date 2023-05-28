@@ -3,7 +3,8 @@
 {\ttfamily \#include $<$lcom/lcf.\+h$>$}\newline
 {\ttfamily \#include $<$stdint.\+h$>$}\newline
 {\ttfamily \#include \"{}timer.\+h\"{}}\newline
-Include dependency graph for timer.\+c\+:\nopagebreak
+Include dependency graph for timer.\+c\+:
+\nopagebreak
 \begin{figure}[H]
 \begin{center}
 \leavevmode
@@ -14,13 +15,13 @@ Include dependency graph for timer.\+c\+:\nopagebreak
 \begin{DoxyCompactItemize}
 \item 
 int() \mbox{\hyperlink{timer_8c_af2c04fa8e97ffa748fd3f612886a92a7}{timer\+\_\+set\+\_\+frequency}} (uint8\+\_\+t timer, uint32\+\_\+t freq)
-\item 
+\begin{DoxyCompactList}\small\item\em Sets the frequency of a timer. \end{DoxyCompactList}\item 
 int() \mbox{\hyperlink{timer_8c_a74c67a2dec2c0d3d6f0cf68e89d4b14e}{timer\+\_\+subscribe\+\_\+interrupts}} ()
-\item 
+\begin{DoxyCompactList}\small\item\em Subscribes to timer interrupts. \end{DoxyCompactList}\item 
 int() \mbox{\hyperlink{timer_8c_a34c22ebdcbc43e47f0ad8406704d3610}{timer\+\_\+unsubscribe\+\_\+interrupts}} ()
-\item 
+\begin{DoxyCompactList}\small\item\em Unsubscribes from timer interrupts. \end{DoxyCompactList}\item 
 int() \mbox{\hyperlink{timer_8c_a703c60b40c8c49607d6ecb6fef82d27a}{timer\+\_\+get\+\_\+conf}} (uint8\+\_\+t timer, uint8\+\_\+t \texorpdfstring{$\ast$}{*}st)
-\end{DoxyCompactItemize}
+\begin{DoxyCompactList}\small\item\em Retrieves the configuration of a timer. \end{DoxyCompactList}\end{DoxyCompactItemize}
 \doxysubsubsection*{Variables}
 \begin{DoxyCompactItemize}
 \item 
@@ -37,14 +38,30 @@ int \mbox{\hyperlink{timer_8c_a617a47c70795bcff659815ad0efd2266}{counter}} = 0
 \doxysubsubsection{\texorpdfstring{timer\_get\_conf()}{timer\_get\_conf()}}
 {\footnotesize\ttfamily int() timer\+\_\+get\+\_\+conf (\begin{DoxyParamCaption}\item[{uint8\+\_\+t}]{timer,  }\item[{uint8\+\_\+t \texorpdfstring{$\ast$}{*}}]{st }\end{DoxyParamCaption})}
 
-Here is the call graph for this function\+:\nopagebreak
+
+
+Retrieves the configuration of a timer. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em timer} & The timer to retrieve the configuration of (0, 1, or 2) \\
+\hline
+{\em st} & Pointer to store the timer configuration\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Return 0 upon success, non-\/zero otherwise 
+\end{DoxyReturn}
+Here is the call graph for this function\+:
+\nopagebreak
 \begin{figure}[H]
 \begin{center}
 \leavevmode
 \includegraphics[width=264pt]{timer_8c_a703c60b40c8c49607d6ecb6fef82d27a_cgraph}
 \end{center}
 \end{figure}
-Here is the caller graph for this function\+:\nopagebreak
+Here is the caller graph for this function\+:
+\nopagebreak
 \begin{figure}[H]
 \begin{center}
 \leavevmode
@@ -57,14 +74,30 @@ Here is the caller graph for this function\+:\nopagebreak
 \doxysubsubsection{\texorpdfstring{timer\_set\_frequency()}{timer\_set\_frequency()}}
 {\footnotesize\ttfamily int() timer\+\_\+set\+\_\+frequency (\begin{DoxyParamCaption}\item[{uint8\+\_\+t}]{timer,  }\item[{uint32\+\_\+t}]{freq }\end{DoxyParamCaption})}
 
-Here is the call graph for this function\+:\nopagebreak
+
+
+Sets the frequency of a timer. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em timer} & The timer to set the frequency of (0, 1, or 2) \\
+\hline
+{\em freq} & The desired frequency in Hz\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Return 0 upon success, non-\/zero otherwise 
+\end{DoxyReturn}
+Here is the call graph for this function\+:
+\nopagebreak
 \begin{figure}[H]
 \begin{center}
 \leavevmode
 \includegraphics[width=350pt]{timer_8c_af2c04fa8e97ffa748fd3f612886a92a7_cgraph}
 \end{center}
 \end{figure}
-Here is the caller graph for this function\+:\nopagebreak
+Here is the caller graph for this function\+:
+\nopagebreak
 \begin{figure}[H]
 \begin{center}
 \leavevmode
@@ -77,7 +110,15 @@ Here is the caller graph for this function\+:\nopagebreak
 \doxysubsubsection{\texorpdfstring{timer\_subscribe\_interrupts()}{timer\_subscribe\_interrupts()}}
 {\footnotesize\ttfamily int() timer\+\_\+subscribe\+\_\+interrupts (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
 
-Here is the caller graph for this function\+:\nopagebreak
+
+
+Subscribes to timer interrupts. 
+
+\begin{DoxyReturn}{Returns}
+Return 0 upon success, non-\/zero otherwise 
+\end{DoxyReturn}
+Here is the caller graph for this function\+:
+\nopagebreak
 \begin{figure}[H]
 \begin{center}
 \leavevmode
@@ -90,7 +131,15 @@ Here is the caller graph for this function\+:\nopagebreak
 \doxysubsubsection{\texorpdfstring{timer\_unsubscribe\_interrupts()}{timer\_unsubscribe\_interrupts()}}
 {\footnotesize\ttfamily int() timer\+\_\+unsubscribe\+\_\+interrupts (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
 
-Here is the caller graph for this function\+:\nopagebreak
+
+
+Unsubscribes from timer interrupts. 
+
+\begin{DoxyReturn}{Returns}
+Return 0 upon success, non-\/zero otherwise 
+\end{DoxyReturn}
+Here is the caller graph for this function\+:
+\nopagebreak
 \begin{figure}[H]
 \begin{center}
 \leavevmode

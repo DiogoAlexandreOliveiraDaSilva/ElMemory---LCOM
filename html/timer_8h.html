@@ -79,6 +79,9 @@ $(function() {
   <div class="headertitle"><div class="title">timer.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
+
+<p>Timer handling functions.  
+<a href="#details">More...</a></p>
 <div class="textblock"><code>#include &lt;minix/sysutil.h&gt;</code><br />
 <code>#include &lt;lcom/lcf.h&gt;</code><br />
 <code>#include &quot;<a class="el" href="i8254_8h_source.html">i8254.h</a>&quot;</code><br />
@@ -87,7 +90,7 @@ Include dependency graph for timer.h:</div>
 <div class="dyncontent">
 <div class="center"><img src="timer_8h__incl.png" border="0" usemap="#acontroller_2timer_2timer_8h" alt=""/></div>
 <map name="acontroller_2timer_2timer_8h" id="acontroller_2timer_2timer_8h">
-<area shape="rect" title=" " alt="" coords="44,5,194,31"/>
+<area shape="rect" title="Timer handling functions." alt="" coords="44,5,194,31"/>
 <area shape="rect" title=" " alt="" coords="5,153,108,178"/>
 <area shape="poly" title=" " alt="" coords="111,33,94,54,79,80,69,110,63,139,57,138,64,108,74,78,90,51,106,30"/>
 <area shape="rect" title=" " alt="" coords="142,153,219,178"/>
@@ -103,10 +106,10 @@ This graph shows which files directly or indirectly include this file:</div>
 <div class="dyncontent">
 <div class="center"><img src="timer_8h__dep__incl.png" border="0" usemap="#acontroller_2timer_2timer_8hdep" alt=""/></div>
 <map name="acontroller_2timer_2timer_8hdep" id="acontroller_2timer_2timer_8hdep">
-<area shape="rect" title=" " alt="" coords="69,5,220,31"/>
+<area shape="rect" title="Timer handling functions." alt="" coords="69,5,220,31"/>
 <area shape="rect" href="timer_8c.html" title=" " alt="" coords="5,79,156,105"/>
 <area shape="poly" title=" " alt="" coords="126,44,93,80,89,77,122,40"/>
-<area shape="rect" href="main_8c.html" title="Functions for the game mode 1 for 1 player." alt="" coords="180,79,240,105"/>
+<area shape="rect" href="main_8c.html" title=" " alt="" coords="180,79,240,105"/>
 <area shape="poly" title=" " alt="" coords="167,40,201,77,197,80,163,44"/>
 </map>
 </div>
@@ -121,15 +124,21 @@ Macros</h2></td></tr>
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
 <tr class="memitem:af2c04fa8e97ffa748fd3f612886a92a7"><td class="memItemLeft" align="right" valign="top">int()&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="timer_8h.html#af2c04fa8e97ffa748fd3f612886a92a7">timer_set_frequency</a> (uint8_t timer, uint32_t freq)</td></tr>
+<tr class="memdesc:af2c04fa8e97ffa748fd3f612886a92a7"><td class="mdescLeft">&#160;</td><td class="mdescRight">Sets the frequency of a timer.  <br /></td></tr>
 <tr class="separator:af2c04fa8e97ffa748fd3f612886a92a7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a74c67a2dec2c0d3d6f0cf68e89d4b14e"><td class="memItemLeft" align="right" valign="top">int()&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="timer_8h.html#a74c67a2dec2c0d3d6f0cf68e89d4b14e">timer_subscribe_interrupts</a> ()</td></tr>
+<tr class="memdesc:a74c67a2dec2c0d3d6f0cf68e89d4b14e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Subscribes to timer interrupts.  <br /></td></tr>
 <tr class="separator:a74c67a2dec2c0d3d6f0cf68e89d4b14e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a34c22ebdcbc43e47f0ad8406704d3610"><td class="memItemLeft" align="right" valign="top">int()&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="timer_8h.html#a34c22ebdcbc43e47f0ad8406704d3610">timer_unsubscribe_interrupts</a> ()</td></tr>
+<tr class="memdesc:a34c22ebdcbc43e47f0ad8406704d3610"><td class="mdescLeft">&#160;</td><td class="mdescRight">Unsubscribes from timer interrupts.  <br /></td></tr>
 <tr class="separator:a34c22ebdcbc43e47f0ad8406704d3610"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a703c60b40c8c49607d6ecb6fef82d27a"><td class="memItemLeft" align="right" valign="top">int()&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="timer_8h.html#a703c60b40c8c49607d6ecb6fef82d27a">timer_get_conf</a> (uint8_t timer, uint8_t *st)</td></tr>
+<tr class="memdesc:a703c60b40c8c49607d6ecb6fef82d27a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Retrieves the configuration of a timer.  <br /></td></tr>
 <tr class="separator:a703c60b40c8c49607d6ecb6fef82d27a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Macro Definition Documentation</h2>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p>Timer handling functions. </p>
+</div><h2 class="groupheader">Macro Definition Documentation</h2>
 <a id="ae8ef8b0f9d8793777e5751c7c37bb49f" name="ae8ef8b0f9d8793777e5751c7c37bb49f"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ae8ef8b0f9d8793777e5751c7c37bb49f">&#9670;&#160;</a></span>TIMER_BIT</h2>
 
@@ -170,12 +179,22 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>Retrieves the configuration of a timer. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">timer</td><td>The timer to retrieve the configuration of (0, 1, or 2) </td></tr>
+    <tr><td class="paramname">st</td><td>Pointer to store the timer configuration</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>Return 0 upon success, non-zero otherwise </dd></dl>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="timer_8h_a703c60b40c8c49607d6ecb6fef82d27a_cgraph.png" border="0" usemap="#atimer_8h_a703c60b40c8c49607d6ecb6fef82d27a_cgraph" alt=""/></div>
 <map name="atimer_8h_a703c60b40c8c49607d6ecb6fef82d27a_cgraph" id="atimer_8h_a703c60b40c8c49607d6ecb6fef82d27a_cgraph">
-<area shape="rect" title=" " alt="" coords="5,5,113,31"/>
+<area shape="rect" title="Retrieves the configuration of a timer." alt="" coords="5,5,113,31"/>
 <area shape="rect" href="utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="161,5,250,31"/>
 <area shape="poly" title=" " alt="" coords="113,16,146,16,146,21,113,21"/>
 </map>
@@ -185,8 +204,8 @@ Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="timer_8h_a703c60b40c8c49607d6ecb6fef82d27a_icgraph.png" border="0" usemap="#atimer_8h_a703c60b40c8c49607d6ecb6fef82d27a_icgraph" alt=""/></div>
 <map name="atimer_8h_a703c60b40c8c49607d6ecb6fef82d27a_icgraph" id="atimer_8h_a703c60b40c8c49607d6ecb6fef82d27a_icgraph">
-<area shape="rect" title=" " alt="" coords="449,5,557,31"/>
-<area shape="rect" href="timer_8c.html#af2c04fa8e97ffa748fd3f612886a92a7" title=" " alt="" coords="263,5,401,31"/>
+<area shape="rect" title="Retrieves the configuration of a timer." alt="" coords="449,5,557,31"/>
+<area shape="rect" href="timer_8c.html#af2c04fa8e97ffa748fd3f612886a92a7" title="Sets the frequency of a timer." alt="" coords="263,5,401,31"/>
 <area shape="poly" title=" " alt="" coords="434,21,402,21,402,16,434,16"/>
 <area shape="rect" href="main_8c.html#a099d48038e444c2f3e69904477527798" title=" " alt="" coords="162,5,215,31"/>
 <area shape="poly" title=" " alt="" coords="248,21,216,21,216,16,248,16"/>
@@ -222,13 +241,23 @@ Here is the caller graph for this function:</div>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>Sets the frequency of a timer. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">timer</td><td>The timer to set the frequency of (0, 1, or 2) </td></tr>
+    <tr><td class="paramname">freq</td><td>The desired frequency in Hz</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>Return 0 upon success, non-zero otherwise </dd></dl>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="timer_8h_af2c04fa8e97ffa748fd3f612886a92a7_cgraph.png" border="0" usemap="#atimer_8h_af2c04fa8e97ffa748fd3f612886a92a7_cgraph" alt=""/></div>
 <map name="atimer_8h_af2c04fa8e97ffa748fd3f612886a92a7_cgraph" id="atimer_8h_af2c04fa8e97ffa748fd3f612886a92a7_cgraph">
-<area shape="rect" title=" " alt="" coords="5,55,144,80"/>
-<area shape="rect" href="timer_8c.html#a703c60b40c8c49607d6ecb6fef82d27a" title=" " alt="" coords="192,5,299,31"/>
+<area shape="rect" title="Sets the frequency of a timer." alt="" coords="5,55,144,80"/>
+<area shape="rect" href="timer_8c.html#a703c60b40c8c49607d6ecb6fef82d27a" title="Retrieves the configuration of a timer." alt="" coords="192,5,299,31"/>
 <area shape="poly" title=" " alt="" coords="121,51,184,33,185,38,123,57"/>
 <area shape="rect" href="utils_8c.html#a81621440b3d65680979425e39aa8c789" title=" " alt="" coords="197,55,294,80"/>
 <area shape="poly" title=" " alt="" coords="144,65,182,65,182,70,144,70"/>
@@ -243,7 +272,7 @@ Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="timer_8h_af2c04fa8e97ffa748fd3f612886a92a7_icgraph.png" border="0" usemap="#atimer_8h_af2c04fa8e97ffa748fd3f612886a92a7_icgraph" alt=""/></div>
 <map name="atimer_8h_af2c04fa8e97ffa748fd3f612886a92a7_icgraph" id="atimer_8h_af2c04fa8e97ffa748fd3f612886a92a7_icgraph">
-<area shape="rect" title=" " alt="" coords="263,5,401,31"/>
+<area shape="rect" title="Sets the frequency of a timer." alt="" coords="263,5,401,31"/>
 <area shape="rect" href="main_8c.html#a099d48038e444c2f3e69904477527798" title=" " alt="" coords="162,5,215,31"/>
 <area shape="poly" title=" " alt="" coords="248,21,216,21,216,16,248,16"/>
 <area shape="rect" href="main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,114,31"/>
@@ -267,12 +296,15 @@ Here is the caller graph for this function:</div>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>Subscribes to timer interrupts. </p>
+<dl class="section return"><dt>Returns</dt><dd>Return 0 upon success, non-zero otherwise </dd></dl>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="timer_8h_a74c67a2dec2c0d3d6f0cf68e89d4b14e_icgraph.png" border="0" usemap="#atimer_8h_a74c67a2dec2c0d3d6f0cf68e89d4b14e_icgraph" alt=""/></div>
 <map name="atimer_8h_a74c67a2dec2c0d3d6f0cf68e89d4b14e_icgraph" id="atimer_8h_a74c67a2dec2c0d3d6f0cf68e89d4b14e_icgraph">
-<area shape="rect" title=" " alt="" coords="263,5,437,31"/>
+<area shape="rect" title="Subscribes to timer interrupts." alt="" coords="263,5,437,31"/>
 <area shape="rect" href="main_8c.html#a099d48038e444c2f3e69904477527798" title=" " alt="" coords="162,5,215,31"/>
 <area shape="poly" title=" " alt="" coords="248,21,215,21,215,16,248,16"/>
 <area shape="rect" href="main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,114,31"/>
@@ -296,12 +328,15 @@ Here is the caller graph for this function:</div>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>Unsubscribes from timer interrupts. </p>
+<dl class="section return"><dt>Returns</dt><dd>Return 0 upon success, non-zero otherwise </dd></dl>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="timer_8h_a34c22ebdcbc43e47f0ad8406704d3610_icgraph.png" border="0" usemap="#atimer_8h_a34c22ebdcbc43e47f0ad8406704d3610_icgraph" alt=""/></div>
 <map name="atimer_8h_a34c22ebdcbc43e47f0ad8406704d3610_icgraph" id="atimer_8h_a34c22ebdcbc43e47f0ad8406704d3610_icgraph">
-<area shape="rect" title=" " alt="" coords="274,5,462,31"/>
+<area shape="rect" title="Unsubscribes from timer interrupts." alt="" coords="274,5,462,31"/>
 <area shape="rect" href="main_8c.html#a4b3c5db070725b05f708a39f3fc77687" title=" " alt="" coords="162,5,226,31"/>
 <area shape="poly" title=" " alt="" coords="259,21,226,21,226,16,259,16"/>
 <area shape="rect" href="main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,114,31"/>

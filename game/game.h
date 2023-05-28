@@ -1,5 +1,5 @@
 /**
- * @file lcom_menu.h
+ * @file game.h
  * @brief Header file containing function declarations for the menu module.
  */
 

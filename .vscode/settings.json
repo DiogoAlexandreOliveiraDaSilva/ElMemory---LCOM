@@ -18,6 +18,8 @@
         "cstdint": "c",
         "i8042.h": "c",
         "random": "c",
-        "i8254.h": "c"
+        "i8254.h": "c",
+        "stdlib.h": "c",
+        "stdbool.h": "c"
     }
 }

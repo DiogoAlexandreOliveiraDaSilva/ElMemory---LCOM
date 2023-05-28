@@ -10,7 +10,7 @@
 <area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="70,160,155,171,154,176,70,165"/>
 <area shape="rect" id="Node000010" href="$group__rtc.html#gae0e5cb47db8832528abb7dc48255cd3a" title="Unsubscribes from RTC interrupts." alt="" coords="130,219,304,244"/>
 <area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="58,169,86,188,119,205,136,211,134,216,117,210,83,192,55,173"/>
-<area shape="rect" id="Node000011" href="$timer_8c.html#a34c22ebdcbc43e47f0ad8406704d3610" title=" " alt="" coords="123,268,311,294"/>
+<area shape="rect" id="Node000011" href="$timer_8c.html#a34c22ebdcbc43e47f0ad8406704d3610" title="Unsubscribes from timer interrupts." alt="" coords="123,268,311,294"/>
 <area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="48,170,75,212,95,235,119,255,127,259,125,264,116,259,92,239,71,215,43,173"/>
 <area shape="rect" id="Node000003" href="$sprite_8c.html#a4e51a4bafffd4238721466bc88e2db66" title="Deletes a sprite and frees the associated memory." alt="" coords="385,5,462,31"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="259,16,370,16,370,21,259,21"/>

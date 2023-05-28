@@ -16,9 +16,9 @@
 <area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="51,271,77,289,108,306,150,321,149,326,106,311,74,294,48,275"/>
 <area shape="rect" id="Node000018" href="$menu_8c.html#ab6ac87fd3d0ffee40696dd0e80392fae" title="Initializes the sprites." alt="" coords="152,369,246,395"/>
 <area shape="poly" id="edge21_Node000001_Node000018" title=" " alt="" coords="42,272,67,314,86,337,108,356,139,370,136,375,105,360,82,340,63,317,37,274"/>
-<area shape="rect" id="Node000020" href="$timer_8c.html#af2c04fa8e97ffa748fd3f612886a92a7" title=" " alt="" coords="130,420,268,446"/>
+<area shape="rect" id="Node000020" href="$timer_8c.html#af2c04fa8e97ffa748fd3f612886a92a7" title="Sets the frequency of a timer." alt="" coords="130,420,268,446"/>
 <area shape="poly" id="edge23_Node000001_Node000020" title=" " alt="" coords="39,272,46,300,60,336,80,374,108,406,118,412,115,416,105,409,76,377,55,339,41,302,34,274"/>
-<area shape="rect" id="Node000024" href="$timer_8c.html#a74c67a2dec2c0d3d6f0cf68e89d4b14e" title=" " alt="" coords="112,469,286,495"/>
+<area shape="rect" id="Node000024" href="$timer_8c.html#a74c67a2dec2c0d3d6f0cf68e89d4b14e" title="Subscribes to timer interrupts." alt="" coords="112,469,286,495"/>
 <area shape="poly" id="edge28_Node000001_Node000024" title=" " alt="" coords="37,273,41,309,53,359,74,411,90,435,109,456,112,459,109,463,105,460,85,439,70,414,48,361,36,310,32,273"/>
 <area shape="rect" id="Node000003" href="$graphics_8c.html#a5a019fc13892880fb8a5d01bccffe3f0" title="Defines the frame buffer for the specified graphics mode." alt="" coords="344,5,464,31"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="263,16,328,16,328,21,263,21"/>
@@ -44,7 +44,7 @@
 <area shape="poly" id="edge20_Node000017_Node000014" title=" " alt="" coords="613,366,633,356,687,317,730,278,734,282,690,321,636,360,615,371"/>
 <area shape="rect" id="Node000019" href="$sprite_8c.html#a8c923e94a35a2b4d9505beb3c3af03e0" title="Initializes a sprite using the given XPM map." alt="" coords="359,369,449,395"/>
 <area shape="poly" id="edge22_Node000018_Node000019" title=" " alt="" coords="246,380,343,380,343,385,246,385"/>
-<area shape="rect" id="Node000021" href="$timer_8c.html#a703c60b40c8c49607d6ecb6fef82d27a" title=" " alt="" coords="703,344,811,370"/>
+<area shape="rect" id="Node000021" href="$timer_8c.html#a703c60b40c8c49607d6ecb6fef82d27a" title="Retrieves the configuration of a timer." alt="" coords="703,344,811,370"/>
 <area shape="poly" id="edge24_Node000020_Node000021" title=" " alt="" coords="269,433,344,434,436,431,536,422,634,405,677,391,717,374,719,379,679,396,635,410,536,427,437,436,344,439,269,439"/>
 <area shape="rect" id="Node000022" href="$utils_8c.html#a81621440b3d65680979425e39aa8c789" title=" " alt="" coords="356,471,452,496"/>
 <area shape="poly" id="edge26_Node000020_Node000022" title=" " alt="" coords="254,444,342,466,340,471,253,449"/>

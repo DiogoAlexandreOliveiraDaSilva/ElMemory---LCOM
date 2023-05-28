@@ -1,8 +1,8 @@
 <map id="game/modes/menu.c" name="game/modes/menu.c">
-<area shape="rect" id="Node000001" title="Functions for the game mode 2 for 1 player." alt="" coords="3232,5,3375,31"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="3232,5,3375,31"/>
 <area shape="rect" id="Node000002" href="$menu_8h.html" title="Header file containing declarations for menu functions and types." alt="" coords="3272,79,3335,105"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="3306,31,3306,64,3301,64,3301,31"/>
-<area shape="rect" id="Node000010" href="$game_8h.html" title=" " alt="" coords="505,153,604,178"/>
+<area shape="rect" id="Node000010" href="$game_8h.html" title="Header file containing function declarations for the menu module." alt="" coords="505,153,604,178"/>
 <area shape="poly" id="edge67_Node000001_Node000010" title=" " alt="" coords="3232,24,2844,38,2215,64,1452,103,1055,128,665,155,619,160,618,154,665,150,1055,122,1452,98,2215,59,2844,33,3232,19"/>
 <area shape="rect" id="Node000071" title=" " alt="" coords="3359,79,3443,105"/>
 <area shape="poly" id="edge66_Node000001_Node000071" title=" " alt="" coords="3322,29,3375,68,3372,72,3319,34"/>

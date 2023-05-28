@@ -10,7 +10,7 @@
 <area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="307,31,307,64,302,64,302,31"/>
 <area shape="rect" id="Node000006" href="$menu_8h.html" title="Header file containing declarations for menu functions and types." alt="" coords="3141,79,3204,105"/>
 <area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="390,19,3126,87,3126,92,390,24"/>
-<area shape="rect" id="Node000014" href="$game_8h.html" title=" " alt="" coords="336,153,435,178"/>
+<area shape="rect" id="Node000014" href="$game_8h.html" title="Header file containing function declarations for the menu module." alt="" coords="336,153,435,178"/>
 <area shape="poly" id="edge68_Node000001_Node000014" title=" " alt="" coords="307,30,339,78,369,139,364,141,334,80,303,33"/>
 <area shape="rect" id="Node000007" href="$VBE_8h.html" title=" " alt="" coords="3633,404,3762,444"/>
 <area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="3205,90,3851,91,4949,97,5510,104,5995,115,6341,130,6443,139,6473,144,6487,151,6499,171,6495,190,6477,208,6446,224,6404,239,6350,254,6213,280,6041,305,5841,326,5383,361,4895,388,4428,406,3777,424,3777,419,4428,401,4894,382,5383,356,5840,321,6040,299,6212,275,6349,248,6402,234,6444,219,6474,203,6491,187,6494,171,6484,155,6471,150,6442,144,6341,135,5995,120,5510,109,4949,102,3851,96,3204,96"/>
