@@ -1,0 +1,113 @@
+\doxysection{controller/mouse/\+KBC.c File Reference}
+\hypertarget{mouse_2KBC_8c}{}\label{mouse_2KBC_8c}\index{controller/mouse/KBC.c@{controller/mouse/KBC.c}}
+{\ttfamily \#include \"{}KBC.\+h\"{}}\newline
+Include dependency graph for KBC.\+c\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=297pt]{mouse_2KBC_8c__incl}
+\end{center}
+\end{figure}
+\doxysubsubsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+int() \mbox{\hyperlink{mouse_2KBC_8c_a6ccb81683de14e9ff796e729f0cc331f}{keyboard\+\_\+read\+\_\+status}} (uint8\+\_\+t \texorpdfstring{$\ast$}{*}status)
+\begin{DoxyCompactList}\small\item\em Reads the keyboard controller status register. \end{DoxyCompactList}\item 
+int \mbox{\hyperlink{mouse_2KBC_8c_a60b50761648a085dbe01762db4fa63a8}{keyboard\+\_\+read\+\_\+output\+\_\+buffer}} (uint8\+\_\+t port, uint8\+\_\+t \texorpdfstring{$\ast$}{*}output, uint8\+\_\+t \mbox{\hyperlink{game_8c_af03a383fdcfdf7501006a5c8d68be42b}{mouse}})
+\begin{DoxyCompactList}\small\item\em Reads the output buffer of the keyboard controller. \end{DoxyCompactList}\item 
+int() \mbox{\hyperlink{mouse_2KBC_8c_a197264e257ef55ec928394ffa1ac3d7c}{keyboard\+\_\+writing}} (uint8\+\_\+t port, uint8\+\_\+t command\+Byte)
+\begin{DoxyCompactList}\small\item\em Writes a command byte to the keyboard controller. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Function Documentation}
+\Hypertarget{mouse_2KBC_8c_a60b50761648a085dbe01762db4fa63a8}\label{mouse_2KBC_8c_a60b50761648a085dbe01762db4fa63a8} 
+\index{KBC.c@{KBC.c}!keyboard\_read\_output\_buffer@{keyboard\_read\_output\_buffer}}
+\index{keyboard\_read\_output\_buffer@{keyboard\_read\_output\_buffer}!KBC.c@{KBC.c}}
+\doxysubsubsection{\texorpdfstring{keyboard\_read\_output\_buffer()}{keyboard\_read\_output\_buffer()}}
+{\footnotesize\ttfamily int keyboard\+\_\+read\+\_\+output\+\_\+buffer (\begin{DoxyParamCaption}\item[{uint8\+\_\+t}]{port,  }\item[{uint8\+\_\+t \texorpdfstring{$\ast$}{*}}]{output,  }\item[{uint8\+\_\+t}]{mouse }\end{DoxyParamCaption})}
+
+
+
+Reads the output buffer of the keyboard controller. 
+
+This function reads the output buffer of the keyboard controller and stores the value in the output parameter.
+
+
+\begin{DoxyParams}{Parameters}
+{\em port} & The port to read from. \\
+\hline
+{\em output} & Pointer to a variable where the output buffer value will be stored. \\
+\hline
+{\em mouse} & Flag indicating whether the output is from the mouse. \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Return 0 upon success, non-\/zero otherwise. 
+\end{DoxyReturn}
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{mouse_2KBC_8c_a60b50761648a085dbe01762db4fa63a8_cgraph}
+\end{center}
+\end{figure}
+\Hypertarget{mouse_2KBC_8c_a6ccb81683de14e9ff796e729f0cc331f}\label{mouse_2KBC_8c_a6ccb81683de14e9ff796e729f0cc331f} 
+\index{KBC.c@{KBC.c}!keyboard\_read\_status@{keyboard\_read\_status}}
+\index{keyboard\_read\_status@{keyboard\_read\_status}!KBC.c@{KBC.c}}
+\doxysubsubsection{\texorpdfstring{keyboard\_read\_status()}{keyboard\_read\_status()}}
+{\footnotesize\ttfamily int() keyboard\+\_\+read\+\_\+status (\begin{DoxyParamCaption}\item[{uint8\+\_\+t \texorpdfstring{$\ast$}{*}}]{status }\end{DoxyParamCaption})}
+
+
+
+Reads the keyboard controller status register. 
+
+This function reads the status register of the keyboard controller and stores the value in the status parameter.
+
+
+\begin{DoxyParams}{Parameters}
+{\em status} & Pointer to a variable where the status register value will be stored. \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Return 0 upon success, non-\/zero otherwise. 
+\end{DoxyReturn}
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=294pt]{mouse_2KBC_8c_a6ccb81683de14e9ff796e729f0cc331f_cgraph}
+\end{center}
+\end{figure}
+\Hypertarget{mouse_2KBC_8c_a197264e257ef55ec928394ffa1ac3d7c}\label{mouse_2KBC_8c_a197264e257ef55ec928394ffa1ac3d7c} 
+\index{KBC.c@{KBC.c}!keyboard\_writing@{keyboard\_writing}}
+\index{keyboard\_writing@{keyboard\_writing}!KBC.c@{KBC.c}}
+\doxysubsubsection{\texorpdfstring{keyboard\_writing()}{keyboard\_writing()}}
+{\footnotesize\ttfamily int() keyboard\+\_\+writing (\begin{DoxyParamCaption}\item[{uint8\+\_\+t}]{port,  }\item[{uint8\+\_\+t}]{command\+Byte }\end{DoxyParamCaption})}
+
+
+
+Writes a command byte to the keyboard controller. 
+
+This function writes a command byte to the keyboard controller.
+
+
+\begin{DoxyParams}{Parameters}
+{\em port} & The port to write to. \\
+\hline
+{\em command\+Byte} & The command byte to write. \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Return 0 upon success, non-\/zero otherwise. 
+\end{DoxyReturn}
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{mouse_2KBC_8c_a197264e257ef55ec928394ffa1ac3d7c_cgraph}
+\end{center}
+\end{figure}

@@ -1,0 +1,14 @@
+<map id="update_rtc_frame" name="update_rtc_frame">
+<area shape="rect" id="Node000001" title="Updates the RTC frame." alt="" coords="5,22,128,47"/>
+<area shape="rect" id="Node000002" href="$group__rtc.html#ga94769392d96ebee5ccce3a4a4d398f01" title="Updates the display with the current time information." alt="" coords="176,22,305,47"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,32,160,32,160,37,128,37"/>
+<area shape="rect" id="Node000003" href="$group__rtc.html#ga08dd3c2627aebf3204253ed9ba0236d3" title="Reads the output from RTC registers." alt="" coords="501,22,613,47"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="290,19,353,7,403,3,454,7,498,15,497,20,453,12,403,8,353,12,291,24"/>
+<area shape="rect" id="Node000005" href="$group__rtc.html#ga89909f87efc892913df930c0451ccc96" title="Converts a BCD value to BIN." alt="" coords="363,22,443,47"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="305,32,348,32,348,37,305,37"/>
+<area shape="rect" id="Node000006" href="$group__rtc.html#gaef515b745f9e268dd5ef93ff8f8911d1" title="Checks if the RTC register is refreshing." alt="" coords="353,71,453,97"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="286,46,345,64,344,69,285,51"/>
+<area shape="rect" id="Node000004" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="661,22,750,47"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="613,32,646,32,646,37,613,37"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="445,68,500,50,502,55,447,73"/>
+</map>

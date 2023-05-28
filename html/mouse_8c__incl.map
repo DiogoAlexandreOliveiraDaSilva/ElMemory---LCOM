@@ -1,0 +1,21 @@
+<map id="controller/mouse/mouse.c" name="controller/mouse/mouse.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="105,5,275,31"/>
+<area shape="rect" id="Node000002" href="$mouse_8h.html" title="Mouse functions and definitions." alt="" coords="155,79,225,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,31,193,64,187,64,187,31"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,226,108,252"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="156,107,118,126,99,139,84,154,69,183,62,213,56,211,64,181,80,151,96,135,115,121,153,102"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="218,226,295,252"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="198,104,247,212,242,214,193,106"/>
+<area shape="rect" id="Node000005" href="$mouse_2i8042_8h.html" title=" " alt="" coords="132,226,194,252"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="190,105,171,212,165,211,185,105"/>
+<area shape="rect" id="Node000006" href="$mouse_2KBC_8h.html" title="Keyboard Controller (KBC) functions." alt="" coords="94,153,152,178"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="181,107,146,144,142,140,177,103"/>
+<area shape="rect" id="Node000007" href="$graphics_8h.html" title="Header file for graphic functions." alt="" coords="278,153,451,178"/>
+<area shape="poly" id="edge9_Node000002_Node000007" title=" " alt="" coords="220,103,322,144,320,149,218,108"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="114,180,79,217,76,214,110,177"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="147,177,222,217,220,221,145,181"/>
+<area shape="poly" id="edge8_Node000006_Node000005" title=" " alt="" coords="132,177,152,212,147,215,127,180"/>
+<area shape="poly" id="edge10_Node000007_Node000004" title=" " alt="" coords="348,181,288,220,285,216,345,177"/>
+<area shape="rect" id="Node000008" href="$VBE_8h.html" title=" " alt="" coords="336,226,393,252"/>
+<area shape="poly" id="edge11_Node000007_Node000008" title=" " alt="" coords="367,179,367,211,362,211,362,179"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="rtc_check_bcd" name="rtc_check_bcd">
+<area shape="rect" id="Node000001" title="Checks if the RTC is in BCD mode." alt="" coords="5,5,112,31"/>
+<area shape="rect" id="Node000002" href="$group__rtc.html#gacb0d88799292ce6eb5d3591ca1f6d2a4" title="Checks if the RTC is in BIN mode." alt="" coords="160,5,268,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,16,144,16,144,21,112,21"/>
+<area shape="rect" id="Node000003" href="$group__rtc.html#ga08dd3c2627aebf3204253ed9ba0236d3" title="Reads the output from RTC registers." alt="" coords="316,5,427,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="269,16,301,16,301,21,269,21"/>
+<area shape="rect" id="Node000004" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="475,5,565,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="428,16,461,16,461,21,428,21"/>
+</map>

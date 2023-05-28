@@ -1,0 +1,24 @@
+<map id="turn_off" name="turn_off">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,145,70,171"/>
+<area shape="rect" id="Node000002" href="$menu_8c.html#adf815250a10afe5bf29cf7ea4ff8b879" title="Deletes the sprites." alt="" coords="175,5,259,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="42,144,68,94,90,65,116,41,137,30,159,23,161,28,139,35,119,46,94,69,73,97,47,146"/>
+<area shape="rect" id="Node000004" href="$keyboard_8c.html#a97f07efdc4bf5955236db1b8f111daf6" title="Unsubscribes keyboard interrupts." alt="" coords="142,55,292,96"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="55,142,116,105,130,99,132,104,119,110,58,147"/>
+<area shape="rect" id="Node000005" href="$mouse_8c.html#adaf9bbdd3ddda1b50021f21c37df1c9c" title="Unsubscribes mouse interrupts." alt="" coords="118,120,316,146"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="70,151,107,146,108,151,70,156"/>
+<area shape="rect" id="Node000006" href="$mouse_8c.html#a1703c3c5b61eef30d724b15cafd1d75e" title="Writes a command to the mouse." alt="" coords="169,169,265,195"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="70,160,155,171,154,176,70,165"/>
+<area shape="rect" id="Node000010" href="$group__rtc.html#gae0e5cb47db8832528abb7dc48255cd3a" title="Unsubscribes from RTC interrupts." alt="" coords="130,219,304,244"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="58,169,86,188,119,205,136,211,134,216,117,210,83,192,55,173"/>
+<area shape="rect" id="Node000011" href="$timer_8c.html#a34c22ebdcbc43e47f0ad8406704d3610" title=" " alt="" coords="123,268,311,294"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="48,170,75,212,95,235,119,255,127,259,125,264,116,259,92,239,71,215,43,173"/>
+<area shape="rect" id="Node000003" href="$sprite_8c.html#a4e51a4bafffd4238721466bc88e2db66" title="Deletes a sprite and frees the associated memory." alt="" coords="385,5,462,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="259,16,370,16,370,21,259,21"/>
+<area shape="rect" id="Node000007" href="$keyboard_2KBC_8c.html#a197264e257ef55ec928394ffa1ac3d7c" title="Writes a command byte to the keyboard controller." alt="" coords="364,144,482,170"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="265,174,349,163,350,168,265,179"/>
+<area shape="rect" id="Node000009" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="727,169,816,195"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="265,180,712,180,712,185,265,185"/>
+<area shape="rect" id="Node000008" href="$keyboard_2KBC_8c.html#a6ccb81683de14e9ff796e729f0cc331f" title="Reads the keyboard controller status register." alt="" coords="530,144,679,170"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="483,154,515,154,515,160,483,160"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="680,166,712,171,711,176,679,171"/>
+</map>

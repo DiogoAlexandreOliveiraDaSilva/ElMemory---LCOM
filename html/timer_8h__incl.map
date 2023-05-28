@@ -1,0 +1,11 @@
+<map id="controller/timer/timer.h" name="controller/timer/timer.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="44,5,194,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,153,108,178"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,33,94,54,79,80,69,110,63,139,57,138,64,108,74,78,90,51,106,30"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="142,153,219,178"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="132,30,149,51,164,78,174,108,180,138,175,139,169,110,159,80,144,54,128,33"/>
+<area shape="rect" id="Node000004" href="$i8254_8h.html" title=" " alt="" coords="88,79,150,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="122,31,122,64,117,64,117,31"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="111,107,79,143,75,140,107,103"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="131,103,163,140,159,143,127,107"/>
+</map>

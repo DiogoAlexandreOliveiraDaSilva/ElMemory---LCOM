@@ -1,0 +1,95 @@
+\doxysection{game/sprite/sprite.h File Reference}
+\hypertarget{sprite_8h}{}\label{sprite_8h}\index{game/sprite/sprite.h@{game/sprite/sprite.h}}
+
+
+Header file for sprite functions and structure.  
+
+
+{\ttfamily \#include \"{}controller/video/graphics.\+h\"{}}\newline
+{\ttfamily \#include \"{}../xpm/buttons/quit\+Button.\+xpm\"{}}\newline
+{\ttfamily \#include \"{}../xpm/buttons/quit\+Button\+Pressed.\+xpm\"{}}\newline
+Include dependency graph for sprite.\+h\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{sprite_8h__incl}
+\end{center}
+\end{figure}
+This graph shows which files directly or indirectly include this file\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{sprite_8h__dep__incl}
+\end{center}
+\end{figure}
+\doxysubsubsection*{Classes}
+\begin{DoxyCompactItemize}
+\item 
+struct \mbox{\hyperlink{structSprite}{Sprite}}
+\begin{DoxyCompactList}\small\item\em Structure representing a sprite. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsubsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{sprite_8h_a51bef92b91586098af598ab71cfebb84}{initiate\+\_\+xpm}} (xpm\+\_\+map\+\_\+t sprite)
+\begin{DoxyCompactList}\small\item\em Initializes a sprite using the given XPM map. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{sprite_8h_aee4270c70ad4768b513944a360b2e583}{del\+\_\+sprite}} (\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*}sprite)
+\begin{DoxyCompactList}\small\item\em Deletes a sprite and frees the associated memory. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Header file for sprite functions and structure. 
+
+
+
+\doxysubsection{Function Documentation}
+\Hypertarget{sprite_8h_aee4270c70ad4768b513944a360b2e583}\label{sprite_8h_aee4270c70ad4768b513944a360b2e583} 
+\index{sprite.h@{sprite.h}!del\_sprite@{del\_sprite}}
+\index{del\_sprite@{del\_sprite}!sprite.h@{sprite.h}}
+\doxysubsubsection{\texorpdfstring{del\_sprite()}{del\_sprite()}}
+{\footnotesize\ttfamily void del\+\_\+sprite (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*}}]{sprite }\end{DoxyParamCaption})}
+
+
+
+Deletes a sprite and frees the associated memory. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em sprite} & The sprite to be deleted. \\
+\hline
+\end{DoxyParams}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{sprite_8h_aee4270c70ad4768b513944a360b2e583_icgraph}
+\end{center}
+\end{figure}
+\Hypertarget{sprite_8h_a51bef92b91586098af598ab71cfebb84}\label{sprite_8h_a51bef92b91586098af598ab71cfebb84} 
+\index{sprite.h@{sprite.h}!initiate\_xpm@{initiate\_xpm}}
+\index{initiate\_xpm@{initiate\_xpm}!sprite.h@{sprite.h}}
+\doxysubsubsection{\texorpdfstring{initiate\_xpm()}{initiate\_xpm()}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} initiate\+\_\+xpm (\begin{DoxyParamCaption}\item[{xpm\+\_\+map\+\_\+t}]{sprite }\end{DoxyParamCaption})}
+
+
+
+Initializes a sprite using the given XPM map. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em sprite} & XPM map representing the sprite. \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+A pointer to the created sprite structure, or NULL on failure. 
+\end{DoxyReturn}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{sprite_8h_a51bef92b91586098af598ab71cfebb84_icgraph}
+\end{center}
+\end{figure}

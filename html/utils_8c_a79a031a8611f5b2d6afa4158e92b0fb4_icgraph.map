@@ -1,0 +1,56 @@
+<map id="util_sys_inb" name="util_sys_inb">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1089,153,1179,179"/>
+<area shape="rect" id="Node000002" href="$keyboard_2KBC_8c.html#a60b50761648a085dbe01762db4fa63a8" title="Reads the output buffer of the keyboard controller." alt="" coords="537,38,686,79"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1097,148,1040,122,947,96,851,79,761,69,686,63,686,58,761,63,852,74,948,91,1042,117,1100,143"/>
+<area shape="rect" id="Node000009" href="$keyboard_2KBC_8c.html#a6ccb81683de14e9ff796e729f0cc331f" title="Reads the keyboard controller status register." alt="" coords="734,103,882,128"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="1074,156,1041,150,882,127,883,122,1042,145,1075,151"/>
+<area shape="rect" id="Node000011" href="$mouse_8c.html#a1703c3c5b61eef30d724b15cafd1d75e" title="Writes a command to the mouse." alt="" coords="382,153,477,179"/>
+<area shape="poly" id="edge18_Node000001_Node000011" title=" " alt="" coords="1074,169,477,169,477,164,1074,164"/>
+<area shape="rect" id="Node000014" href="$group__rtc.html#ga08dd3c2627aebf3204253ed9ba0236d3" title="Reads the output from RTC registers." alt="" coords="930,280,1041,306"/>
+<area shape="poly" id="edge19_Node000001_Node000014" title=" " alt="" coords="1108,191,1004,282,1000,278,1105,187"/>
+<area shape="rect" id="Node000021" href="$timer_8c.html#a703c60b40c8c49607d6ecb6fef82d27a" title=" " alt="" coords="932,204,1039,230"/>
+<area shape="poly" id="edge30_Node000001_Node000021" title=" " alt="" coords="1081,187,1026,206,1024,201,1080,182"/>
+<area shape="rect" id="Node000003" href="$keyboard_8c.html#aea970a154161a35f6894898a092ed70a" title="Keyboard interrupt handler." alt="" coords="400,5,459,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="522,41,459,27,460,22,523,36"/>
+<area shape="rect" id="Node000006" href="$keyboard_8c.html#a4f3fa1b325e41610b8d06e08db68e366" title="Refreshes the keyboard." alt="" coords="369,104,489,130"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="534,86,473,106,471,101,532,81"/>
+<area shape="rect" id="Node000007" href="$mouse_8c.html#a210374b50462acdedab00df64d5cea3c" title="Mouse interrupt handler." alt="" coords="391,55,468,80"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="523,65,468,68,468,63,522,60"/>
+<area shape="rect" id="Node000004" href="$menu_8c.html#a98c6c78726a3055d4fd38d1e280ee77d" title="Updates the keyboard frame." alt="" coords="162,19,321,44"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="385,24,322,28,321,23,384,19"/>
+<area shape="rect" id="Node000005" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,153,114,179"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="193,53,163,70,111,114,74,155,70,151,108,110,160,65,190,48"/>
+<area shape="rect" id="Node000008" href="$menu_8c.html#a700d639dd6af8e7fe655cc00bbed358e" title="Updates the mouse frame." alt="" coords="168,80,315,106"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="376,77,315,86,315,80,375,72"/>
+<area shape="poly" id="edge8_Node000008_Node000005" title=" " alt="" coords="195,114,94,155,92,150,193,109"/>
+<area shape="poly" id="edge10_Node000009_Node000002" title=" " alt="" coords="746,100,683,82,684,77,748,95"/>
+<area shape="rect" id="Node000010" href="$keyboard_2KBC_8c.html#a197264e257ef55ec928394ffa1ac3d7c" title="Writes a command byte to the keyboard controller." alt="" coords="552,103,671,128"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="719,118,671,118,671,113,719,113"/>
+<area shape="poly" id="edge12_Node000010_Node000006" title=" " alt="" coords="538,119,490,119,490,114,538,113"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="549,135,478,156,476,150,548,130"/>
+<area shape="rect" id="Node000012" href="$main_8c.html#a099d48038e444c2f3e69904477527798" title=" " alt="" coords="215,204,268,230"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="368,185,269,212,268,207,366,180"/>
+<area shape="rect" id="Node000013" href="$main_8c.html#a4b3c5db070725b05f708a39f3fc77687" title=" " alt="" coords="209,153,274,179"/>
+<area shape="poly" id="edge16_Node000011_Node000013" title=" " alt="" coords="367,169,274,169,274,164,367,164"/>
+<area shape="poly" id="edge15_Node000012_Node000005" title=" " alt="" coords="200,208,108,182,109,177,201,203"/>
+<area shape="poly" id="edge17_Node000013_Node000005" title=" " alt="" coords="194,169,114,169,114,164,194,164"/>
+<area shape="rect" id="Node000015" href="$group__rtc.html#gacb0d88799292ce6eb5d3591ca1f6d2a4" title="Checks if the RTC is in BIN mode." alt="" coords="754,255,862,280"/>
+<area shape="poly" id="edge20_Node000014_Node000015" title=" " alt="" coords="915,285,862,278,862,273,915,280"/>
+<area shape="rect" id="Node000018" href="$group__rtc.html#gaef515b745f9e268dd5ef93ff8f8911d1" title="Checks if the RTC register is refreshing." alt="" coords="758,356,858,382"/>
+<area shape="poly" id="edge24_Node000014_Node000018" title=" " alt="" coords="941,314,841,358,839,353,939,310"/>
+<area shape="rect" id="Node000019" href="$group__rtc.html#ga94769392d96ebee5ccce3a4a4d398f01" title="Updates the display with the current time information." alt="" coords="547,356,676,382"/>
+<area shape="poly" id="edge29_Node000014_Node000019" title=" " alt="" coords="916,309,734,346,677,358,676,353,733,341,915,304"/>
+<area shape="rect" id="Node000016" href="$group__rtc.html#ga7ed80de54ee9955bb33f3fd29e24113d" title="Checks if the RTC is in BCD mode." alt="" coords="558,255,665,280"/>
+<area shape="poly" id="edge21_Node000015_Node000016" title=" " alt="" coords="738,270,665,270,665,265,738,265"/>
+<area shape="rect" id="Node000017" href="$group__rtc.html#ga5b2834a4a1e27abeb2f0663b4c85c774" title="Initializes the RTC and sets the BIN mode." alt="" coords="395,305,464,331"/>
+<area shape="poly" id="edge22_Node000015_Node000017" title=" " alt="" coords="739,286,686,295,564,310,465,319,464,313,564,305,685,290,739,280"/>
+<area shape="poly" id="edge23_Node000017_Node000012" title=" " alt="" coords="389,300,265,232,268,228,392,295"/>
+<area shape="poly" id="edge25_Node000018_Node000019" title=" " alt="" coords="743,372,677,372,677,366,743,366"/>
+<area shape="poly" id="edge26_Node000019_Node000017" title=" " alt="" coords="548,354,463,330,465,325,549,349"/>
+<area shape="rect" id="Node000020" href="$menu_8c.html#a404ce8815fe3754781e9d40671fa24bc" title="Updates the RTC frame." alt="" coords="180,304,303,330"/>
+<area shape="poly" id="edge27_Node000019_Node000020" title=" " alt="" coords="532,365,369,346,300,333,301,328,369,341,533,360"/>
+<area shape="poly" id="edge28_Node000020_Node000005" title=" " alt="" coords="211,296,75,181,78,177,215,292"/>
+<area shape="rect" id="Node000022" href="$timer_8c.html#af2c04fa8e97ffa748fd3f612886a92a7" title=" " alt="" coords="739,204,877,230"/>
+<area shape="poly" id="edge31_Node000021_Node000022" title=" " alt="" coords="917,220,877,220,877,214,917,214"/>
+<area shape="poly" id="edge32_Node000022_Node000012" title=" " alt="" coords="724,220,268,220,268,214,724,214"/>
+</map>

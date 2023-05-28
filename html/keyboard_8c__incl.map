@@ -1,0 +1,16 @@
+<map id="controller/keyboard/keyboard.c" name="controller/keyboard/keyboard.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="107,5,238,46"/>
+<area shape="rect" id="Node000002" href="$keyboard_8h.html" title="Keyboard functions and definitions." alt="" coords="131,94,214,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,46,175,79,170,79,170,46"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,241,108,267"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="155,122,127,142,100,169,81,199,68,229,63,226,76,196,96,166,124,138,152,118"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="131,241,209,267"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="178,120,182,153,183,194,178,227,173,227,178,193,177,153,172,121"/>
+<area shape="rect" id="Node000005" href="$keyboard_2i8042_8h.html" title=" " alt="" coords="232,241,294,267"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="182,119,250,227,246,230,178,121"/>
+<area shape="rect" id="Node000006" href="$keyboard_2KBC_8h.html" title=" " alt="" coords="110,168,168,193"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="169,121,153,155,148,153,165,119"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="127,196,83,233,80,229,123,192"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="147,193,161,226,156,229,142,195"/>
+<area shape="poly" id="edge8_Node000006_Node000005" title=" " alt="" coords="162,192,231,231,229,236,159,196"/>
+</map>

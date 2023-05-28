@@ -1,0 +1,13 @@
+<map id="draw_initial_menu" name="draw_initial_menu">
+<area shape="rect" id="Node000001" title="Draws the initial menu." alt="" coords="5,24,131,50"/>
+<area shape="rect" id="Node000002" href="$game_8c.html#a8dbd1ea61ff2881fece87b274298b888" title="Draws a sprite at the specified coordinates." alt="" coords="370,24,450,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,21,178,9,250,3,322,9,358,17,357,22,322,14,250,8,179,14,117,26"/>
+<area shape="rect" id="Node000004" href="$game_8c.html#ab1b655653d313dac49a8ff958a5b415a" title=" " alt="" coords="181,24,320,50"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="131,34,167,34,167,40,131,40"/>
+<area shape="rect" id="Node000005" href="$game_8c.html#ad277f69cc8b6aaba4dcc28d715a46dde" title=" " alt="" coords="179,73,322,99"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="119,48,187,66,185,72,118,53"/>
+<area shape="rect" id="Node000003" href="$graphics_8c.html#afe65f24b8f80d17967df96eb563229ed" title="Draws a pixel at the specified coordinates." alt="" coords="498,24,630,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="451,34,483,34,483,40,451,40"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="320,34,355,34,355,40,320,40"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="294,70,355,51,357,56,295,75"/>
+</map>

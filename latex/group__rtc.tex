@@ -1,0 +1,524 @@
+\doxysection{RTC}
+\hypertarget{group__rtc}{}\label{group__rtc}\index{RTC@{RTC}}
+\doxysubsubsection*{Classes}
+\begin{DoxyCompactItemize}
+\item 
+struct \mbox{\hyperlink{structreal__time__mode__info}{real\+\_\+time\+\_\+mode\+\_\+info}}
+\begin{DoxyCompactList}\small\item\em Structure that holds real-\/time mode information. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsubsection*{Macros}
+\begin{DoxyCompactItemize}
+\item 
+\#define \mbox{\hyperlink{group__rtc_gabf35785bd542afab3714f8c41339cb83}{MASK\+\_\+\+OF\+\_\+\+RTC}}~5
+\begin{DoxyCompactList}\small\item\em RTC interrupt hook ID. \end{DoxyCompactList}\item 
+\#define \mbox{\hyperlink{group__rtc_ga7f6b0bbf4271dd31625f92ec8314808c}{RTC\+\_\+\+IRQ\+\_\+\+LINE}}~8
+\begin{DoxyCompactList}\small\item\em RTC IRQ line. \end{DoxyCompactList}\item 
+\#define \mbox{\hyperlink{group__rtc_ga4bbf7c63b5a40b7c1dfb3a6bad07cd77}{IN\+\_\+\+REG}}~0x70
+\begin{DoxyCompactList}\small\item\em RTC input register port. \end{DoxyCompactList}\item 
+\#define \mbox{\hyperlink{group__rtc_gad26b371026f8a5e0073cca0123a0991f}{OUT\+\_\+\+REG}}~0x71
+\begin{DoxyCompactList}\small\item\em RTC output register port. \end{DoxyCompactList}\item 
+\#define \mbox{\hyperlink{group__rtc_ga87c0d279ee1ef5dd1a817163d63a2131}{REGISTER\+\_\+\+IS\+\_\+\+REFRESHING}}~10
+\begin{DoxyCompactList}\small\item\em Command to check if the register is refreshing. \end{DoxyCompactList}\item 
+\#define \mbox{\hyperlink{group__rtc_ga0a23a2d1b58ccac70677277ace0fd147}{REGISTER\+\_\+\+IN\+\_\+\+COUNT}}~11
+\begin{DoxyCompactList}\small\item\em Command to check the input count. \end{DoxyCompactList}\item 
+\#define \mbox{\hyperlink{group__rtc_ga48fcf4f2eeef6769d588168d4ac2ab0e}{SECONDS}}~0
+\begin{DoxyCompactList}\small\item\em Command to read the seconds. \end{DoxyCompactList}\item 
+\#define \mbox{\hyperlink{group__rtc_ga84be9dcfa5a172ee83121620d15c8e29}{MINUTES}}~2
+\begin{DoxyCompactList}\small\item\em Command to read the minutes. \end{DoxyCompactList}\item 
+\#define \mbox{\hyperlink{group__rtc_ga212d0f839f6f7ca43ccde311f93d5892}{HOURS}}~4
+\begin{DoxyCompactList}\small\item\em Command to read the hours. \end{DoxyCompactList}\item 
+\#define \mbox{\hyperlink{group__rtc_ga509a01c55cbe47386fe24602b7c7fda1}{DAY}}~7
+\begin{DoxyCompactList}\small\item\em Command to read the day. \end{DoxyCompactList}\item 
+\#define \mbox{\hyperlink{group__rtc_ga3729d06495d9713592f79f3122c9e677}{MONTH}}~8
+\begin{DoxyCompactList}\small\item\em Command to read the month. \end{DoxyCompactList}\item 
+\#define \mbox{\hyperlink{group__rtc_ga5871356500f559add06ea81d60331b1b}{YEAR}}~9
+\begin{DoxyCompactList}\small\item\em Command to read the year. \end{DoxyCompactList}\item 
+\#define \mbox{\hyperlink{group__rtc_ga75267cdfa3fa9e52c7c1f1094f9387b7}{BIN}}~BIT(2)
+\begin{DoxyCompactList}\small\item\em Bit to indicate BIN mode in RTC. \end{DoxyCompactList}\item 
+\#define \mbox{\hyperlink{group__rtc_gab66a030bc0ef4e27415e1cceed05c340}{REFRESHING}}~BIT(7)
+\begin{DoxyCompactList}\small\item\em Bit to indicate refreshing in RTC. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsubsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \mbox{\hyperlink{group__rtc_ga5b2834a4a1e27abeb2f0663b4c85c774}{start\+\_\+rtc}} ()
+\begin{DoxyCompactList}\small\item\em Initializes the RTC and sets the BIN mode. \end{DoxyCompactList}\item 
+int \mbox{\hyperlink{group__rtc_gabb90a7b2307300874b2529d94aafacca}{rtc\+\_\+subscribe\+\_\+interrupts}} ()
+\begin{DoxyCompactList}\small\item\em Subscribes to RTC interrupts. \end{DoxyCompactList}\item 
+int \mbox{\hyperlink{group__rtc_gae0e5cb47db8832528abb7dc48255cd3a}{rtc\+\_\+unsubscribe\+\_\+interrupts}} ()
+\begin{DoxyCompactList}\small\item\em Unsubscribes from RTC interrupts. \end{DoxyCompactList}\item 
+int \mbox{\hyperlink{group__rtc_ga08dd3c2627aebf3204253ed9ba0236d3}{read\+\_\+output\+\_\+rtc}} (uint8\+\_\+t command, uint8\+\_\+t \texorpdfstring{$\ast$}{*}output)
+\begin{DoxyCompactList}\small\item\em Reads the output from RTC registers. \end{DoxyCompactList}\item 
+int \mbox{\hyperlink{group__rtc_gaef515b745f9e268dd5ef93ff8f8911d1}{rtc\+\_\+refreshing}} ()
+\begin{DoxyCompactList}\small\item\em Checks if the RTC register is refreshing. \end{DoxyCompactList}\item 
+int \mbox{\hyperlink{group__rtc_gacb0d88799292ce6eb5d3591ca1f6d2a4}{rtc\+\_\+check\+\_\+\+BIN}} ()
+\begin{DoxyCompactList}\small\item\em Checks if the RTC is in BIN mode. \end{DoxyCompactList}\item 
+int \mbox{\hyperlink{group__rtc_ga7ed80de54ee9955bb33f3fd29e24113d}{rtc\+\_\+check\+\_\+bcd}} ()
+\begin{DoxyCompactList}\small\item\em Checks if the RTC is in BCD mode. \end{DoxyCompactList}\item 
+uint8\+\_\+t \mbox{\hyperlink{group__rtc_ga89909f87efc892913df930c0451ccc96}{rtc\+\_\+2\+\_\+\+BIN}} (uint8\+\_\+t bcd\+\_\+convert\+\_\+number)
+\begin{DoxyCompactList}\small\item\em Converts a BCD value to BIN. \end{DoxyCompactList}\item 
+int \mbox{\hyperlink{group__rtc_ga94769392d96ebee5ccce3a4a4d398f01}{rtc\+\_\+update\+\_\+display}} ()
+\begin{DoxyCompactList}\small\item\em Updates the display with the current time information. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsubsection*{Variables}
+\begin{DoxyCompactItemize}
+\item 
+uint8\+\_\+t \mbox{\hyperlink{group__rtc_ga3144a63d6373dd14acd672a5c88227df}{real\+\_\+time\+\_\+mode\+\_\+info\+::year}}
+\begin{DoxyCompactList}\small\item\em Year. \end{DoxyCompactList}\item 
+uint8\+\_\+t \mbox{\hyperlink{group__rtc_ga5411b1f286d3af64fdfbedddb96c1069}{real\+\_\+time\+\_\+mode\+\_\+info\+::month}}
+\begin{DoxyCompactList}\small\item\em Month. \end{DoxyCompactList}\item 
+uint8\+\_\+t \mbox{\hyperlink{group__rtc_ga2b3013292af9d815846a2fea4afdd3bf}{real\+\_\+time\+\_\+mode\+\_\+info\+::day}}
+\begin{DoxyCompactList}\small\item\em Day. \end{DoxyCompactList}\item 
+uint8\+\_\+t \mbox{\hyperlink{group__rtc_gaff69088cf677b58f61826c5eae2548e6}{real\+\_\+time\+\_\+mode\+\_\+info\+::hours}}
+\begin{DoxyCompactList}\small\item\em Hours. \end{DoxyCompactList}\item 
+uint8\+\_\+t \mbox{\hyperlink{group__rtc_ga605b52cd673f0b63d79dd23962dcf4c6}{real\+\_\+time\+\_\+mode\+\_\+info\+::minutes}}
+\begin{DoxyCompactList}\small\item\em Minutes. \end{DoxyCompactList}\item 
+uint8\+\_\+t \mbox{\hyperlink{group__rtc_ga45e697c31491506a71029697229af2a1}{real\+\_\+time\+\_\+mode\+\_\+info\+::seconds}}
+\begin{DoxyCompactList}\small\item\em Seconds. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Functions and definitions for RTC (Real-\/\+Time Clock) operations. 
+
+\doxysubsection{Macro Definition Documentation}
+\Hypertarget{group__rtc_ga75267cdfa3fa9e52c7c1f1094f9387b7}\label{group__rtc_ga75267cdfa3fa9e52c7c1f1094f9387b7} 
+\index{RTC@{RTC}!BIN@{BIN}}
+\index{BIN@{BIN}!RTC@{RTC}}
+\doxysubsubsection{\texorpdfstring{BIN}{BIN}}
+{\footnotesize\ttfamily \#define BIN~BIT(2)}
+
+
+
+Bit to indicate BIN mode in RTC. 
+
+\Hypertarget{group__rtc_ga509a01c55cbe47386fe24602b7c7fda1}\label{group__rtc_ga509a01c55cbe47386fe24602b7c7fda1} 
+\index{RTC@{RTC}!DAY@{DAY}}
+\index{DAY@{DAY}!RTC@{RTC}}
+\doxysubsubsection{\texorpdfstring{DAY}{DAY}}
+{\footnotesize\ttfamily \#define DAY~7}
+
+
+
+Command to read the day. 
+
+\Hypertarget{group__rtc_ga212d0f839f6f7ca43ccde311f93d5892}\label{group__rtc_ga212d0f839f6f7ca43ccde311f93d5892} 
+\index{RTC@{RTC}!HOURS@{HOURS}}
+\index{HOURS@{HOURS}!RTC@{RTC}}
+\doxysubsubsection{\texorpdfstring{HOURS}{HOURS}}
+{\footnotesize\ttfamily \#define HOURS~4}
+
+
+
+Command to read the hours. 
+
+\Hypertarget{group__rtc_ga4bbf7c63b5a40b7c1dfb3a6bad07cd77}\label{group__rtc_ga4bbf7c63b5a40b7c1dfb3a6bad07cd77} 
+\index{RTC@{RTC}!IN\_REG@{IN\_REG}}
+\index{IN\_REG@{IN\_REG}!RTC@{RTC}}
+\doxysubsubsection{\texorpdfstring{IN\_REG}{IN\_REG}}
+{\footnotesize\ttfamily \#define IN\+\_\+\+REG~0x70}
+
+
+
+RTC input register port. 
+
+\Hypertarget{group__rtc_gabf35785bd542afab3714f8c41339cb83}\label{group__rtc_gabf35785bd542afab3714f8c41339cb83} 
+\index{RTC@{RTC}!MASK\_OF\_RTC@{MASK\_OF\_RTC}}
+\index{MASK\_OF\_RTC@{MASK\_OF\_RTC}!RTC@{RTC}}
+\doxysubsubsection{\texorpdfstring{MASK\_OF\_RTC}{MASK\_OF\_RTC}}
+{\footnotesize\ttfamily \#define MASK\+\_\+\+OF\+\_\+\+RTC~5}
+
+
+
+RTC interrupt hook ID. 
+
+\Hypertarget{group__rtc_ga84be9dcfa5a172ee83121620d15c8e29}\label{group__rtc_ga84be9dcfa5a172ee83121620d15c8e29} 
+\index{RTC@{RTC}!MINUTES@{MINUTES}}
+\index{MINUTES@{MINUTES}!RTC@{RTC}}
+\doxysubsubsection{\texorpdfstring{MINUTES}{MINUTES}}
+{\footnotesize\ttfamily \#define MINUTES~2}
+
+
+
+Command to read the minutes. 
+
+\Hypertarget{group__rtc_ga3729d06495d9713592f79f3122c9e677}\label{group__rtc_ga3729d06495d9713592f79f3122c9e677} 
+\index{RTC@{RTC}!MONTH@{MONTH}}
+\index{MONTH@{MONTH}!RTC@{RTC}}
+\doxysubsubsection{\texorpdfstring{MONTH}{MONTH}}
+{\footnotesize\ttfamily \#define MONTH~8}
+
+
+
+Command to read the month. 
+
+\Hypertarget{group__rtc_gad26b371026f8a5e0073cca0123a0991f}\label{group__rtc_gad26b371026f8a5e0073cca0123a0991f} 
+\index{RTC@{RTC}!OUT\_REG@{OUT\_REG}}
+\index{OUT\_REG@{OUT\_REG}!RTC@{RTC}}
+\doxysubsubsection{\texorpdfstring{OUT\_REG}{OUT\_REG}}
+{\footnotesize\ttfamily \#define OUT\+\_\+\+REG~0x71}
+
+
+
+RTC output register port. 
+
+\Hypertarget{group__rtc_gab66a030bc0ef4e27415e1cceed05c340}\label{group__rtc_gab66a030bc0ef4e27415e1cceed05c340} 
+\index{RTC@{RTC}!REFRESHING@{REFRESHING}}
+\index{REFRESHING@{REFRESHING}!RTC@{RTC}}
+\doxysubsubsection{\texorpdfstring{REFRESHING}{REFRESHING}}
+{\footnotesize\ttfamily \#define REFRESHING~BIT(7)}
+
+
+
+Bit to indicate refreshing in RTC. 
+
+\Hypertarget{group__rtc_ga0a23a2d1b58ccac70677277ace0fd147}\label{group__rtc_ga0a23a2d1b58ccac70677277ace0fd147} 
+\index{RTC@{RTC}!REGISTER\_IN\_COUNT@{REGISTER\_IN\_COUNT}}
+\index{REGISTER\_IN\_COUNT@{REGISTER\_IN\_COUNT}!RTC@{RTC}}
+\doxysubsubsection{\texorpdfstring{REGISTER\_IN\_COUNT}{REGISTER\_IN\_COUNT}}
+{\footnotesize\ttfamily \#define REGISTER\+\_\+\+IN\+\_\+\+COUNT~11}
+
+
+
+Command to check the input count. 
+
+\Hypertarget{group__rtc_ga87c0d279ee1ef5dd1a817163d63a2131}\label{group__rtc_ga87c0d279ee1ef5dd1a817163d63a2131} 
+\index{RTC@{RTC}!REGISTER\_IS\_REFRESHING@{REGISTER\_IS\_REFRESHING}}
+\index{REGISTER\_IS\_REFRESHING@{REGISTER\_IS\_REFRESHING}!RTC@{RTC}}
+\doxysubsubsection{\texorpdfstring{REGISTER\_IS\_REFRESHING}{REGISTER\_IS\_REFRESHING}}
+{\footnotesize\ttfamily \#define REGISTER\+\_\+\+IS\+\_\+\+REFRESHING~10}
+
+
+
+Command to check if the register is refreshing. 
+
+\Hypertarget{group__rtc_ga7f6b0bbf4271dd31625f92ec8314808c}\label{group__rtc_ga7f6b0bbf4271dd31625f92ec8314808c} 
+\index{RTC@{RTC}!RTC\_IRQ\_LINE@{RTC\_IRQ\_LINE}}
+\index{RTC\_IRQ\_LINE@{RTC\_IRQ\_LINE}!RTC@{RTC}}
+\doxysubsubsection{\texorpdfstring{RTC\_IRQ\_LINE}{RTC\_IRQ\_LINE}}
+{\footnotesize\ttfamily \#define RTC\+\_\+\+IRQ\+\_\+\+LINE~8}
+
+
+
+RTC IRQ line. 
+
+\Hypertarget{group__rtc_ga48fcf4f2eeef6769d588168d4ac2ab0e}\label{group__rtc_ga48fcf4f2eeef6769d588168d4ac2ab0e} 
+\index{RTC@{RTC}!SECONDS@{SECONDS}}
+\index{SECONDS@{SECONDS}!RTC@{RTC}}
+\doxysubsubsection{\texorpdfstring{SECONDS}{SECONDS}}
+{\footnotesize\ttfamily \#define SECONDS~0}
+
+
+
+Command to read the seconds. 
+
+\Hypertarget{group__rtc_ga5871356500f559add06ea81d60331b1b}\label{group__rtc_ga5871356500f559add06ea81d60331b1b} 
+\index{RTC@{RTC}!YEAR@{YEAR}}
+\index{YEAR@{YEAR}!RTC@{RTC}}
+\doxysubsubsection{\texorpdfstring{YEAR}{YEAR}}
+{\footnotesize\ttfamily \#define YEAR~9}
+
+
+
+Command to read the year. 
+
+
+
+\doxysubsection{Function Documentation}
+\Hypertarget{group__rtc_ga08dd3c2627aebf3204253ed9ba0236d3}\label{group__rtc_ga08dd3c2627aebf3204253ed9ba0236d3} 
+\index{RTC@{RTC}!read\_output\_rtc@{read\_output\_rtc}}
+\index{read\_output\_rtc@{read\_output\_rtc}!RTC@{RTC}}
+\doxysubsubsection{\texorpdfstring{read\_output\_rtc()}{read\_output\_rtc()}}
+{\footnotesize\ttfamily int read\+\_\+output\+\_\+rtc (\begin{DoxyParamCaption}\item[{uint8\+\_\+t}]{command,  }\item[{uint8\+\_\+t \texorpdfstring{$\ast$}{*}}]{output }\end{DoxyParamCaption})}
+
+
+
+Reads the output from RTC registers. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em command} & Command to send to the RTC. \\
+\hline
+{\em output} & Pointer to store the output value. \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Return 0 upon success, non-\/zero otherwise. 
+\end{DoxyReturn}
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=267pt]{group__rtc_ga08dd3c2627aebf3204253ed9ba0236d3_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{group__rtc_ga08dd3c2627aebf3204253ed9ba0236d3_icgraph}
+\end{center}
+\end{figure}
+\Hypertarget{group__rtc_ga89909f87efc892913df930c0451ccc96}\label{group__rtc_ga89909f87efc892913df930c0451ccc96} 
+\index{RTC@{RTC}!rtc\_2\_BIN@{rtc\_2\_BIN}}
+\index{rtc\_2\_BIN@{rtc\_2\_BIN}!RTC@{RTC}}
+\doxysubsubsection{\texorpdfstring{rtc\_2\_BIN()}{rtc\_2\_BIN()}}
+{\footnotesize\ttfamily uint8\+\_\+t rtc\+\_\+2\+\_\+\+BIN (\begin{DoxyParamCaption}\item[{uint8\+\_\+t}]{bcd\+\_\+convert\+\_\+number }\end{DoxyParamCaption})}
+
+
+
+Converts a BCD value to BIN. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em bcd\+\_\+convert\+\_\+number} & BCD value to convert. \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Converted BIN value. 
+\end{DoxyReturn}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{group__rtc_ga89909f87efc892913df930c0451ccc96_icgraph}
+\end{center}
+\end{figure}
+\Hypertarget{group__rtc_ga7ed80de54ee9955bb33f3fd29e24113d}\label{group__rtc_ga7ed80de54ee9955bb33f3fd29e24113d} 
+\index{RTC@{RTC}!rtc\_check\_bcd@{rtc\_check\_bcd}}
+\index{rtc\_check\_bcd@{rtc\_check\_bcd}!RTC@{RTC}}
+\doxysubsubsection{\texorpdfstring{rtc\_check\_bcd()}{rtc\_check\_bcd()}}
+{\footnotesize\ttfamily int rtc\+\_\+check\+\_\+bcd (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Checks if the RTC is in BCD mode. 
+
+\begin{DoxyReturn}{Returns}
+Return 1 if in BCD mode, 0 otherwise. 
+\end{DoxyReturn}
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{group__rtc_ga7ed80de54ee9955bb33f3fd29e24113d_cgraph}
+\end{center}
+\end{figure}
+\Hypertarget{group__rtc_gacb0d88799292ce6eb5d3591ca1f6d2a4}\label{group__rtc_gacb0d88799292ce6eb5d3591ca1f6d2a4} 
+\index{RTC@{RTC}!rtc\_check\_BIN@{rtc\_check\_BIN}}
+\index{rtc\_check\_BIN@{rtc\_check\_BIN}!RTC@{RTC}}
+\doxysubsubsection{\texorpdfstring{rtc\_check\_BIN()}{rtc\_check\_BIN()}}
+{\footnotesize\ttfamily int rtc\+\_\+check\+\_\+\+BIN (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Checks if the RTC is in BIN mode. 
+
+\begin{DoxyReturn}{Returns}
+Return 1 if in BIN mode, 0 otherwise. 
+\end{DoxyReturn}
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{group__rtc_gacb0d88799292ce6eb5d3591ca1f6d2a4_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{group__rtc_gacb0d88799292ce6eb5d3591ca1f6d2a4_icgraph}
+\end{center}
+\end{figure}
+\Hypertarget{group__rtc_gaef515b745f9e268dd5ef93ff8f8911d1}\label{group__rtc_gaef515b745f9e268dd5ef93ff8f8911d1} 
+\index{RTC@{RTC}!rtc\_refreshing@{rtc\_refreshing}}
+\index{rtc\_refreshing@{rtc\_refreshing}!RTC@{RTC}}
+\doxysubsubsection{\texorpdfstring{rtc\_refreshing()}{rtc\_refreshing()}}
+{\footnotesize\ttfamily int rtc\+\_\+refreshing (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Checks if the RTC register is refreshing. 
+
+\begin{DoxyReturn}{Returns}
+Return 1 if refreshing, 0 otherwise. 
+\end{DoxyReturn}
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{group__rtc_gaef515b745f9e268dd5ef93ff8f8911d1_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{group__rtc_gaef515b745f9e268dd5ef93ff8f8911d1_icgraph}
+\end{center}
+\end{figure}
+\Hypertarget{group__rtc_gabb90a7b2307300874b2529d94aafacca}\label{group__rtc_gabb90a7b2307300874b2529d94aafacca} 
+\index{RTC@{RTC}!rtc\_subscribe\_interrupts@{rtc\_subscribe\_interrupts}}
+\index{rtc\_subscribe\_interrupts@{rtc\_subscribe\_interrupts}!RTC@{RTC}}
+\doxysubsubsection{\texorpdfstring{rtc\_subscribe\_interrupts()}{rtc\_subscribe\_interrupts()}}
+{\footnotesize\ttfamily int rtc\+\_\+subscribe\+\_\+interrupts (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Subscribes to RTC interrupts. 
+
+\begin{DoxyReturn}{Returns}
+Return 0 upon success, non-\/zero otherwise. 
+\end{DoxyReturn}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{group__rtc_gabb90a7b2307300874b2529d94aafacca_icgraph}
+\end{center}
+\end{figure}
+\Hypertarget{group__rtc_gae0e5cb47db8832528abb7dc48255cd3a}\label{group__rtc_gae0e5cb47db8832528abb7dc48255cd3a} 
+\index{RTC@{RTC}!rtc\_unsubscribe\_interrupts@{rtc\_unsubscribe\_interrupts}}
+\index{rtc\_unsubscribe\_interrupts@{rtc\_unsubscribe\_interrupts}!RTC@{RTC}}
+\doxysubsubsection{\texorpdfstring{rtc\_unsubscribe\_interrupts()}{rtc\_unsubscribe\_interrupts()}}
+{\footnotesize\ttfamily int rtc\+\_\+unsubscribe\+\_\+interrupts (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Unsubscribes from RTC interrupts. 
+
+\begin{DoxyReturn}{Returns}
+Return 0 upon success, non-\/zero otherwise. 
+\end{DoxyReturn}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{group__rtc_gae0e5cb47db8832528abb7dc48255cd3a_icgraph}
+\end{center}
+\end{figure}
+\Hypertarget{group__rtc_ga94769392d96ebee5ccce3a4a4d398f01}\label{group__rtc_ga94769392d96ebee5ccce3a4a4d398f01} 
+\index{RTC@{RTC}!rtc\_update\_display@{rtc\_update\_display}}
+\index{rtc\_update\_display@{rtc\_update\_display}!RTC@{RTC}}
+\doxysubsubsection{\texorpdfstring{rtc\_update\_display()}{rtc\_update\_display()}}
+{\footnotesize\ttfamily int rtc\+\_\+update\+\_\+display (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Updates the display with the current time information. 
+
+\begin{DoxyReturn}{Returns}
+Return 0 upon success, non-\/zero otherwise. 
+\end{DoxyReturn}
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{group__rtc_ga94769392d96ebee5ccce3a4a4d398f01_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{group__rtc_ga94769392d96ebee5ccce3a4a4d398f01_icgraph}
+\end{center}
+\end{figure}
+\Hypertarget{group__rtc_ga5b2834a4a1e27abeb2f0663b4c85c774}\label{group__rtc_ga5b2834a4a1e27abeb2f0663b4c85c774} 
+\index{RTC@{RTC}!start\_rtc@{start\_rtc}}
+\index{start\_rtc@{start\_rtc}!RTC@{RTC}}
+\doxysubsubsection{\texorpdfstring{start\_rtc()}{start\_rtc()}}
+{\footnotesize\ttfamily void start\+\_\+rtc (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Initializes the RTC and sets the BIN mode. 
+
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{group__rtc_ga5b2834a4a1e27abeb2f0663b4c85c774_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=325pt]{group__rtc_ga5b2834a4a1e27abeb2f0663b4c85c774_icgraph}
+\end{center}
+\end{figure}
+
+
+\doxysubsection{Variable Documentation}
+\Hypertarget{group__rtc_ga2b3013292af9d815846a2fea4afdd3bf}\label{group__rtc_ga2b3013292af9d815846a2fea4afdd3bf} 
+\index{RTC@{RTC}!day@{day}}
+\index{day@{day}!RTC@{RTC}}
+\doxysubsubsection{\texorpdfstring{day}{day}}
+{\footnotesize\ttfamily uint8\+\_\+t real\+\_\+time\+\_\+mode\+\_\+info\+::day}
+
+
+
+Day. 
+
+\Hypertarget{group__rtc_gaff69088cf677b58f61826c5eae2548e6}\label{group__rtc_gaff69088cf677b58f61826c5eae2548e6} 
+\index{RTC@{RTC}!hours@{hours}}
+\index{hours@{hours}!RTC@{RTC}}
+\doxysubsubsection{\texorpdfstring{hours}{hours}}
+{\footnotesize\ttfamily uint8\+\_\+t real\+\_\+time\+\_\+mode\+\_\+info\+::hours}
+
+
+
+Hours. 
+
+\Hypertarget{group__rtc_ga605b52cd673f0b63d79dd23962dcf4c6}\label{group__rtc_ga605b52cd673f0b63d79dd23962dcf4c6} 
+\index{RTC@{RTC}!minutes@{minutes}}
+\index{minutes@{minutes}!RTC@{RTC}}
+\doxysubsubsection{\texorpdfstring{minutes}{minutes}}
+{\footnotesize\ttfamily uint8\+\_\+t real\+\_\+time\+\_\+mode\+\_\+info\+::minutes}
+
+
+
+Minutes. 
+
+\Hypertarget{group__rtc_ga5411b1f286d3af64fdfbedddb96c1069}\label{group__rtc_ga5411b1f286d3af64fdfbedddb96c1069} 
+\index{RTC@{RTC}!month@{month}}
+\index{month@{month}!RTC@{RTC}}
+\doxysubsubsection{\texorpdfstring{month}{month}}
+{\footnotesize\ttfamily uint8\+\_\+t real\+\_\+time\+\_\+mode\+\_\+info\+::month}
+
+
+
+Month. 
+
+\Hypertarget{group__rtc_ga45e697c31491506a71029697229af2a1}\label{group__rtc_ga45e697c31491506a71029697229af2a1} 
+\index{RTC@{RTC}!seconds@{seconds}}
+\index{seconds@{seconds}!RTC@{RTC}}
+\doxysubsubsection{\texorpdfstring{seconds}{seconds}}
+{\footnotesize\ttfamily uint8\+\_\+t real\+\_\+time\+\_\+mode\+\_\+info\+::seconds}
+
+
+
+Seconds. 
+
+\Hypertarget{group__rtc_ga3144a63d6373dd14acd672a5c88227df}\label{group__rtc_ga3144a63d6373dd14acd672a5c88227df} 
+\index{RTC@{RTC}!year@{year}}
+\index{year@{year}!RTC@{RTC}}
+\doxysubsubsection{\texorpdfstring{year}{year}}
+{\footnotesize\ttfamily uint8\+\_\+t real\+\_\+time\+\_\+mode\+\_\+info\+::year}
+
+
+
+Year. 
+

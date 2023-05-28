@@ -1,0 +1,11 @@
+<map id="controller/keyboard/KBC.c" name="controller/keyboard/KBC.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="105,5,235,46"/>
+<area shape="rect" id="Node000002" href="$keyboard_2KBC_8h.html" title=" " alt="" coords="141,94,199,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,46,173,79,167,79,167,46"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,168,108,193"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="152,122,90,162,87,157,149,118"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="131,168,209,193"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="173,120,173,153,167,153,167,120"/>
+<area shape="rect" id="Node000005" href="$keyboard_2i8042_8h.html" title=" " alt="" coords="232,168,294,193"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="187,118,238,156,234,161,184,122"/>
+</map>

@@ -1,0 +1,683 @@
+\doxysection{game/modes/menu.c File Reference}
+\hypertarget{menu_8c}{}\label{menu_8c}\index{game/modes/menu.c@{game/modes/menu.c}}
+
+
+Functions for the game mode 2 for 1 player.  
+
+
+{\ttfamily \#include \"{}menu.\+h\"{}}\newline
+{\ttfamily \#include \"{}lcom/vbe.\+h\"{}}\newline
+{\ttfamily \#include \"{}../game.\+h\"{}}\newline
+Include dependency graph for menu.\+c\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{menu_8c__incl}
+\end{center}
+\end{figure}
+\doxysubsubsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \mbox{\hyperlink{menu_8c_ab6ac87fd3d0ffee40696dd0e80392fae}{start\+\_\+sprites}} ()
+\begin{DoxyCompactList}\small\item\em Initializes the sprites. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{menu_8c_adf815250a10afe5bf29cf7ea4ff8b879}{del\+\_\+sprites}} ()
+\begin{DoxyCompactList}\small\item\em Deletes the sprites. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{menu_8c_a5791e4d9006275c5477e1f84606f76ba}{update\+\_\+timer\+\_\+frame}} ()
+\begin{DoxyCompactList}\small\item\em Updates the timer frame. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{menu_8c_a404ce8815fe3754781e9d40671fa24bc}{update\+\_\+rtc\+\_\+frame}} ()
+\begin{DoxyCompactList}\small\item\em Updates the RTC frame. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{menu_8c_a98c6c78726a3055d4fd38d1e280ee77d}{update\+\_\+keyboard\+\_\+frame}} ()
+\begin{DoxyCompactList}\small\item\em Updates the keyboard frame. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{menu_8c_a700d639dd6af8e7fe655cc00bbed358e}{update\+\_\+mouse\+\_\+frame}} ()
+\begin{DoxyCompactList}\small\item\em Updates the mouse frame. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsubsection*{Variables}
+\begin{DoxyCompactItemize}
+\item 
+uint8\+\_\+t \mbox{\hyperlink{menu_8c_aa1de7a5557e9d96b83cf03f73c92163f}{scancode}}
+\item 
+uint8\+\_\+t \mbox{\hyperlink{menu_8c_aa1689ef1a5b1ff5a125fd8ae3192103e}{byte\+\_\+position}}
+\item 
+\mbox{\hyperlink{menu_8h_aa51313be2faacb739a18fdeecefbac75}{System\+State}} \mbox{\hyperlink{menu_8c_ac705089b22877f6322d09a9f0f5bdb1d}{system\+State}} = \mbox{\hyperlink{menu_8h_aa51313be2faacb739a18fdeecefbac75a1061be6c3fb88d32829cba6f6b2be304}{RUNNING}}
+\item 
+\mbox{\hyperlink{menu_8h_aa3041ae4242c0dd57a126d17505443b2}{Menu\+State}} \mbox{\hyperlink{menu_8c_a92b62ab09159876ce3ca4dc9340931ca}{menu\+State}} = \mbox{\hyperlink{menu_8h_aa3041ae4242c0dd57a126d17505443b2a13d000b4d7dc70d90239b7430d1eb6b2}{START}}
+\item 
+\mbox{\hyperlink{structMouse__Info__Struct}{Mouse\+\_\+\+Info\+\_\+\+Struct}} \mbox{\hyperlink{menu_8c_ae91e7092e34fe82f7681427aeaf551d4}{mouse\+\_\+info\+\_\+s}}
+\item 
+vbe\+\_\+mode\+\_\+info\+\_\+t \mbox{\hyperlink{menu_8c_a9fcc2243068f8e628648febc0909c509}{mode\+\_\+info}}
+\begin{DoxyCompactList}\small\item\em The VBE mode info. \end{DoxyCompactList}\item 
+\mbox{\hyperlink{structreal__time__mode__info}{real\+\_\+time\+\_\+mode\+\_\+info}} \mbox{\hyperlink{menu_8c_a94312aa7bce580ff38bc35780b632130}{time\+\_\+mode\+\_\+info}}
+\item 
+int \mbox{\hyperlink{menu_8c_a1e30742bebf19a062d6570158986c241}{gameplay\+Counter}} = 200
+\item 
+bool \mbox{\hyperlink{menu_8c_a73eaba0a5c1f65d0735af0bb6946a2da}{is\+\_\+processing}} = false
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{menu_8c_af03a383fdcfdf7501006a5c8d68be42b}{mouse}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{menu_8c_a86918a6ee8c611efed39b31b07278c45}{hand}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{menu_8c_a8e0b895872b62a170f78da59f0c00628}{teste}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{menu_8c_a128ae586c5fbd6f3347f466a69a01ba1}{logo}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{menu_8c_ae32a4889829cce60cde61e39a6e51ae2}{quit\+Button}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{menu_8c_aafe203b91caf3440a421375411f90d28}{quit\+Button\+Pressed}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{menu_8c_ad5629cf4002b09278d832c4b14cdfac9}{button1}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{menu_8c_af2773b4ef8483b362e609df8319bdef0}{button2}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{menu_8c_a38b52307fbdb2bbd04461980e2c33acd}{button3}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{menu_8c_a542ab6fd92a7ce52dc07980e5c6edb84}{button4}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{menu_8c_aaee505dc5b3b45801ffb410df1704541}{number1}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{menu_8c_a18e6a886be63dfb579756e81e3fe5292}{number2}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{menu_8c_a5a4ec8b1c2b7241721e90cdb201c7562}{number3}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{menu_8c_abf017686ed31131ad0f09cd637bfff4d}{number4}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{menu_8c_acffe389543fcf770f3dbc3f460b66ff0}{number5}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{menu_8c_a320b85ccfe029ee4f811ff193e06b9ab}{number6}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{menu_8c_a0de4c39e391f59c596d46a00e8fbf7c6}{number7}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{menu_8c_a311c0da3e2d004050eca5fd65a657671}{number8}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{menu_8c_aea6d7aabfde5f51bf21b382d70f7b9f9}{back}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{menu_8c_a9648babd8e22992aa253aa6acc5e8117}{back\+\_\+anim1}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{menu_8c_a56ee21857cb23d034f052420e2440981}{back\+\_\+anim2}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{menu_8c_a40456784800c3736a2ad78e0a511c84e}{back\+\_\+anim3}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{menu_8c_a1295b3c0ff423f980d472feb989bf194}{back\+\_\+anim4}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{menu_8c_abc124d24ce11b630d94587e1b8ec7f50}{game}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{menu_8c_a76454a7d013e0b6d5feb29b0ced6429e}{start}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{menu_8c_a9c4a90f687c138ee287a169b7f841d76}{hard}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{menu_8c_a6decdccaec76670c7ba6b9996cbe0fd5}{easy}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{menu_8c_a23b5714dc5df312a3af847a5371dfc74}{medium}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{menu_8c_ad9b3c6c4c5ea5d002bb6c6787f5c39b6}{quit}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{menu_8c_a5d48265cb0a2f964c0a0262e04bf123c}{Start}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{menu_8c_ad81890924ef6c3f870aec8e364e53a6c}{Quit}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{menu_8c_ac3ba90ef09a71d14d4b0385486f4eda6}{Easy}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{menu_8c_a5d887eaa440864fc31280246fb355e77}{Medium}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{menu_8c_a715207dcb9119b0c19ad38134bd89202}{Hard}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{menu_8c_a35545b19c5965108d0b7b242096cf9c0}{score0}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{menu_8c_a6df4f1fcd47b499c7552c2e782056ed1}{score1}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{menu_8c_a6910c116b5c0aacfc352cbce01741668}{score2}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{menu_8c_ac629d56c4c6ecaacd733780c5307f3cc}{score3}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{menu_8c_ac2908d52abfd48e386dfff799ade26fc}{score4}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{menu_8c_a80357d95b23a2f22edc9b3ed0834eb2e}{score5}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{menu_8c_a7e4393c4abded2b6326c8ab2fbf80184}{score6}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{menu_8c_a3e0dbaf03d458b53b575863428e38cc9}{score7}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{menu_8c_a9f70ed8e2eec0794f862be8214abe73b}{score8}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{menu_8c_a202b85679aa6d6350d23439ea5d80f8a}{score9}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{menu_8c_a5e46a4e183840ca17817c4bf492eb570}{player\+\_\+1\+\_\+xpm}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{menu_8c_ad474a587cd5804b66b1fcbd66f10b9d7}{player\+\_\+2\+\_\+xpm}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{menu_8c_affb6378211aa875b4dc3480ef1c79b77}{player\+\_\+1\+\_\+menu}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{menu_8c_aa9774031829af2340a1b959a5d288244}{player\+\_\+2\+\_\+menu}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{menu_8c_aa2ffa7cb4094f6dc635b0aa7fa2e25ba}{victory}}
+\item 
+int \mbox{\hyperlink{menu_8c_a9dd86e05eb51b73ffa496d0478503939}{timer\+\_\+interrupts}} = 0
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Functions for the game mode 2 for 1 player. 
+
+Functions for the game mode 3 for 2 players.
+
+Functions for the game mode 3 for 1 player.
+
+Functions for the game mode 2 for 2 players.
+
+\doxysubsection{Function Documentation}
+\Hypertarget{menu_8c_adf815250a10afe5bf29cf7ea4ff8b879}\label{menu_8c_adf815250a10afe5bf29cf7ea4ff8b879} 
+\index{menu.c@{menu.c}!del\_sprites@{del\_sprites}}
+\index{del\_sprites@{del\_sprites}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{del\_sprites()}{del\_sprites()}}
+{\footnotesize\ttfamily void del\+\_\+sprites (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Deletes the sprites. 
+
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=237pt]{menu_8c_adf815250a10afe5bf29cf7ea4ff8b879_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=345pt]{menu_8c_adf815250a10afe5bf29cf7ea4ff8b879_icgraph}
+\end{center}
+\end{figure}
+\Hypertarget{menu_8c_ab6ac87fd3d0ffee40696dd0e80392fae}\label{menu_8c_ab6ac87fd3d0ffee40696dd0e80392fae} 
+\index{menu.c@{menu.c}!start\_sprites@{start\_sprites}}
+\index{start\_sprites@{start\_sprites}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{start\_sprites()}{start\_sprites()}}
+{\footnotesize\ttfamily void start\+\_\+sprites (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Initializes the sprites. 
+
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=254pt]{menu_8c_ab6ac87fd3d0ffee40696dd0e80392fae_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=343pt]{menu_8c_ab6ac87fd3d0ffee40696dd0e80392fae_icgraph}
+\end{center}
+\end{figure}
+\Hypertarget{menu_8c_a98c6c78726a3055d4fd38d1e280ee77d}\label{menu_8c_a98c6c78726a3055d4fd38d1e280ee77d} 
+\index{menu.c@{menu.c}!update\_keyboard\_frame@{update\_keyboard\_frame}}
+\index{update\_keyboard\_frame@{update\_keyboard\_frame}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{update\_keyboard\_frame()}{update\_keyboard\_frame()}}
+{\footnotesize\ttfamily void update\+\_\+keyboard\+\_\+frame (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Updates the keyboard frame. 
+
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=550pt]{menu_8c_a98c6c78726a3055d4fd38d1e280ee77d_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=317pt]{menu_8c_a98c6c78726a3055d4fd38d1e280ee77d_icgraph}
+\end{center}
+\end{figure}
+\Hypertarget{menu_8c_a700d639dd6af8e7fe655cc00bbed358e}\label{menu_8c_a700d639dd6af8e7fe655cc00bbed358e} 
+\index{menu.c@{menu.c}!update\_mouse\_frame@{update\_mouse\_frame}}
+\index{update\_mouse\_frame@{update\_mouse\_frame}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{update\_mouse\_frame()}{update\_mouse\_frame()}}
+{\footnotesize\ttfamily void update\+\_\+mouse\+\_\+frame (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Updates the mouse frame. 
+
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=550pt]{menu_8c_a700d639dd6af8e7fe655cc00bbed358e_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=307pt]{menu_8c_a700d639dd6af8e7fe655cc00bbed358e_icgraph}
+\end{center}
+\end{figure}
+\Hypertarget{menu_8c_a404ce8815fe3754781e9d40671fa24bc}\label{menu_8c_a404ce8815fe3754781e9d40671fa24bc} 
+\index{menu.c@{menu.c}!update\_rtc\_frame@{update\_rtc\_frame}}
+\index{update\_rtc\_frame@{update\_rtc\_frame}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{update\_rtc\_frame()}{update\_rtc\_frame()}}
+{\footnotesize\ttfamily void update\+\_\+rtc\+\_\+frame (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Updates the RTC frame. 
+
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{menu_8c_a404ce8815fe3754781e9d40671fa24bc_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=289pt]{menu_8c_a404ce8815fe3754781e9d40671fa24bc_icgraph}
+\end{center}
+\end{figure}
+\Hypertarget{menu_8c_a5791e4d9006275c5477e1f84606f76ba}\label{menu_8c_a5791e4d9006275c5477e1f84606f76ba} 
+\index{menu.c@{menu.c}!update\_timer\_frame@{update\_timer\_frame}}
+\index{update\_timer\_frame@{update\_timer\_frame}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{update\_timer\_frame()}{update\_timer\_frame()}}
+{\footnotesize\ttfamily void update\+\_\+timer\+\_\+frame (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Updates the timer frame. 
+
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=550pt]{menu_8c_a5791e4d9006275c5477e1f84606f76ba_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=300pt]{menu_8c_a5791e4d9006275c5477e1f84606f76ba_icgraph}
+\end{center}
+\end{figure}
+
+
+\doxysubsection{Variable Documentation}
+\Hypertarget{menu_8c_aea6d7aabfde5f51bf21b382d70f7b9f9}\label{menu_8c_aea6d7aabfde5f51bf21b382d70f7b9f9} 
+\index{menu.c@{menu.c}!back@{back}}
+\index{back@{back}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{back}{back}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} back}
+
+\Hypertarget{menu_8c_a9648babd8e22992aa253aa6acc5e8117}\label{menu_8c_a9648babd8e22992aa253aa6acc5e8117} 
+\index{menu.c@{menu.c}!back\_anim1@{back\_anim1}}
+\index{back\_anim1@{back\_anim1}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{back\_anim1}{back\_anim1}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} back\+\_\+anim1}
+
+\Hypertarget{menu_8c_a56ee21857cb23d034f052420e2440981}\label{menu_8c_a56ee21857cb23d034f052420e2440981} 
+\index{menu.c@{menu.c}!back\_anim2@{back\_anim2}}
+\index{back\_anim2@{back\_anim2}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{back\_anim2}{back\_anim2}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} back\+\_\+anim2}
+
+\Hypertarget{menu_8c_a40456784800c3736a2ad78e0a511c84e}\label{menu_8c_a40456784800c3736a2ad78e0a511c84e} 
+\index{menu.c@{menu.c}!back\_anim3@{back\_anim3}}
+\index{back\_anim3@{back\_anim3}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{back\_anim3}{back\_anim3}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} back\+\_\+anim3}
+
+\Hypertarget{menu_8c_a1295b3c0ff423f980d472feb989bf194}\label{menu_8c_a1295b3c0ff423f980d472feb989bf194} 
+\index{menu.c@{menu.c}!back\_anim4@{back\_anim4}}
+\index{back\_anim4@{back\_anim4}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{back\_anim4}{back\_anim4}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} back\+\_\+anim4}
+
+\Hypertarget{menu_8c_ad5629cf4002b09278d832c4b14cdfac9}\label{menu_8c_ad5629cf4002b09278d832c4b14cdfac9} 
+\index{menu.c@{menu.c}!button1@{button1}}
+\index{button1@{button1}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{button1}{button1}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} button1}
+
+\Hypertarget{menu_8c_af2773b4ef8483b362e609df8319bdef0}\label{menu_8c_af2773b4ef8483b362e609df8319bdef0} 
+\index{menu.c@{menu.c}!button2@{button2}}
+\index{button2@{button2}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{button2}{button2}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} button2}
+
+\Hypertarget{menu_8c_a38b52307fbdb2bbd04461980e2c33acd}\label{menu_8c_a38b52307fbdb2bbd04461980e2c33acd} 
+\index{menu.c@{menu.c}!button3@{button3}}
+\index{button3@{button3}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{button3}{button3}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} button3}
+
+\Hypertarget{menu_8c_a542ab6fd92a7ce52dc07980e5c6edb84}\label{menu_8c_a542ab6fd92a7ce52dc07980e5c6edb84} 
+\index{menu.c@{menu.c}!button4@{button4}}
+\index{button4@{button4}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{button4}{button4}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} button4}
+
+\Hypertarget{menu_8c_aa1689ef1a5b1ff5a125fd8ae3192103e}\label{menu_8c_aa1689ef1a5b1ff5a125fd8ae3192103e} 
+\index{menu.c@{menu.c}!byte\_position@{byte\_position}}
+\index{byte\_position@{byte\_position}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{byte\_position}{byte\_position}}
+{\footnotesize\ttfamily uint8\+\_\+t byte\+\_\+position\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{menu_8c_a6decdccaec76670c7ba6b9996cbe0fd5}\label{menu_8c_a6decdccaec76670c7ba6b9996cbe0fd5} 
+\index{menu.c@{menu.c}!easy@{easy}}
+\index{easy@{easy}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{easy}{easy}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} easy}
+
+\Hypertarget{menu_8c_ac3ba90ef09a71d14d4b0385486f4eda6}\label{menu_8c_ac3ba90ef09a71d14d4b0385486f4eda6} 
+\index{menu.c@{menu.c}!Easy@{Easy}}
+\index{Easy@{Easy}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{Easy}{Easy}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} Easy}
+
+\Hypertarget{menu_8c_abc124d24ce11b630d94587e1b8ec7f50}\label{menu_8c_abc124d24ce11b630d94587e1b8ec7f50} 
+\index{menu.c@{menu.c}!game@{game}}
+\index{game@{game}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{game}{game}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} game}
+
+\Hypertarget{menu_8c_a1e30742bebf19a062d6570158986c241}\label{menu_8c_a1e30742bebf19a062d6570158986c241} 
+\index{menu.c@{menu.c}!gameplayCounter@{gameplayCounter}}
+\index{gameplayCounter@{gameplayCounter}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{gameplayCounter}{gameplayCounter}}
+{\footnotesize\ttfamily int gameplay\+Counter = 200}
+
+\Hypertarget{menu_8c_a86918a6ee8c611efed39b31b07278c45}\label{menu_8c_a86918a6ee8c611efed39b31b07278c45} 
+\index{menu.c@{menu.c}!hand@{hand}}
+\index{hand@{hand}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{hand}{hand}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} hand}
+
+\Hypertarget{menu_8c_a9c4a90f687c138ee287a169b7f841d76}\label{menu_8c_a9c4a90f687c138ee287a169b7f841d76} 
+\index{menu.c@{menu.c}!hard@{hard}}
+\index{hard@{hard}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{hard}{hard}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} hard}
+
+\Hypertarget{menu_8c_a715207dcb9119b0c19ad38134bd89202}\label{menu_8c_a715207dcb9119b0c19ad38134bd89202} 
+\index{menu.c@{menu.c}!Hard@{Hard}}
+\index{Hard@{Hard}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{Hard}{Hard}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} Hard}
+
+\Hypertarget{menu_8c_a73eaba0a5c1f65d0735af0bb6946a2da}\label{menu_8c_a73eaba0a5c1f65d0735af0bb6946a2da} 
+\index{menu.c@{menu.c}!is\_processing@{is\_processing}}
+\index{is\_processing@{is\_processing}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{is\_processing}{is\_processing}}
+{\footnotesize\ttfamily bool is\+\_\+processing = false}
+
+\Hypertarget{menu_8c_a128ae586c5fbd6f3347f466a69a01ba1}\label{menu_8c_a128ae586c5fbd6f3347f466a69a01ba1} 
+\index{menu.c@{menu.c}!logo@{logo}}
+\index{logo@{logo}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{logo}{logo}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} logo}
+
+\Hypertarget{menu_8c_a23b5714dc5df312a3af847a5371dfc74}\label{menu_8c_a23b5714dc5df312a3af847a5371dfc74} 
+\index{menu.c@{menu.c}!medium@{medium}}
+\index{medium@{medium}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{medium}{medium}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} medium}
+
+\Hypertarget{menu_8c_a5d887eaa440864fc31280246fb355e77}\label{menu_8c_a5d887eaa440864fc31280246fb355e77} 
+\index{menu.c@{menu.c}!Medium@{Medium}}
+\index{Medium@{Medium}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{Medium}{Medium}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} Medium}
+
+\Hypertarget{menu_8c_a92b62ab09159876ce3ca4dc9340931ca}\label{menu_8c_a92b62ab09159876ce3ca4dc9340931ca} 
+\index{menu.c@{menu.c}!menuState@{menuState}}
+\index{menuState@{menuState}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{menuState}{menuState}}
+{\footnotesize\ttfamily \mbox{\hyperlink{menu_8h_aa3041ae4242c0dd57a126d17505443b2}{Menu\+State}} menu\+State = \mbox{\hyperlink{menu_8h_aa3041ae4242c0dd57a126d17505443b2a13d000b4d7dc70d90239b7430d1eb6b2}{START}}}
+
+\Hypertarget{menu_8c_a9fcc2243068f8e628648febc0909c509}\label{menu_8c_a9fcc2243068f8e628648febc0909c509} 
+\index{menu.c@{menu.c}!mode\_info@{mode\_info}}
+\index{mode\_info@{mode\_info}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{mode\_info}{mode\_info}}
+{\footnotesize\ttfamily vbe\+\_\+mode\+\_\+info\+\_\+t mode\+\_\+info\hspace{0.3cm}{\ttfamily [extern]}}
+
+
+
+The VBE mode info. 
+
+\Hypertarget{menu_8c_af03a383fdcfdf7501006a5c8d68be42b}\label{menu_8c_af03a383fdcfdf7501006a5c8d68be42b} 
+\index{menu.c@{menu.c}!mouse@{mouse}}
+\index{mouse@{mouse}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{mouse}{mouse}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} mouse}
+
+\Hypertarget{menu_8c_ae91e7092e34fe82f7681427aeaf551d4}\label{menu_8c_ae91e7092e34fe82f7681427aeaf551d4} 
+\index{menu.c@{menu.c}!mouse\_info\_s@{mouse\_info\_s}}
+\index{mouse\_info\_s@{mouse\_info\_s}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{mouse\_info\_s}{mouse\_info\_s}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structMouse__Info__Struct}{Mouse\+\_\+\+Info\+\_\+\+Struct}} mouse\+\_\+info\+\_\+s\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{menu_8c_aaee505dc5b3b45801ffb410df1704541}\label{menu_8c_aaee505dc5b3b45801ffb410df1704541} 
+\index{menu.c@{menu.c}!number1@{number1}}
+\index{number1@{number1}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{number1}{number1}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} number1}
+
+\Hypertarget{menu_8c_a18e6a886be63dfb579756e81e3fe5292}\label{menu_8c_a18e6a886be63dfb579756e81e3fe5292} 
+\index{menu.c@{menu.c}!number2@{number2}}
+\index{number2@{number2}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{number2}{number2}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} number2}
+
+\Hypertarget{menu_8c_a5a4ec8b1c2b7241721e90cdb201c7562}\label{menu_8c_a5a4ec8b1c2b7241721e90cdb201c7562} 
+\index{menu.c@{menu.c}!number3@{number3}}
+\index{number3@{number3}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{number3}{number3}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} number3}
+
+\Hypertarget{menu_8c_abf017686ed31131ad0f09cd637bfff4d}\label{menu_8c_abf017686ed31131ad0f09cd637bfff4d} 
+\index{menu.c@{menu.c}!number4@{number4}}
+\index{number4@{number4}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{number4}{number4}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} number4}
+
+\Hypertarget{menu_8c_acffe389543fcf770f3dbc3f460b66ff0}\label{menu_8c_acffe389543fcf770f3dbc3f460b66ff0} 
+\index{menu.c@{menu.c}!number5@{number5}}
+\index{number5@{number5}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{number5}{number5}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} number5}
+
+\Hypertarget{menu_8c_a320b85ccfe029ee4f811ff193e06b9ab}\label{menu_8c_a320b85ccfe029ee4f811ff193e06b9ab} 
+\index{menu.c@{menu.c}!number6@{number6}}
+\index{number6@{number6}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{number6}{number6}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} number6}
+
+\Hypertarget{menu_8c_a0de4c39e391f59c596d46a00e8fbf7c6}\label{menu_8c_a0de4c39e391f59c596d46a00e8fbf7c6} 
+\index{menu.c@{menu.c}!number7@{number7}}
+\index{number7@{number7}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{number7}{number7}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} number7}
+
+\Hypertarget{menu_8c_a311c0da3e2d004050eca5fd65a657671}\label{menu_8c_a311c0da3e2d004050eca5fd65a657671} 
+\index{menu.c@{menu.c}!number8@{number8}}
+\index{number8@{number8}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{number8}{number8}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} number8}
+
+\Hypertarget{menu_8c_affb6378211aa875b4dc3480ef1c79b77}\label{menu_8c_affb6378211aa875b4dc3480ef1c79b77} 
+\index{menu.c@{menu.c}!player\_1\_menu@{player\_1\_menu}}
+\index{player\_1\_menu@{player\_1\_menu}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{player\_1\_menu}{player\_1\_menu}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} player\+\_\+1\+\_\+menu}
+
+\Hypertarget{menu_8c_a5e46a4e183840ca17817c4bf492eb570}\label{menu_8c_a5e46a4e183840ca17817c4bf492eb570} 
+\index{menu.c@{menu.c}!player\_1\_xpm@{player\_1\_xpm}}
+\index{player\_1\_xpm@{player\_1\_xpm}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{player\_1\_xpm}{player\_1\_xpm}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} player\+\_\+1\+\_\+xpm}
+
+\Hypertarget{menu_8c_aa9774031829af2340a1b959a5d288244}\label{menu_8c_aa9774031829af2340a1b959a5d288244} 
+\index{menu.c@{menu.c}!player\_2\_menu@{player\_2\_menu}}
+\index{player\_2\_menu@{player\_2\_menu}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{player\_2\_menu}{player\_2\_menu}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} player\+\_\+2\+\_\+menu}
+
+\Hypertarget{menu_8c_ad474a587cd5804b66b1fcbd66f10b9d7}\label{menu_8c_ad474a587cd5804b66b1fcbd66f10b9d7} 
+\index{menu.c@{menu.c}!player\_2\_xpm@{player\_2\_xpm}}
+\index{player\_2\_xpm@{player\_2\_xpm}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{player\_2\_xpm}{player\_2\_xpm}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} player\+\_\+2\+\_\+xpm}
+
+\Hypertarget{menu_8c_ad9b3c6c4c5ea5d002bb6c6787f5c39b6}\label{menu_8c_ad9b3c6c4c5ea5d002bb6c6787f5c39b6} 
+\index{menu.c@{menu.c}!quit@{quit}}
+\index{quit@{quit}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{quit}{quit}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} quit}
+
+\Hypertarget{menu_8c_ad81890924ef6c3f870aec8e364e53a6c}\label{menu_8c_ad81890924ef6c3f870aec8e364e53a6c} 
+\index{menu.c@{menu.c}!Quit@{Quit}}
+\index{Quit@{Quit}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{Quit}{Quit}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} Quit}
+
+\Hypertarget{menu_8c_ae32a4889829cce60cde61e39a6e51ae2}\label{menu_8c_ae32a4889829cce60cde61e39a6e51ae2} 
+\index{menu.c@{menu.c}!quitButton@{quitButton}}
+\index{quitButton@{quitButton}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{quitButton}{quitButton}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} quit\+Button}
+
+\Hypertarget{menu_8c_aafe203b91caf3440a421375411f90d28}\label{menu_8c_aafe203b91caf3440a421375411f90d28} 
+\index{menu.c@{menu.c}!quitButtonPressed@{quitButtonPressed}}
+\index{quitButtonPressed@{quitButtonPressed}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{quitButtonPressed}{quitButtonPressed}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} quit\+Button\+Pressed}
+
+\Hypertarget{menu_8c_aa1de7a5557e9d96b83cf03f73c92163f}\label{menu_8c_aa1de7a5557e9d96b83cf03f73c92163f} 
+\index{menu.c@{menu.c}!scancode@{scancode}}
+\index{scancode@{scancode}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{scancode}{scancode}}
+{\footnotesize\ttfamily uint8\+\_\+t scancode\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{menu_8c_a35545b19c5965108d0b7b242096cf9c0}\label{menu_8c_a35545b19c5965108d0b7b242096cf9c0} 
+\index{menu.c@{menu.c}!score0@{score0}}
+\index{score0@{score0}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{score0}{score0}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} score0}
+
+\Hypertarget{menu_8c_a6df4f1fcd47b499c7552c2e782056ed1}\label{menu_8c_a6df4f1fcd47b499c7552c2e782056ed1} 
+\index{menu.c@{menu.c}!score1@{score1}}
+\index{score1@{score1}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{score1}{score1}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} score1}
+
+\Hypertarget{menu_8c_a6910c116b5c0aacfc352cbce01741668}\label{menu_8c_a6910c116b5c0aacfc352cbce01741668} 
+\index{menu.c@{menu.c}!score2@{score2}}
+\index{score2@{score2}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{score2}{score2}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} score2}
+
+\Hypertarget{menu_8c_ac629d56c4c6ecaacd733780c5307f3cc}\label{menu_8c_ac629d56c4c6ecaacd733780c5307f3cc} 
+\index{menu.c@{menu.c}!score3@{score3}}
+\index{score3@{score3}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{score3}{score3}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} score3}
+
+\Hypertarget{menu_8c_ac2908d52abfd48e386dfff799ade26fc}\label{menu_8c_ac2908d52abfd48e386dfff799ade26fc} 
+\index{menu.c@{menu.c}!score4@{score4}}
+\index{score4@{score4}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{score4}{score4}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} score4}
+
+\Hypertarget{menu_8c_a80357d95b23a2f22edc9b3ed0834eb2e}\label{menu_8c_a80357d95b23a2f22edc9b3ed0834eb2e} 
+\index{menu.c@{menu.c}!score5@{score5}}
+\index{score5@{score5}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{score5}{score5}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} score5}
+
+\Hypertarget{menu_8c_a7e4393c4abded2b6326c8ab2fbf80184}\label{menu_8c_a7e4393c4abded2b6326c8ab2fbf80184} 
+\index{menu.c@{menu.c}!score6@{score6}}
+\index{score6@{score6}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{score6}{score6}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} score6}
+
+\Hypertarget{menu_8c_a3e0dbaf03d458b53b575863428e38cc9}\label{menu_8c_a3e0dbaf03d458b53b575863428e38cc9} 
+\index{menu.c@{menu.c}!score7@{score7}}
+\index{score7@{score7}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{score7}{score7}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} score7}
+
+\Hypertarget{menu_8c_a9f70ed8e2eec0794f862be8214abe73b}\label{menu_8c_a9f70ed8e2eec0794f862be8214abe73b} 
+\index{menu.c@{menu.c}!score8@{score8}}
+\index{score8@{score8}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{score8}{score8}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} score8}
+
+\Hypertarget{menu_8c_a202b85679aa6d6350d23439ea5d80f8a}\label{menu_8c_a202b85679aa6d6350d23439ea5d80f8a} 
+\index{menu.c@{menu.c}!score9@{score9}}
+\index{score9@{score9}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{score9}{score9}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} score9}
+
+\Hypertarget{menu_8c_a76454a7d013e0b6d5feb29b0ced6429e}\label{menu_8c_a76454a7d013e0b6d5feb29b0ced6429e} 
+\index{menu.c@{menu.c}!start@{start}}
+\index{start@{start}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{start}{start}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} start}
+
+\Hypertarget{menu_8c_a5d48265cb0a2f964c0a0262e04bf123c}\label{menu_8c_a5d48265cb0a2f964c0a0262e04bf123c} 
+\index{menu.c@{menu.c}!Start@{Start}}
+\index{Start@{Start}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{Start}{Start}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} Start}
+
+\Hypertarget{menu_8c_ac705089b22877f6322d09a9f0f5bdb1d}\label{menu_8c_ac705089b22877f6322d09a9f0f5bdb1d} 
+\index{menu.c@{menu.c}!systemState@{systemState}}
+\index{systemState@{systemState}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{systemState}{systemState}}
+{\footnotesize\ttfamily \mbox{\hyperlink{menu_8h_aa51313be2faacb739a18fdeecefbac75}{System\+State}} system\+State = \mbox{\hyperlink{menu_8h_aa51313be2faacb739a18fdeecefbac75a1061be6c3fb88d32829cba6f6b2be304}{RUNNING}}}
+
+\Hypertarget{menu_8c_a8e0b895872b62a170f78da59f0c00628}\label{menu_8c_a8e0b895872b62a170f78da59f0c00628} 
+\index{menu.c@{menu.c}!teste@{teste}}
+\index{teste@{teste}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{teste}{teste}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} teste}
+
+\Hypertarget{menu_8c_a94312aa7bce580ff38bc35780b632130}\label{menu_8c_a94312aa7bce580ff38bc35780b632130} 
+\index{menu.c@{menu.c}!time\_mode\_info@{time\_mode\_info}}
+\index{time\_mode\_info@{time\_mode\_info}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{time\_mode\_info}{time\_mode\_info}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structreal__time__mode__info}{real\+\_\+time\+\_\+mode\+\_\+info}} time\+\_\+mode\+\_\+info\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{menu_8c_a9dd86e05eb51b73ffa496d0478503939}\label{menu_8c_a9dd86e05eb51b73ffa496d0478503939} 
+\index{menu.c@{menu.c}!timer\_interrupts@{timer\_interrupts}}
+\index{timer\_interrupts@{timer\_interrupts}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{timer\_interrupts}{timer\_interrupts}}
+{\footnotesize\ttfamily int timer\+\_\+interrupts = 0}
+
+\Hypertarget{menu_8c_aa2ffa7cb4094f6dc635b0aa7fa2e25ba}\label{menu_8c_aa2ffa7cb4094f6dc635b0aa7fa2e25ba} 
+\index{menu.c@{menu.c}!victory@{victory}}
+\index{victory@{victory}!menu.c@{menu.c}}
+\doxysubsubsection{\texorpdfstring{victory}{victory}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} victory}
+

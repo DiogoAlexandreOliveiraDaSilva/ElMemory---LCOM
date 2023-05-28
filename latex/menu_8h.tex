@@ -1,0 +1,361 @@
+\doxysection{game/modes/menu.h File Reference}
+\hypertarget{menu_8h}{}\label{menu_8h}\index{game/modes/menu.h@{game/modes/menu.h}}
+
+
+Header file containing declarations for menu functions and types.  
+
+
+{\ttfamily \#include \"{}../../controller/video/\+VBE.\+h\"{}}\newline
+{\ttfamily \#include \"{}../../controller/video/graphics.\+h\"{}}\newline
+{\ttfamily \#include \"{}../../controller/mouse/mouse.\+h\"{}}\newline
+{\ttfamily \#include \"{}game/game.\+h\"{}}\newline
+{\ttfamily \#include $<$minix/sysutil.\+h$>$}\newline
+{\ttfamily \#include $<$lcom/lcf.\+h$>$}\newline
+{\ttfamily \#include \"{}controller/keyboard/\+KBC.\+h\"{}}\newline
+{\ttfamily \#include \"{}controller/rtc/rtc.\+h\"{}}\newline
+{\ttfamily \#include \"{}game/xpm/hand.\+xpm\"{}}\newline
+{\ttfamily \#include \"{}game/xpm/mouse.\+xpm\"{}}\newline
+{\ttfamily \#include \"{}game/xpm/teste.\+xpm\"{}}\newline
+{\ttfamily \#include \"{}game/xpm/logo.\+xpm\"{}}\newline
+{\ttfamily \#include \"{}game/sprite/sprite.\+h\"{}}\newline
+{\ttfamily \#include \"{}config.\+h\"{}}\newline
+{\ttfamily \#include \"{}game/xpm/back.\+xpm\"{}}\newline
+{\ttfamily \#include \"{}game/xpm/game.\+xpm\"{}}\newline
+{\ttfamily \#include \"{}game/xpm/number1.\+xpm\"{}}\newline
+{\ttfamily \#include \"{}game/xpm/number2.\+xpm\"{}}\newline
+{\ttfamily \#include \"{}game/xpm/number3.\+xpm\"{}}\newline
+{\ttfamily \#include \"{}game/xpm/number4.\+xpm\"{}}\newline
+{\ttfamily \#include \"{}game/xpm/number5.\+xpm\"{}}\newline
+{\ttfamily \#include \"{}game/xpm/number6.\+xpm\"{}}\newline
+{\ttfamily \#include \"{}game/xpm/number7.\+xpm\"{}}\newline
+{\ttfamily \#include \"{}game/xpm/number8.\+xpm\"{}}\newline
+{\ttfamily \#include \"{}game/xpm/start.\+xpm\"{}}\newline
+{\ttfamily \#include \"{}game/xpm/hard.\+xpm\"{}}\newline
+{\ttfamily \#include \"{}game/xpm/easy.\+xpm\"{}}\newline
+{\ttfamily \#include \"{}game/xpm/medium.\+xpm\"{}}\newline
+{\ttfamily \#include \"{}game/xpm/quit.\+xpm\"{}}\newline
+{\ttfamily \#include \"{}game/xpm/back\+\_\+anim1.\+xpm\"{}}\newline
+{\ttfamily \#include \"{}game/xpm/back\+\_\+anim2.\+xpm\"{}}\newline
+{\ttfamily \#include \"{}game/xpm/back\+\_\+anim3.\+xpm\"{}}\newline
+{\ttfamily \#include \"{}game/xpm/back\+\_\+anim4.\+xpm\"{}}\newline
+{\ttfamily \#include \"{}game/xpm/\+Start.\+xpm\"{}}\newline
+{\ttfamily \#include \"{}game/xpm/\+Quit.\+xpm\"{}}\newline
+{\ttfamily \#include \"{}game/xpm/\+Easy.\+xpm\"{}}\newline
+{\ttfamily \#include \"{}game/xpm/\+Medium.\+xpm\"{}}\newline
+{\ttfamily \#include \"{}game/xpm/\+Hard.\+xpm\"{}}\newline
+{\ttfamily \#include \"{}game/xpm/1.\+xpm\"{}}\newline
+{\ttfamily \#include \"{}game/xpm/2.\+xpm\"{}}\newline
+{\ttfamily \#include \"{}game/xpm/3.\+xpm\"{}}\newline
+{\ttfamily \#include \"{}game/xpm/4.\+xpm\"{}}\newline
+{\ttfamily \#include \"{}game/xpm/5.\+xpm\"{}}\newline
+{\ttfamily \#include \"{}game/xpm/6.\+xpm\"{}}\newline
+{\ttfamily \#include \"{}game/xpm/7.\+xpm\"{}}\newline
+{\ttfamily \#include \"{}game/xpm/8.\+xpm\"{}}\newline
+{\ttfamily \#include \"{}game/xpm/9.\+xpm\"{}}\newline
+{\ttfamily \#include \"{}game/xpm/0.\+xpm\"{}}\newline
+{\ttfamily \#include \"{}game/xpm/1player.\+xpm\"{}}\newline
+{\ttfamily \#include \"{}game/xpm/2player.\+xpm\"{}}\newline
+{\ttfamily \#include \"{}game/xpm/player1.\+xpm\"{}}\newline
+{\ttfamily \#include \"{}game/xpm/player2.\+xpm\"{}}\newline
+{\ttfamily \#include \"{}game/xpm/victory.\+xpm\"{}}\newline
+This graph shows which files directly or indirectly include this file\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{menu_8h__dep__incl}
+\end{center}
+\end{figure}
+\doxysubsubsection*{Enumerations}
+\begin{DoxyCompactItemize}
+\item 
+enum \mbox{\hyperlink{menu_8h_aa51313be2faacb739a18fdeecefbac75}{System\+State}} \{ \mbox{\hyperlink{menu_8h_aa51313be2faacb739a18fdeecefbac75a1061be6c3fb88d32829cba6f6b2be304}{RUNNING}}
+, \mbox{\hyperlink{menu_8h_aa51313be2faacb739a18fdeecefbac75a7a10b5d68d31711288e1fe0fa17dbf4f}{EXIT}}
+ \}
+\begin{DoxyCompactList}\small\item\em Enum representing the system state. \end{DoxyCompactList}\item 
+enum \mbox{\hyperlink{menu_8h_aa3041ae4242c0dd57a126d17505443b2}{Menu\+State}} \{ \newline
+\mbox{\hyperlink{menu_8h_aa3041ae4242c0dd57a126d17505443b2a13d000b4d7dc70d90239b7430d1eb6b2}{START}}
+, \mbox{\hyperlink{menu_8h_aa3041ae4242c0dd57a126d17505443b2ad50cf309d7568040619ed26ee6835a84}{GAME}}
+, \mbox{\hyperlink{menu_8h_aa3041ae4242c0dd57a126d17505443b2a79bfb3a2f612dc96f8d702ae2494fdef}{GAME\+\_\+2P}}
+, \mbox{\hyperlink{menu_8h_aa3041ae4242c0dd57a126d17505443b2add8615b7b489d293646a15e54d3e7fd9}{GAME\+\_\+2}}
+, \newline
+\mbox{\hyperlink{menu_8h_aa3041ae4242c0dd57a126d17505443b2adc6f24fd6915a3f2786a1b7045406924}{END}}
+, \mbox{\hyperlink{menu_8h_aa3041ae4242c0dd57a126d17505443b2a865d4bfdc2dd5f698e4558474765cba8}{MODE}}
+, \mbox{\hyperlink{menu_8h_aa3041ae4242c0dd57a126d17505443b2a0a36399f2feba688abe010c193b8a5f1}{MODE\+\_\+2}}
+, \mbox{\hyperlink{menu_8h_aa3041ae4242c0dd57a126d17505443b2ab3d0b5bfbe3172f4a451038cb1f0c230}{SEL\+\_\+P}}
+, \newline
+\mbox{\hyperlink{menu_8h_aa3041ae4242c0dd57a126d17505443b2a56c08e9b46e47d9f946fdbc7904724bd}{GAME\+\_\+3}}
+, \mbox{\hyperlink{menu_8h_aa3041ae4242c0dd57a126d17505443b2ad5a8227d9ca4d7c05dcd3c4191034d65}{GAME\+\_\+4\+\_\+2P}}
+, \mbox{\hyperlink{menu_8h_aa3041ae4242c0dd57a126d17505443b2ac10b30766b195efc9fcbf7090458156f}{GAME\+\_\+8\+\_\+2P}}
+ \}
+\begin{DoxyCompactList}\small\item\em Enum representing the menu state. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsubsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \mbox{\hyperlink{menu_8h_a5791e4d9006275c5477e1f84606f76ba}{update\+\_\+timer\+\_\+frame}} ()
+\begin{DoxyCompactList}\small\item\em Updates the timer frame. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{menu_8h_a98c6c78726a3055d4fd38d1e280ee77d}{update\+\_\+keyboard\+\_\+frame}} ()
+\begin{DoxyCompactList}\small\item\em Updates the keyboard frame. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{menu_8h_a700d639dd6af8e7fe655cc00bbed358e}{update\+\_\+mouse\+\_\+frame}} ()
+\begin{DoxyCompactList}\small\item\em Updates the mouse frame. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{menu_8h_a00c3bc0c2ce052c8ca415de992ae3a84}{update\+\_\+buttons}} ()
+\begin{DoxyCompactList}\small\item\em Updates the buttons. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{menu_8h_a404ce8815fe3754781e9d40671fa24bc}{update\+\_\+rtc\+\_\+frame}} ()
+\begin{DoxyCompactList}\small\item\em Updates the RTC frame. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{menu_8h_ab6ac87fd3d0ffee40696dd0e80392fae}{start\+\_\+sprites}} ()
+\begin{DoxyCompactList}\small\item\em Initializes the sprites. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{menu_8h_adf815250a10afe5bf29cf7ea4ff8b879}{del\+\_\+sprites}} ()
+\begin{DoxyCompactList}\small\item\em Deletes the sprites. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Header file containing declarations for menu functions and types. 
+
+Functions for the game mode 1 for 2 players.
+
+\doxysubsection{Enumeration Type Documentation}
+\Hypertarget{menu_8h_aa3041ae4242c0dd57a126d17505443b2}\label{menu_8h_aa3041ae4242c0dd57a126d17505443b2} 
+\index{menu.h@{menu.h}!MenuState@{MenuState}}
+\index{MenuState@{MenuState}!menu.h@{menu.h}}
+\doxysubsubsection{\texorpdfstring{MenuState}{MenuState}}
+{\footnotesize\ttfamily enum \mbox{\hyperlink{menu_8h_aa3041ae4242c0dd57a126d17505443b2}{Menu\+State}}}
+
+
+
+Enum representing the menu state. 
+
+\begin{DoxyEnumFields}{Enumerator}
+\raisebox{\heightof{T}}[0pt][0pt]{\index{START@{START}!menu.h@{menu.h}}\index{menu.h@{menu.h}!START@{START}}}\Hypertarget{menu_8h_aa3041ae4242c0dd57a126d17505443b2a13d000b4d7dc70d90239b7430d1eb6b2}\label{menu_8h_aa3041ae4242c0dd57a126d17505443b2a13d000b4d7dc70d90239b7430d1eb6b2} 
+START&Start menu state. \\
+\hline
+
+\raisebox{\heightof{T}}[0pt][0pt]{\index{GAME@{GAME}!menu.h@{menu.h}}\index{menu.h@{menu.h}!GAME@{GAME}}}\Hypertarget{menu_8h_aa3041ae4242c0dd57a126d17505443b2ad50cf309d7568040619ed26ee6835a84}\label{menu_8h_aa3041ae4242c0dd57a126d17505443b2ad50cf309d7568040619ed26ee6835a84} 
+GAME&Game menu state. \\
+\hline
+
+\raisebox{\heightof{T}}[0pt][0pt]{\index{GAME\_2P@{GAME\_2P}!menu.h@{menu.h}}\index{menu.h@{menu.h}!GAME\_2P@{GAME\_2P}}}\Hypertarget{menu_8h_aa3041ae4242c0dd57a126d17505443b2a79bfb3a2f612dc96f8d702ae2494fdef}\label{menu_8h_aa3041ae4242c0dd57a126d17505443b2a79bfb3a2f612dc96f8d702ae2494fdef} 
+GAME\+\_\+2P&Two-\/player game menu state. \\
+\hline
+
+\raisebox{\heightof{T}}[0pt][0pt]{\index{GAME\_2@{GAME\_2}!menu.h@{menu.h}}\index{menu.h@{menu.h}!GAME\_2@{GAME\_2}}}\Hypertarget{menu_8h_aa3041ae4242c0dd57a126d17505443b2add8615b7b489d293646a15e54d3e7fd9}\label{menu_8h_aa3041ae4242c0dd57a126d17505443b2add8615b7b489d293646a15e54d3e7fd9} 
+GAME\+\_\+2&Game mode 2 menu state. \\
+\hline
+
+\raisebox{\heightof{T}}[0pt][0pt]{\index{END@{END}!menu.h@{menu.h}}\index{menu.h@{menu.h}!END@{END}}}\Hypertarget{menu_8h_aa3041ae4242c0dd57a126d17505443b2adc6f24fd6915a3f2786a1b7045406924}\label{menu_8h_aa3041ae4242c0dd57a126d17505443b2adc6f24fd6915a3f2786a1b7045406924} 
+END&End menu state. \\
+\hline
+
+\raisebox{\heightof{T}}[0pt][0pt]{\index{MODE@{MODE}!menu.h@{menu.h}}\index{menu.h@{menu.h}!MODE@{MODE}}}\Hypertarget{menu_8h_aa3041ae4242c0dd57a126d17505443b2a865d4bfdc2dd5f698e4558474765cba8}\label{menu_8h_aa3041ae4242c0dd57a126d17505443b2a865d4bfdc2dd5f698e4558474765cba8} 
+MODE&Game mode menu state. \\
+\hline
+
+\raisebox{\heightof{T}}[0pt][0pt]{\index{MODE\_2@{MODE\_2}!menu.h@{menu.h}}\index{menu.h@{menu.h}!MODE\_2@{MODE\_2}}}\Hypertarget{menu_8h_aa3041ae4242c0dd57a126d17505443b2a0a36399f2feba688abe010c193b8a5f1}\label{menu_8h_aa3041ae4242c0dd57a126d17505443b2a0a36399f2feba688abe010c193b8a5f1} 
+MODE\+\_\+2&Game mode 2 menu state. \\
+\hline
+
+\raisebox{\heightof{T}}[0pt][0pt]{\index{SEL\_P@{SEL\_P}!menu.h@{menu.h}}\index{menu.h@{menu.h}!SEL\_P@{SEL\_P}}}\Hypertarget{menu_8h_aa3041ae4242c0dd57a126d17505443b2ab3d0b5bfbe3172f4a451038cb1f0c230}\label{menu_8h_aa3041ae4242c0dd57a126d17505443b2ab3d0b5bfbe3172f4a451038cb1f0c230} 
+SEL\+\_\+P&Select number of players menu state. \\
+\hline
+
+\raisebox{\heightof{T}}[0pt][0pt]{\index{GAME\_3@{GAME\_3}!menu.h@{menu.h}}\index{menu.h@{menu.h}!GAME\_3@{GAME\_3}}}\Hypertarget{menu_8h_aa3041ae4242c0dd57a126d17505443b2a56c08e9b46e47d9f946fdbc7904724bd}\label{menu_8h_aa3041ae4242c0dd57a126d17505443b2a56c08e9b46e47d9f946fdbc7904724bd} 
+GAME\+\_\+3&Three-\/player game menu state. \\
+\hline
+
+\raisebox{\heightof{T}}[0pt][0pt]{\index{GAME\_4\_2P@{GAME\_4\_2P}!menu.h@{menu.h}}\index{menu.h@{menu.h}!GAME\_4\_2P@{GAME\_4\_2P}}}\Hypertarget{menu_8h_aa3041ae4242c0dd57a126d17505443b2ad5a8227d9ca4d7c05dcd3c4191034d65}\label{menu_8h_aa3041ae4242c0dd57a126d17505443b2ad5a8227d9ca4d7c05dcd3c4191034d65} 
+GAME\+\_\+4\+\_\+2P&Four-\/player game (2 vs 2) menu state. \\
+\hline
+
+\raisebox{\heightof{T}}[0pt][0pt]{\index{GAME\_8\_2P@{GAME\_8\_2P}!menu.h@{menu.h}}\index{menu.h@{menu.h}!GAME\_8\_2P@{GAME\_8\_2P}}}\Hypertarget{menu_8h_aa3041ae4242c0dd57a126d17505443b2ac10b30766b195efc9fcbf7090458156f}\label{menu_8h_aa3041ae4242c0dd57a126d17505443b2ac10b30766b195efc9fcbf7090458156f} 
+GAME\+\_\+8\+\_\+2P&Eight-\/player game (4 vs 4) menu state. \\
+\hline
+
+\end{DoxyEnumFields}
+\Hypertarget{menu_8h_aa51313be2faacb739a18fdeecefbac75}\label{menu_8h_aa51313be2faacb739a18fdeecefbac75} 
+\index{menu.h@{menu.h}!SystemState@{SystemState}}
+\index{SystemState@{SystemState}!menu.h@{menu.h}}
+\doxysubsubsection{\texorpdfstring{SystemState}{SystemState}}
+{\footnotesize\ttfamily enum \mbox{\hyperlink{menu_8h_aa51313be2faacb739a18fdeecefbac75}{System\+State}}}
+
+
+
+Enum representing the system state. 
+
+\begin{DoxyEnumFields}{Enumerator}
+\raisebox{\heightof{T}}[0pt][0pt]{\index{RUNNING@{RUNNING}!menu.h@{menu.h}}\index{menu.h@{menu.h}!RUNNING@{RUNNING}}}\Hypertarget{menu_8h_aa51313be2faacb739a18fdeecefbac75a1061be6c3fb88d32829cba6f6b2be304}\label{menu_8h_aa51313be2faacb739a18fdeecefbac75a1061be6c3fb88d32829cba6f6b2be304} 
+RUNNING&The system is running. \\
+\hline
+
+\raisebox{\heightof{T}}[0pt][0pt]{\index{EXIT@{EXIT}!menu.h@{menu.h}}\index{menu.h@{menu.h}!EXIT@{EXIT}}}\Hypertarget{menu_8h_aa51313be2faacb739a18fdeecefbac75a7a10b5d68d31711288e1fe0fa17dbf4f}\label{menu_8h_aa51313be2faacb739a18fdeecefbac75a7a10b5d68d31711288e1fe0fa17dbf4f} 
+EXIT&The system should exit. \\
+\hline
+
+\end{DoxyEnumFields}
+
+
+\doxysubsection{Function Documentation}
+\Hypertarget{menu_8h_adf815250a10afe5bf29cf7ea4ff8b879}\label{menu_8h_adf815250a10afe5bf29cf7ea4ff8b879} 
+\index{menu.h@{menu.h}!del\_sprites@{del\_sprites}}
+\index{del\_sprites@{del\_sprites}!menu.h@{menu.h}}
+\doxysubsubsection{\texorpdfstring{del\_sprites()}{del\_sprites()}}
+{\footnotesize\ttfamily void del\+\_\+sprites (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Deletes the sprites. 
+
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=237pt]{menu_8h_adf815250a10afe5bf29cf7ea4ff8b879_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=345pt]{menu_8h_adf815250a10afe5bf29cf7ea4ff8b879_icgraph}
+\end{center}
+\end{figure}
+\Hypertarget{menu_8h_ab6ac87fd3d0ffee40696dd0e80392fae}\label{menu_8h_ab6ac87fd3d0ffee40696dd0e80392fae} 
+\index{menu.h@{menu.h}!start\_sprites@{start\_sprites}}
+\index{start\_sprites@{start\_sprites}!menu.h@{menu.h}}
+\doxysubsubsection{\texorpdfstring{start\_sprites()}{start\_sprites()}}
+{\footnotesize\ttfamily void start\+\_\+sprites (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Initializes the sprites. 
+
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=254pt]{menu_8h_ab6ac87fd3d0ffee40696dd0e80392fae_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=343pt]{menu_8h_ab6ac87fd3d0ffee40696dd0e80392fae_icgraph}
+\end{center}
+\end{figure}
+\Hypertarget{menu_8h_a00c3bc0c2ce052c8ca415de992ae3a84}\label{menu_8h_a00c3bc0c2ce052c8ca415de992ae3a84} 
+\index{menu.h@{menu.h}!update\_buttons@{update\_buttons}}
+\index{update\_buttons@{update\_buttons}!menu.h@{menu.h}}
+\doxysubsubsection{\texorpdfstring{update\_buttons()}{update\_buttons()}}
+{\footnotesize\ttfamily void update\+\_\+buttons (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Updates the buttons. 
+
+\Hypertarget{menu_8h_a98c6c78726a3055d4fd38d1e280ee77d}\label{menu_8h_a98c6c78726a3055d4fd38d1e280ee77d} 
+\index{menu.h@{menu.h}!update\_keyboard\_frame@{update\_keyboard\_frame}}
+\index{update\_keyboard\_frame@{update\_keyboard\_frame}!menu.h@{menu.h}}
+\doxysubsubsection{\texorpdfstring{update\_keyboard\_frame()}{update\_keyboard\_frame()}}
+{\footnotesize\ttfamily void update\+\_\+keyboard\+\_\+frame (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Updates the keyboard frame. 
+
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=550pt]{menu_8h_a98c6c78726a3055d4fd38d1e280ee77d_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=317pt]{menu_8h_a98c6c78726a3055d4fd38d1e280ee77d_icgraph}
+\end{center}
+\end{figure}
+\Hypertarget{menu_8h_a700d639dd6af8e7fe655cc00bbed358e}\label{menu_8h_a700d639dd6af8e7fe655cc00bbed358e} 
+\index{menu.h@{menu.h}!update\_mouse\_frame@{update\_mouse\_frame}}
+\index{update\_mouse\_frame@{update\_mouse\_frame}!menu.h@{menu.h}}
+\doxysubsubsection{\texorpdfstring{update\_mouse\_frame()}{update\_mouse\_frame()}}
+{\footnotesize\ttfamily void update\+\_\+mouse\+\_\+frame (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Updates the mouse frame. 
+
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=550pt]{menu_8h_a700d639dd6af8e7fe655cc00bbed358e_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=307pt]{menu_8h_a700d639dd6af8e7fe655cc00bbed358e_icgraph}
+\end{center}
+\end{figure}
+\Hypertarget{menu_8h_a404ce8815fe3754781e9d40671fa24bc}\label{menu_8h_a404ce8815fe3754781e9d40671fa24bc} 
+\index{menu.h@{menu.h}!update\_rtc\_frame@{update\_rtc\_frame}}
+\index{update\_rtc\_frame@{update\_rtc\_frame}!menu.h@{menu.h}}
+\doxysubsubsection{\texorpdfstring{update\_rtc\_frame()}{update\_rtc\_frame()}}
+{\footnotesize\ttfamily void update\+\_\+rtc\+\_\+frame (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Updates the RTC frame. 
+
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{menu_8h_a404ce8815fe3754781e9d40671fa24bc_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=289pt]{menu_8h_a404ce8815fe3754781e9d40671fa24bc_icgraph}
+\end{center}
+\end{figure}
+\Hypertarget{menu_8h_a5791e4d9006275c5477e1f84606f76ba}\label{menu_8h_a5791e4d9006275c5477e1f84606f76ba} 
+\index{menu.h@{menu.h}!update\_timer\_frame@{update\_timer\_frame}}
+\index{update\_timer\_frame@{update\_timer\_frame}!menu.h@{menu.h}}
+\doxysubsubsection{\texorpdfstring{update\_timer\_frame()}{update\_timer\_frame()}}
+{\footnotesize\ttfamily void update\+\_\+timer\+\_\+frame (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Updates the timer frame. 
+
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=550pt]{menu_8h_a5791e4d9006275c5477e1f84606f76ba_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=300pt]{menu_8h_a5791e4d9006275c5477e1f84606f76ba_icgraph}
+\end{center}
+\end{figure}

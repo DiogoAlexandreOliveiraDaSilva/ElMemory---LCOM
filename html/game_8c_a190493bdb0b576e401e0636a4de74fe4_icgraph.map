@@ -1,0 +1,9 @@
+<map id="rtc_print" name="rtc_print">
+<area shape="rect" id="Node000001" title="Prints the current time using the RTC." alt="" coords="492,5,561,31"/>
+<area shape="rect" id="Node000002" href="$game_8c.html#a0d157d997329169f936545f9985e334b" title="Swaps the front and back buffers." alt="" coords="346,5,444,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="477,21,445,21,445,16,477,16"/>
+<area shape="rect" id="Node000003" href="$menu_8c.html#a5791e4d9006275c5477e1f84606f76ba" title="Updates the timer frame." alt="" coords="162,5,298,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="331,21,298,21,298,16,331,16"/>
+<area shape="rect" id="Node000004" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,114,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="147,21,114,21,114,16,147,16"/>
+</map>

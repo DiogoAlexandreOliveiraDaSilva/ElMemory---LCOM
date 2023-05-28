@@ -1,0 +1,10 @@
+<map id="mouse_ih" name="mouse_ih">
+<area shape="rect" id="Node000001" title="Mouse interrupt handler." alt="" coords="5,31,83,56"/>
+<area shape="rect" id="Node000002" href="$keyboard_2KBC_8c.html#a60b50761648a085dbe01762db4fa63a8" title="Reads the output buffer of the keyboard controller." alt="" coords="131,23,279,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,41,116,41,116,46,83,46"/>
+<area shape="rect" id="Node000003" href="$keyboard_2KBC_8c.html#a6ccb81683de14e9ff796e729f0cc331f" title="Reads the keyboard controller status register." alt="" coords="327,5,475,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="279,31,312,27,313,32,280,37"/>
+<area shape="rect" id="Node000004" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="523,31,613,56"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="280,41,508,41,508,46,280,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="476,27,509,32,508,37,476,32"/>
+</map>

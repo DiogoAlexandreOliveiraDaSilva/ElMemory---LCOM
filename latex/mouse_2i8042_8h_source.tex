@@ -1,0 +1,49 @@
+\doxysection{i8042.\+h}
+\hypertarget{mouse_2i8042_8h_source}{}\label{mouse_2i8042_8h_source}\index{controller/mouse/i8042.h@{controller/mouse/i8042.h}}
+\mbox{\hyperlink{mouse_2i8042_8h}{Go to the documentation of this file.}}
+\begin{DoxyCode}{0}
+\DoxyCodeLine{00001\ \textcolor{preprocessor}{\#ifndef\ \_LCOM\_I8042\_MOUSE\_H\_}}
+\DoxyCodeLine{00002\ \textcolor{preprocessor}{\#define\ \_LCOM\_I8042\_MOUSE\_H\_}}
+\DoxyCodeLine{00003\ }
+\DoxyCodeLine{00004\ \textcolor{preprocessor}{\#define\ KEYBOARD\_IRQ\_LINE\ \ \ \ 1}}
+\DoxyCodeLine{00005\ \textcolor{preprocessor}{\#define\ MOUSE\_IRQ\_LINE\ \ \ \ \ \ \ 12}}
+\DoxyCodeLine{00006\ }
+\DoxyCodeLine{00007\ \textcolor{preprocessor}{\#define\ BREAK\_SCAN\ \ \ \ \ \ \ 0x81}}
+\DoxyCodeLine{00008\ \textcolor{preprocessor}{\#define\ MAKE\_CODE\ \ \ \ \ \ \ BIT(7)}}
+\DoxyCodeLine{00009\ \textcolor{preprocessor}{\#define\ IF\_TWO\_BYTESYTES\ \ \ \ \ \ \ 0xE0}}
+\DoxyCodeLine{00010\ \textcolor{preprocessor}{\#define\ ENABLE\_INT\ \ \ \ \ \ BIT(0)}}
+\DoxyCodeLine{00011\ }
+\DoxyCodeLine{00012\ \textcolor{preprocessor}{\#define\ TIMEOUT\_ERROR\ \ \ BIT(6)}}
+\DoxyCodeLine{00013\ \textcolor{preprocessor}{\#define\ PARITY\_ERROR\ \ \ \ BIT(7)}}
+\DoxyCodeLine{00014\ \textcolor{preprocessor}{\#define\ FULL\_OUTPUT\_BUFFERR\ BIT(0)}}
+\DoxyCodeLine{00015\ \textcolor{preprocessor}{\#define\ FULL\_INPUT\_BUFFER\ \ BIT(1)}}
+\DoxyCodeLine{00016\ }
+\DoxyCodeLine{00017\ \textcolor{preprocessor}{\#define\ KEYBOARD\_REG\ \ 0x64}}
+\DoxyCodeLine{00018\ \textcolor{preprocessor}{\#define\ KBD\_INPUT\_CMD\ \ \ \ \ \ 0x64}}
+\DoxyCodeLine{00019\ \textcolor{preprocessor}{\#define\ KBD\_OUTPUT\_CMD\ \ \ \ \ 0x60}}
+\DoxyCodeLine{00020\ \textcolor{preprocessor}{\#define\ KBD\_READ\_CMD\ \ \ \ 0x20}}
+\DoxyCodeLine{00021\ \textcolor{preprocessor}{\#define\ KBD\_WRITE\_CMD\ \ \ 0x60}}
+\DoxyCodeLine{00022\ }
+\DoxyCodeLine{00023\ \textcolor{preprocessor}{\#define\ WAIT\_4\_KBC\ \ \ \ \ \ \ \ 20000}}
+\DoxyCodeLine{00024\ \textcolor{preprocessor}{\#define\ MAX\_ATTEMPS\ \ \ \ \ 10}}
+\DoxyCodeLine{00025\ }
+\DoxyCodeLine{00026\ \textcolor{preprocessor}{\#define\ MOUSE\_LEFT\_CLICK\ \ \ \ BIT(0)}}
+\DoxyCodeLine{00027\ \textcolor{preprocessor}{\#define\ MOUSE\_RIGHT\_CLICK\ \ \ \ \ \ \ \ \ \ \ \ BIT(1)}}
+\DoxyCodeLine{00028\ \textcolor{preprocessor}{\#define\ MOUSE\_MB\ \ \ \ \ \ \ \ \ \ \ \ BIT(2)}}
+\DoxyCodeLine{00029\ \textcolor{preprocessor}{\#define\ START\_BYTE\ \ \ \ \ \ \ \ \ \ BIT(3)}}
+\DoxyCodeLine{00030\ \textcolor{preprocessor}{\#define\ MOUSE\_SIGNAL\_X\ \ \ \ \ \ BIT(4)}}
+\DoxyCodeLine{00031\ \textcolor{preprocessor}{\#define\ MOUSE\_SIGNAL\_Y\ \ \ \ \ \ BIT(5)}}
+\DoxyCodeLine{00032\ \textcolor{preprocessor}{\#define\ MOUSE\_OVERFLOW\_X\ \ \ \ BIT(6)}}
+\DoxyCodeLine{00033\ \textcolor{preprocessor}{\#define\ MOUSE\_OVERFLOW\_Y\ \ \ \ BIT(7)}}
+\DoxyCodeLine{00034\ \textcolor{preprocessor}{\#define\ OFF\_DATA\_REP\ \ \ \ \ \ \ \ 0xF5}}
+\DoxyCodeLine{00035\ \textcolor{preprocessor}{\#define\ ON\_DATA\_REP\ \ \ \ \ \ \ \ \ 0xF4}}
+\DoxyCodeLine{00036\ \textcolor{preprocessor}{\#define\ ON\_STREAM\ \ \ \ \ \ \ \ \ \ \ 0xEA}}
+\DoxyCodeLine{00037\ \textcolor{preprocessor}{\#define\ READ\_DATA\_M\ \ \ \ \ \ \ \ \ 0xEB}}
+\DoxyCodeLine{00038\ \textcolor{preprocessor}{\#define\ MOUSE\_WRITE\_B\ \ \ \ \ \ \ 0xD4}}
+\DoxyCodeLine{00039\ }
+\DoxyCodeLine{00040\ \textcolor{preprocessor}{\#define\ ACK\ 0xFA\ \ \ \ }}
+\DoxyCodeLine{00041\ \textcolor{preprocessor}{\#define\ NACK\ 0xFE}}
+\DoxyCodeLine{00042\ }
+\DoxyCodeLine{00043\ \textcolor{preprocessor}{\#endif}}
+
+\end{DoxyCode}

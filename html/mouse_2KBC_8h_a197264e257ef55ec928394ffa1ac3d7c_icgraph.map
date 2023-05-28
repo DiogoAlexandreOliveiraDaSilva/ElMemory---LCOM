@@ -1,0 +1,14 @@
+<map id="keyboard_writing" name="keyboard_writing">
+<area shape="rect" id="Node000001" title="Writes a command byte to the keyboard controller." alt="" coords="442,31,561,56"/>
+<area shape="rect" id="Node000002" href="$keyboard_8c.html#a4f3fa1b325e41610b8d06e08db68e366" title="Refreshes the keyboard." alt="" coords="274,5,394,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="427,35,394,30,395,25,428,30"/>
+<area shape="rect" id="Node000003" href="$mouse_8c.html#a1703c3c5b61eef30d724b15cafd1d75e" title="Writes a command to the mouse." alt="" coords="287,55,382,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="428,57,383,63,382,58,428,51"/>
+<area shape="rect" id="Node000004" href="$main_8c.html#a099d48038e444c2f3e69904477527798" title=" " alt="" coords="167,29,221,55"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="271,59,221,50,222,44,272,54"/>
+<area shape="rect" id="Node000006" href="$main_8c.html#a4b3c5db070725b05f708a39f3fc77687" title=" " alt="" coords="162,79,226,104"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="272,81,227,89,226,83,271,76"/>
+<area shape="rect" id="Node000005" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,55,114,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="154,52,114,60,113,55,153,47"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="146,86,113,80,114,75,147,81"/>
+</map>

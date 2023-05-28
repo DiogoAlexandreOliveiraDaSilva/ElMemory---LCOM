@@ -1,0 +1,35 @@
+\doxysection{i8254.\+h}
+\hypertarget{i8254_8h_source}{}\label{i8254_8h_source}\index{controller/timer/i8254.h@{controller/timer/i8254.h}}
+\mbox{\hyperlink{i8254_8h}{Go to the documentation of this file.}}
+\begin{DoxyCode}{0}
+\DoxyCodeLine{00001\ \textcolor{preprocessor}{\#ifndef\ \_LCOM\_I8254\_H\_}}
+\DoxyCodeLine{00002\ \textcolor{preprocessor}{\#define\ \_LCOM\_I8254\_H\_}}
+\DoxyCodeLine{00003\ }
+\DoxyCodeLine{00004\ \textcolor{preprocessor}{\#include\ <minix/sysutil.h>}}
+\DoxyCodeLine{00005\ \textcolor{preprocessor}{\#include\ <lcom/lcf.h>}}
+\DoxyCodeLine{00006\ }
+\DoxyCodeLine{00007\ \textcolor{preprocessor}{\#define\ TIMER\ \ \ \ \ \ 0}}
+\DoxyCodeLine{00008\ \textcolor{preprocessor}{\#define\ TIMER\_FREQ\ 1193182\ }}
+\DoxyCodeLine{00009\ \textcolor{preprocessor}{\#define\ TIMER0\_IRQ\ 0}}
+\DoxyCodeLine{00010\ \textcolor{preprocessor}{\#define\ TIMER\_PORT\_0\ \ \ \ 0x40}}
+\DoxyCodeLine{00011\ \textcolor{preprocessor}{\#define\ TIMER\_PORT\_1\ \ \ \ 0x41}}
+\DoxyCodeLine{00012\ \textcolor{preprocessor}{\#define\ TIMER\_PORT\_2\ \ \ \ 0x42}}
+\DoxyCodeLine{00013\ \textcolor{preprocessor}{\#define\ TIMER\_PORT\_CONTROL\ 0x43}}
+\DoxyCodeLine{00014\ \textcolor{preprocessor}{\#define\ TIMER\_IS\_SEL\_0\ \ \ 0x00\ \ \ \ \ \ \ \ \ \ \ \ \ }}
+\DoxyCodeLine{00015\ \textcolor{preprocessor}{\#define\ TIMER\_IS\_SEL\_1\ \ \ BIT(6)\ \ \ \ \ \ \ \ \ }}
+\DoxyCodeLine{00016\ \textcolor{preprocessor}{\#define\ TIMER\_IS\_SEL\_2\ \ \ BIT(7)\ \ \ \ \ \ \ \ \ \ \ }}
+\DoxyCodeLine{00017\ \textcolor{preprocessor}{\#define\ READBACK\_CMD\ (BIT(7)\ |\ BIT(6))}}
+\DoxyCodeLine{00018\ \textcolor{preprocessor}{\#define\ TIMER\_LSB\_F\ \ \ \ \ BIT(4)\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ }}
+\DoxyCodeLine{00019\ \textcolor{preprocessor}{\#define\ TIMER\_MSB\_F\ \ \ \ \ BIT(5)\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ }}
+\DoxyCodeLine{00020\ \textcolor{preprocessor}{\#define\ TIMER\_LSB\_F\_MSB\ (TIMER\_LSB\_F\ |\ TIMER\_MSB\_F)\ }}
+\DoxyCodeLine{00021\ \textcolor{preprocessor}{\#define\ TIMER\_SQR\_WAVE\ (BIT(2)\ |\ BIT(1))\ }}
+\DoxyCodeLine{00022\ \textcolor{preprocessor}{\#define\ TIMER\_REF\_RATE\ BIT(2)\ \ \ \ \ \ \ \ }}
+\DoxyCodeLine{00023\ \textcolor{preprocessor}{\#define\ TIMER\_IS\_BCD\ 0x01}}
+\DoxyCodeLine{00024\ \textcolor{preprocessor}{\#define\ TIMER\_IS\_BIN\ 0x00}}
+\DoxyCodeLine{00025\ \textcolor{preprocessor}{\#define\ READBACK\_CMD\_COUNT\_\ \ BIT(5)}}
+\DoxyCodeLine{00026\ \textcolor{preprocessor}{\#define\ READBACK\_CMD\_STATUS\_\ BIT(4)}}
+\DoxyCodeLine{00027\ \textcolor{preprocessor}{\#define\ READBACK\_CMD\_SEL(n)\ \ BIT((n)\ +\ 1)}}
+\DoxyCodeLine{00028\ }
+\DoxyCodeLine{00029\ \textcolor{preprocessor}{\#endif}}
+
+\end{DoxyCode}

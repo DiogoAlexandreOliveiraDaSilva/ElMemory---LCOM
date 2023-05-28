@@ -1,0 +1,8 @@
+<map id="game/modes" name="game/modes">
+<area shape="rect" id="node1" href="dir_42750f913f43bbd52a1776c7d67b01a8.html" title="sprite" alt="" coords="31,126,84,152"/>
+<area shape="rect" id="node2" href="dir_09cf33106a30a6cedbfc340f40116b87.html" title="modes" alt="" coords="27,52,88,78"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000003_000006.html" title="1" alt="" coords="62,100,69,115"/>
+<area shape="rect" id="node3" href="dir_d3bff1ab3a40b4e5d0775c67ace1b0da.html" title="controller" alt="" coords="110,126,184,152"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000003_000000.html" title="5" alt="" coords="119,100,126,115"/>
+<area shape="rect" id="clust1" href="dir_37c6514aeece95293041e34c0f2e0784.html" title="game" alt="" coords="16,16,99,162"/>
+</map>

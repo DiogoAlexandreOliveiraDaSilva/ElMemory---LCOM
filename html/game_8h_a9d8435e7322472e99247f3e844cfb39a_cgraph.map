@@ -1,0 +1,13 @@
+<map id="draw_select_player" name="draw_select_player">
+<area shape="rect" id="Node000001" title="Draws the select player menu." alt="" coords="5,23,138,49"/>
+<area shape="rect" id="Node000002" href="$game_8c.html#a8dbd1ea61ff2881fece87b274298b888" title="Draws a sprite at the specified coordinates." alt="" coords="356,23,436,49"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,20,185,8,247,3,308,8,344,16,343,21,308,13,247,8,186,13,122,25"/>
+<area shape="rect" id="Node000004" href="$game_8c.html#ad7a2eb6ed12e31c85eab03c56f2a7e12" title="Processes the player 1 selection." alt="" coords="186,23,308,49"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="138,33,171,33,171,39,138,39"/>
+<area shape="rect" id="Node000005" href="$game_8c.html#a783af1c8e14fd640b9727326589d0ff4" title="Processes the player 2 selection." alt="" coords="186,73,308,98"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="121,47,186,65,184,71,119,52"/>
+<area shape="rect" id="Node000003" href="$graphics_8c.html#afe65f24b8f80d17967df96eb563229ed" title="Draws a pixel at the specified coordinates." alt="" coords="484,23,616,49"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="437,33,469,33,469,39,437,39"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="308,33,341,33,341,39,308,39"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="287,69,341,51,343,56,289,74"/>
+</map>

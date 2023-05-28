@@ -1,0 +1,5 @@
+<map id="define_frame_bufs" name="define_frame_bufs">
+<area shape="rect" id="Node000001" title="Defines the frame buffers for the specified video mode." alt="" coords="5,5,133,31"/>
+<area shape="rect" id="Node000002" href="$graphics_8c.html#a5a019fc13892880fb8a5d01bccffe3f0" title="Defines the frame buffer for the specified graphics mode." alt="" coords="181,5,301,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,16,166,16,166,21,133,21"/>
+</map>

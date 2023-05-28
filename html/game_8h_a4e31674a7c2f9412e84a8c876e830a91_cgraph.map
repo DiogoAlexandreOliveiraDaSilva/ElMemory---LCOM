@@ -1,0 +1,16 @@
+<map id="draw_mode_2player" name="draw_mode_2player">
+<area shape="rect" id="Node000001" title="Draws the 2&#45;player mode menu." alt="" coords="5,53,142,79"/>
+<area shape="rect" id="Node000002" href="$game_8c.html#a8dbd1ea61ff2881fece87b274298b888" title="Draws a sprite at the specified coordinates." alt="" coords="365,53,445,79"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,50,138,30,189,13,254,3,282,5,318,13,349,25,377,42,374,47,347,30,316,18,281,10,254,8,190,18,140,35,99,55"/>
+<area shape="rect" id="Node000004" href="$game_8c.html#ae4db3c6b05aa961517eec7dc59593781" title="Processes the mode 1 for 2 players." alt="" coords="190,28,317,54"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="142,54,175,49,176,54,143,59"/>
+<area shape="rect" id="Node000005" href="$game_8c.html#af50d2949a290294efd057eb702aae8aa" title="Processes the mode 2 for 2 player." alt="" coords="190,77,317,103"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="143,73,176,77,175,82,142,78"/>
+<area shape="rect" id="Node000006" href="$game_8c.html#a3a18cb56d5ad2774f1e8ddbdfc3c2fa1" title="Processes the mode 3 for 2 player." alt="" coords="190,127,317,152"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="106,77,191,113,204,118,202,123,189,118,104,82"/>
+<area shape="rect" id="Node000003" href="$graphics_8c.html#afe65f24b8f80d17967df96eb563229ed" title="Draws a pixel at the specified coordinates." alt="" coords="493,53,625,79"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="446,63,478,63,478,69,446,69"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="318,49,350,54,350,60,317,54"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="317,77,350,72,350,77,318,83"/>
+<area shape="poly" id="edge8_Node000006_Node000002" title=" " alt="" coords="291,124,316,113,369,85,371,89,318,118,293,129"/>
+</map>

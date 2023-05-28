@@ -1,0 +1,11 @@
+<map id="rtc_check_BIN" name="rtc_check_BIN">
+<area shape="rect" id="Node000001" title="Checks if the RTC is in BIN mode." alt="" coords="417,31,526,56"/>
+<area shape="rect" id="Node000002" href="$group__rtc.html#ga7ed80de54ee9955bb33f3fd29e24113d" title="Checks if the RTC is in BCD mode." alt="" coords="263,5,369,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="402,35,369,29,370,24,403,30"/>
+<area shape="rect" id="Node000003" href="$group__rtc.html#ga5b2834a4a1e27abeb2f0663b4c85c774" title="Initializes the RTC and sets the BIN mode." alt="" coords="282,55,351,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="403,57,351,65,351,60,402,51"/>
+<area shape="rect" id="Node000004" href="$main_8c.html#a099d48038e444c2f3e69904477527798" title=" " alt="" coords="162,55,215,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="267,70,215,70,215,65,267,65"/>
+<area shape="rect" id="Node000005" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,55,114,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="147,70,114,70,114,65,147,65"/>
+</map>

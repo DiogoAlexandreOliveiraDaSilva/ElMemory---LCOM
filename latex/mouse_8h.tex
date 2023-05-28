@@ -1,0 +1,214 @@
+\doxysection{controller/mouse/mouse.h File Reference}
+\hypertarget{mouse_8h}{}\label{mouse_8h}\index{controller/mouse/mouse.h@{controller/mouse/mouse.h}}
+
+
+Mouse functions and definitions.  
+
+
+{\ttfamily \#include $<$minix/sysutil.\+h$>$}\newline
+{\ttfamily \#include $<$lcom/lcf.\+h$>$}\newline
+{\ttfamily \#include \"{}i8042.\+h\"{}}\newline
+{\ttfamily \#include \"{}KBC.\+h\"{}}\newline
+{\ttfamily \#include \"{}controller/video/graphics.\+h\"{}}\newline
+Include dependency graph for mouse.\+h\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{mouse_8h__incl}
+\end{center}
+\end{figure}
+This graph shows which files directly or indirectly include this file\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{mouse_8h__dep__incl}
+\end{center}
+\end{figure}
+\doxysubsubsection*{Classes}
+\begin{DoxyCompactItemize}
+\item 
+struct \mbox{\hyperlink{structMouse__Info__Struct}{Mouse\+\_\+\+Info\+\_\+\+Struct}}
+\begin{DoxyCompactList}\small\item\em Structure to hold mouse information. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsubsection*{Macros}
+\begin{DoxyCompactItemize}
+\item 
+\#define \mbox{\hyperlink{mouse_8h_a3858b85ba029d1da5b3e5f096ac9f26a}{MOUSE\+\_\+\+BIT}}~BIT(2)
+\end{DoxyCompactItemize}
+\doxysubsubsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+int() \mbox{\hyperlink{mouse_8h_a5cab36c12945662a62fe124c448d4d27}{mouse\+\_\+subscribe\+\_\+interrupts}} ()
+\begin{DoxyCompactList}\small\item\em Subscribes mouse interrupts. \end{DoxyCompactList}\item 
+int() \mbox{\hyperlink{mouse_8h_adaf9bbdd3ddda1b50021f21c37df1c9c}{mouse\+\_\+unsubscribe\+\_\+interrupts}} ()
+\begin{DoxyCompactList}\small\item\em Unsubscribes mouse interrupts. \end{DoxyCompactList}\item 
+void() \mbox{\hyperlink{mouse_8h_a210374b50462acdedab00df64d5cea3c}{mouse\+\_\+ih}} ()
+\begin{DoxyCompactList}\small\item\em Mouse interrupt handler. \end{DoxyCompactList}\item 
+void() \mbox{\hyperlink{mouse_8h_a8d67330d50b72572852a1cb1c61645c0}{mouse\+\_\+align\+\_\+bytes}} ()
+\begin{DoxyCompactList}\small\item\em Aligns mouse bytes. \end{DoxyCompactList}\item 
+void() \mbox{\hyperlink{mouse_8h_aa832040dd305ba3a8401cc3a4e6a4cc4}{mouse\+\_\+sync\+\_\+info}} ()
+\begin{DoxyCompactList}\small\item\em Synchronizes mouse information. \end{DoxyCompactList}\item 
+int() \mbox{\hyperlink{mouse_8h_a1703c3c5b61eef30d724b15cafd1d75e}{mouse\+\_\+write}} (uint8\+\_\+t command)
+\begin{DoxyCompactList}\small\item\em Writes a command to the mouse. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Mouse functions and definitions. 
+
+
+
+\doxysubsection{Macro Definition Documentation}
+\Hypertarget{mouse_8h_a3858b85ba029d1da5b3e5f096ac9f26a}\label{mouse_8h_a3858b85ba029d1da5b3e5f096ac9f26a} 
+\index{mouse.h@{mouse.h}!MOUSE\_BIT@{MOUSE\_BIT}}
+\index{MOUSE\_BIT@{MOUSE\_BIT}!mouse.h@{mouse.h}}
+\doxysubsubsection{\texorpdfstring{MOUSE\_BIT}{MOUSE\_BIT}}
+{\footnotesize\ttfamily \#define MOUSE\+\_\+\+BIT~BIT(2)}
+
+
+
+\doxysubsection{Function Documentation}
+\Hypertarget{mouse_8h_a8d67330d50b72572852a1cb1c61645c0}\label{mouse_8h_a8d67330d50b72572852a1cb1c61645c0} 
+\index{mouse.h@{mouse.h}!mouse\_align\_bytes@{mouse\_align\_bytes}}
+\index{mouse\_align\_bytes@{mouse\_align\_bytes}!mouse.h@{mouse.h}}
+\doxysubsubsection{\texorpdfstring{mouse\_align\_bytes()}{mouse\_align\_bytes()}}
+{\footnotesize\ttfamily void() mouse\+\_\+align\+\_\+bytes (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Aligns mouse bytes. 
+
+This function aligns the mouse bytes received from the output buffer. Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{mouse_8h_a8d67330d50b72572852a1cb1c61645c0_icgraph}
+\end{center}
+\end{figure}
+\Hypertarget{mouse_8h_a210374b50462acdedab00df64d5cea3c}\label{mouse_8h_a210374b50462acdedab00df64d5cea3c} 
+\index{mouse.h@{mouse.h}!mouse\_ih@{mouse\_ih}}
+\index{mouse\_ih@{mouse\_ih}!mouse.h@{mouse.h}}
+\doxysubsubsection{\texorpdfstring{mouse\_ih()}{mouse\_ih()}}
+{\footnotesize\ttfamily void() mouse\+\_\+ih (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Mouse interrupt handler. 
+
+This function is the interrupt handler for mouse interrupts. It reads the byte from the output buffer. Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{mouse_8h_a210374b50462acdedab00df64d5cea3c_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{mouse_8h_a210374b50462acdedab00df64d5cea3c_icgraph}
+\end{center}
+\end{figure}
+\Hypertarget{mouse_8h_a5cab36c12945662a62fe124c448d4d27}\label{mouse_8h_a5cab36c12945662a62fe124c448d4d27} 
+\index{mouse.h@{mouse.h}!mouse\_subscribe\_interrupts@{mouse\_subscribe\_interrupts}}
+\index{mouse\_subscribe\_interrupts@{mouse\_subscribe\_interrupts}!mouse.h@{mouse.h}}
+\doxysubsubsection{\texorpdfstring{mouse\_subscribe\_interrupts()}{mouse\_subscribe\_interrupts()}}
+{\footnotesize\ttfamily int() mouse\+\_\+subscribe\+\_\+interrupts (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Subscribes mouse interrupts. 
+
+This function subscribes mouse interrupts using sys\+\_\+irqsetpolicy().
+
+\begin{DoxyReturn}{Returns}
+Return 0 upon success, non-\/zero otherwise. 
+\end{DoxyReturn}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{mouse_8h_a5cab36c12945662a62fe124c448d4d27_icgraph}
+\end{center}
+\end{figure}
+\Hypertarget{mouse_8h_aa832040dd305ba3a8401cc3a4e6a4cc4}\label{mouse_8h_aa832040dd305ba3a8401cc3a4e6a4cc4} 
+\index{mouse.h@{mouse.h}!mouse\_sync\_info@{mouse\_sync\_info}}
+\index{mouse\_sync\_info@{mouse\_sync\_info}!mouse.h@{mouse.h}}
+\doxysubsubsection{\texorpdfstring{mouse\_sync\_info()}{mouse\_sync\_info()}}
+{\footnotesize\ttfamily void() mouse\+\_\+sync\+\_\+info (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Synchronizes mouse information. 
+
+This function synchronizes the mouse information by updating the mouse\+\_\+info\+\_\+s structure with the received bytes. Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{mouse_8h_aa832040dd305ba3a8401cc3a4e6a4cc4_icgraph}
+\end{center}
+\end{figure}
+\Hypertarget{mouse_8h_adaf9bbdd3ddda1b50021f21c37df1c9c}\label{mouse_8h_adaf9bbdd3ddda1b50021f21c37df1c9c} 
+\index{mouse.h@{mouse.h}!mouse\_unsubscribe\_interrupts@{mouse\_unsubscribe\_interrupts}}
+\index{mouse\_unsubscribe\_interrupts@{mouse\_unsubscribe\_interrupts}!mouse.h@{mouse.h}}
+\doxysubsubsection{\texorpdfstring{mouse\_unsubscribe\_interrupts()}{mouse\_unsubscribe\_interrupts()}}
+{\footnotesize\ttfamily int() mouse\+\_\+unsubscribe\+\_\+interrupts (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Unsubscribes mouse interrupts. 
+
+This function unsubscribes mouse interrupts using sys\+\_\+irqrmpolicy().
+
+\begin{DoxyReturn}{Returns}
+Return 0 upon success, non-\/zero otherwise. 
+\end{DoxyReturn}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{mouse_8h_adaf9bbdd3ddda1b50021f21c37df1c9c_icgraph}
+\end{center}
+\end{figure}
+\Hypertarget{mouse_8h_a1703c3c5b61eef30d724b15cafd1d75e}\label{mouse_8h_a1703c3c5b61eef30d724b15cafd1d75e} 
+\index{mouse.h@{mouse.h}!mouse\_write@{mouse\_write}}
+\index{mouse\_write@{mouse\_write}!mouse.h@{mouse.h}}
+\doxysubsubsection{\texorpdfstring{mouse\_write()}{mouse\_write()}}
+{\footnotesize\ttfamily int() mouse\+\_\+write (\begin{DoxyParamCaption}\item[{uint8\+\_\+t}]{command }\end{DoxyParamCaption})}
+
+
+
+Writes a command to the mouse. 
+
+This function writes a command byte to the mouse and waits for the acknowledgement.
+
+
+\begin{DoxyParams}{Parameters}
+{\em command} & The command byte to write. \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Return 0 upon success, non-\/zero otherwise. 
+\end{DoxyReturn}
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{mouse_8h_a1703c3c5b61eef30d724b15cafd1d75e_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{mouse_8h_a1703c3c5b61eef30d724b15cafd1d75e_icgraph}
+\end{center}
+\end{figure}

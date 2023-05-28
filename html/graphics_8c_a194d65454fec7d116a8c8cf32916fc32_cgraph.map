@@ -1,0 +1,5 @@
+<map id="draw_h_line" name="draw_h_line">
+<area shape="rect" id="Node000001" title="Draws a horizontal line at the specified coordinates." alt="" coords="5,5,96,31"/>
+<area shape="rect" id="Node000002" href="$graphics_8c.html#afe65f24b8f80d17967df96eb563229ed" title="Draws a pixel at the specified coordinates." alt="" coords="144,5,275,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,16,129,16,129,21,96,21"/>
+</map>

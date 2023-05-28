@@ -1,0 +1,7 @@
+<map id="draw_finish_menu" name="draw_finish_menu">
+<area shape="rect" id="Node000001" title="Draws the finish menu." alt="" coords="5,5,131,31"/>
+<area shape="rect" id="Node000002" href="$game_8c.html#a8dbd1ea61ff2881fece87b274298b888" title="Draws a sprite at the specified coordinates." alt="" coords="179,5,259,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,16,164,16,164,21,131,21"/>
+<area shape="rect" id="Node000003" href="$graphics_8c.html#afe65f24b8f80d17967df96eb563229ed" title="Draws a pixel at the specified coordinates." alt="" coords="307,5,438,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="259,16,292,16,292,21,259,21"/>
+</map>

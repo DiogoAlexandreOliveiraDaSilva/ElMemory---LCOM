@@ -1,0 +1,5 @@
+<map id="process_cardPressed2_2" name="process_cardPressed2_2">
+<area shape="rect" id="Node000001" title="Processes button 2 click." alt="" coords="5,5,174,31"/>
+<area shape="rect" id="Node000002" href="$game_8c.html#a3a5c3643075ef834f1841495be35aa46" title="Checks if two sprites have matching IDs." alt="" coords="222,5,321,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,16,207,16,207,21,174,21"/>
+</map>

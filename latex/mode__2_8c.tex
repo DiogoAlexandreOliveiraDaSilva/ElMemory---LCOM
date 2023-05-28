@@ -1,0 +1,823 @@
+\doxysection{game/modes/mode\+\_\+2.c File Reference}
+\hypertarget{mode__2_8c}{}\label{mode__2_8c}\index{game/modes/mode\_2.c@{game/modes/mode\_2.c}}
+{\ttfamily \#include \"{}mode\+\_\+2.\+h\"{}}\newline
+Include dependency graph for mode\+\_\+2.\+c\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{mode__2_8c__incl}
+\end{center}
+\end{figure}
+\doxysubsubsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \mbox{\hyperlink{mode__2_8c_a080521376bbe890ae052724804cb3d86}{process\+\_\+card\+Pressed1}} ()
+\begin{DoxyCompactList}\small\item\em Processes button 1 click. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{mode__2_8c_abdcd78ec0f599c5db6b465495d8e852c}{process\+\_\+card\+Pressed2}} ()
+\begin{DoxyCompactList}\small\item\em Processes button 2 click. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{mode__2_8c_a0a0e6dc0b0cdeab8b22c02c8a58214b8}{process\+\_\+card\+Pressed3}} ()
+\begin{DoxyCompactList}\small\item\em Processes button 3 click. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{mode__2_8c_aa667d366009c00f9d71e3cd24912e0c9}{process\+\_\+card\+Pressed4}} ()
+\begin{DoxyCompactList}\small\item\em Processes button 4 click. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{mode__2_8c_a016105f4f7c1361129d288bb281e68d7}{process\+\_\+card\+Pressed5}} ()
+\begin{DoxyCompactList}\small\item\em Processes button 5 click. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{mode__2_8c_a81fcdc96ae1cc4c313a8e068dcbe1bdd}{process\+\_\+card\+Pressed6}} ()
+\begin{DoxyCompactList}\small\item\em Processes button 6 click. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{mode__2_8c_a35dbf48a11a300c349223abfb94b2eb2}{process\+\_\+card\+Pressed7}} ()
+\begin{DoxyCompactList}\small\item\em Processes button 7 click. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{mode__2_8c_a705da7abd45bd9a43f90a5fc92c49658}{process\+\_\+card\+Pressed8}} ()
+\begin{DoxyCompactList}\small\item\em Processes button 8 click. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{mode__2_8c_ab589130d7270a5c968f50ec7ac92b049}{draw\+\_\+game\+\_\+menu\+\_\+2}} ()
+\begin{DoxyCompactList}\small\item\em Draws the game menu for mode 2. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsubsection*{Variables}
+\begin{DoxyCompactItemize}
+\item 
+int \mbox{\hyperlink{mode__2_8c_a95801f45a4e65616a77c9f92a80a13fd}{pre1}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*}\texorpdfstring{$\ast$}{*} \mbox{\hyperlink{mode__2_8c_a29b15c907c8822c05aba021d10bba351}{matrix}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{mode__2_8c_a1152e83d23a08c31a81faf4cb263362f}{index\+\_\+1}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{mode__2_8c_a91c9c95cb9989cf40da08153fc2fabbb}{index\+\_\+2}}
+\item 
+bool \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{mode__2_8c_a1b3d99f8b90f5d8c6e7eae89e2a5ad4a}{index\+\_\+1\+\_\+bool}}
+\item 
+bool \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{mode__2_8c_a41ed507b08c5d953715c4c268ac59ef8}{index\+\_\+2\+\_\+bool}}
+\item 
+int \mbox{\hyperlink{mode__2_8c_a8627cdd2e7ca66ffccf2b879eff20e61}{matrix\+\_\+id1}}
+\item 
+int \mbox{\hyperlink{mode__2_8c_a7d8413c0913683a3f04f4d696851c475}{matrix\+\_\+id2}}
+\item 
+int \mbox{\hyperlink{mode__2_8c_a9dd86e05eb51b73ffa496d0478503939}{timer\+\_\+interrupts}}
+\item 
+vbe\+\_\+mode\+\_\+info\+\_\+t \mbox{\hyperlink{mode__2_8c_a9fcc2243068f8e628648febc0909c509}{mode\+\_\+info}}
+\begin{DoxyCompactList}\small\item\em The VBE mode info. \end{DoxyCompactList}\item 
+\mbox{\hyperlink{structMouse__Info__Struct}{Mouse\+\_\+\+Info\+\_\+\+Struct}} \mbox{\hyperlink{mode__2_8c_ae91e7092e34fe82f7681427aeaf551d4}{mouse\+\_\+info\+\_\+s}}
+\item 
+\mbox{\hyperlink{structreal__time__mode__info}{real\+\_\+time\+\_\+mode\+\_\+info}} \mbox{\hyperlink{mode__2_8c_a94312aa7bce580ff38bc35780b632130}{time\+\_\+mode\+\_\+info}}
+\item 
+\mbox{\hyperlink{menu_8h_aa3041ae4242c0dd57a126d17505443b2}{Menu\+State}} \mbox{\hyperlink{mode__2_8c_a92b62ab09159876ce3ca4dc9340931ca}{menu\+State}}
+\item 
+\mbox{\hyperlink{menu_8h_aa51313be2faacb739a18fdeecefbac75}{System\+State}} \mbox{\hyperlink{mode__2_8c_ac705089b22877f6322d09a9f0f5bdb1d}{system\+State}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{mode__2_8c_af03a383fdcfdf7501006a5c8d68be42b}{mouse}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{mode__2_8c_a86918a6ee8c611efed39b31b07278c45}{hand}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{mode__2_8c_a8e0b895872b62a170f78da59f0c00628}{teste}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{mode__2_8c_a128ae586c5fbd6f3347f466a69a01ba1}{logo}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{mode__2_8c_ae32a4889829cce60cde61e39a6e51ae2}{quit\+Button}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{mode__2_8c_aafe203b91caf3440a421375411f90d28}{quit\+Button\+Pressed}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{mode__2_8c_ad5629cf4002b09278d832c4b14cdfac9}{button1}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{mode__2_8c_af2773b4ef8483b362e609df8319bdef0}{button2}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{mode__2_8c_a38b52307fbdb2bbd04461980e2c33acd}{button3}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{mode__2_8c_a542ab6fd92a7ce52dc07980e5c6edb84}{button4}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{mode__2_8c_aaee505dc5b3b45801ffb410df1704541}{number1}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{mode__2_8c_a18e6a886be63dfb579756e81e3fe5292}{number2}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{mode__2_8c_a5a4ec8b1c2b7241721e90cdb201c7562}{number3}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{mode__2_8c_abf017686ed31131ad0f09cd637bfff4d}{number4}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{mode__2_8c_acffe389543fcf770f3dbc3f460b66ff0}{number5}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{mode__2_8c_a320b85ccfe029ee4f811ff193e06b9ab}{number6}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{mode__2_8c_a0de4c39e391f59c596d46a00e8fbf7c6}{number7}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{mode__2_8c_a311c0da3e2d004050eca5fd65a657671}{number8}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{mode__2_8c_aea6d7aabfde5f51bf21b382d70f7b9f9}{back}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{mode__2_8c_abc124d24ce11b630d94587e1b8ec7f50}{game}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{mode__2_8c_a6decdccaec76670c7ba6b9996cbe0fd5}{easy}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{mode__2_8c_a23b5714dc5df312a3af847a5371dfc74}{medium}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{mode__2_8c_a9c4a90f687c138ee287a169b7f841d76}{hard}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{mode__2_8c_ad9b3c6c4c5ea5d002bb6c6787f5c39b6}{quit}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{mode__2_8c_a76454a7d013e0b6d5feb29b0ced6429e}{start}}
+\item 
+bool \mbox{\hyperlink{mode__2_8c_a78a71bfa39bccc12d162802d58a31be3}{card\+Pressed1}}
+\item 
+bool \mbox{\hyperlink{mode__2_8c_ac189f411b38322f6f4186f40e0928329}{card\+Pressed2}}
+\item 
+bool \mbox{\hyperlink{mode__2_8c_ac78700754b46e3476c882643e76e0773}{card\+Pressed3}}
+\item 
+bool \mbox{\hyperlink{mode__2_8c_a0bbfe7e23040d1eeb3d634f1145f0881}{card\+Pressed4}}
+\item 
+bool \mbox{\hyperlink{mode__2_8c_a038e07903b39c6f013b33c15f4af285e}{card\+Pressed5}}
+\item 
+bool \mbox{\hyperlink{mode__2_8c_a6dbd5d3139db2e31f9b74f52ea34e9a7}{card\+Pressed6}}
+\item 
+bool \mbox{\hyperlink{mode__2_8c_ae81f34daed5cbf6a7558fd2783f34db3}{card\+Pressed7}}
+\item 
+bool \mbox{\hyperlink{mode__2_8c_a4cb3030684170aa8065d7733084f2482}{card\+Pressed8}}
+\item 
+uint8\+\_\+t \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{mode__2_8c_ac8a13cd769564611a91a88d9ce297bdc}{main\+\_\+frame\+\_\+buf}}
+\item 
+uint8\+\_\+t \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{mode__2_8c_a742281e6807e2b829e7d853c35c36b67}{SECONDSondary\+\_\+frame\+\_\+buf}}
+\item 
+uint8\+\_\+t \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{mode__2_8c_a34fba763c6848647d154b031a59f1abc}{drawing\+\_\+frame\+\_\+buf}}
+\item 
+uint32\+\_\+t \mbox{\hyperlink{mode__2_8c_a5b805f2a6a9baf773dac07adf02e2985}{frame\+\_\+buf\+\_\+size}}
+\item 
+bool \mbox{\hyperlink{mode__2_8c_a2042a28c63bade49ab3d2bc5dafd6f59}{is\+Animating}}
+\item 
+int \mbox{\hyperlink{mode__2_8c_a763a48da84f1d2b28b2bdcedb24cc71b}{animation\+Frame}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{mode__2_8c_a9648babd8e22992aa253aa6acc5e8117}{back\+\_\+anim1}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{mode__2_8c_a56ee21857cb23d034f052420e2440981}{back\+\_\+anim2}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{mode__2_8c_a40456784800c3736a2ad78e0a511c84e}{back\+\_\+anim3}}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{mode__2_8c_a1295b3c0ff423f980d472feb989bf194}{back\+\_\+anim4}}
+\item 
+int \mbox{\hyperlink{mode__2_8c_a1e30742bebf19a062d6570158986c241}{gameplay\+Counter}}
+\item 
+bool \mbox{\hyperlink{mode__2_8c_a73eaba0a5c1f65d0735af0bb6946a2da}{is\+\_\+processing}}
+\item 
+uint8\+\_\+t \mbox{\hyperlink{mode__2_8c_aa1de7a5557e9d96b83cf03f73c92163f}{scancode}}
+\item 
+\mbox{\hyperlink{menu_8h_aa3041ae4242c0dd57a126d17505443b2}{Menu\+State}} \mbox{\hyperlink{mode__2_8c_a96c88eb0ecf85e612afce4ec5c52bbf5}{to\+\_\+help}}
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Function Documentation}
+\Hypertarget{mode__2_8c_ab589130d7270a5c968f50ec7ac92b049}\label{mode__2_8c_ab589130d7270a5c968f50ec7ac92b049} 
+\index{mode\_2.c@{mode\_2.c}!draw\_game\_menu\_2@{draw\_game\_menu\_2}}
+\index{draw\_game\_menu\_2@{draw\_game\_menu\_2}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{draw\_game\_menu\_2()}{draw\_game\_menu\_2()}}
+{\footnotesize\ttfamily void draw\+\_\+game\+\_\+menu\+\_\+2 (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Draws the game menu for mode 2. 
+
+Draws the game menu. Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{mode__2_8c_ab589130d7270a5c968f50ec7ac92b049_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{mode__2_8c_ab589130d7270a5c968f50ec7ac92b049_icgraph}
+\end{center}
+\end{figure}
+\Hypertarget{mode__2_8c_a080521376bbe890ae052724804cb3d86}\label{mode__2_8c_a080521376bbe890ae052724804cb3d86} 
+\index{mode\_2.c@{mode\_2.c}!process\_cardPressed1@{process\_cardPressed1}}
+\index{process\_cardPressed1@{process\_cardPressed1}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{process\_cardPressed1()}{process\_cardPressed1()}}
+{\footnotesize\ttfamily void process\+\_\+card\+Pressed1 (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Processes button 1 click. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em cards} & An array of \doxylink{structSprite}{Sprite} cards. \\
+\hline
+{\em size} & The size of the cards array. \\
+\hline
+\end{DoxyParams}
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=306pt]{mode__2_8c_a080521376bbe890ae052724804cb3d86_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{mode__2_8c_a080521376bbe890ae052724804cb3d86_icgraph}
+\end{center}
+\end{figure}
+\Hypertarget{mode__2_8c_abdcd78ec0f599c5db6b465495d8e852c}\label{mode__2_8c_abdcd78ec0f599c5db6b465495d8e852c} 
+\index{mode\_2.c@{mode\_2.c}!process\_cardPressed2@{process\_cardPressed2}}
+\index{process\_cardPressed2@{process\_cardPressed2}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{process\_cardPressed2()}{process\_cardPressed2()}}
+{\footnotesize\ttfamily void process\+\_\+card\+Pressed2 (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Processes button 2 click. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em cards} & An array of \doxylink{structSprite}{Sprite} cards. \\
+\hline
+{\em size} & The size of the cards array. \\
+\hline
+\end{DoxyParams}
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=306pt]{mode__2_8c_abdcd78ec0f599c5db6b465495d8e852c_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{mode__2_8c_abdcd78ec0f599c5db6b465495d8e852c_icgraph}
+\end{center}
+\end{figure}
+\Hypertarget{mode__2_8c_a0a0e6dc0b0cdeab8b22c02c8a58214b8}\label{mode__2_8c_a0a0e6dc0b0cdeab8b22c02c8a58214b8} 
+\index{mode\_2.c@{mode\_2.c}!process\_cardPressed3@{process\_cardPressed3}}
+\index{process\_cardPressed3@{process\_cardPressed3}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{process\_cardPressed3()}{process\_cardPressed3()}}
+{\footnotesize\ttfamily void process\+\_\+card\+Pressed3 (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Processes button 3 click. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em cards} & An array of \doxylink{structSprite}{Sprite} cards. \\
+\hline
+{\em size} & The size of the cards array. \\
+\hline
+\end{DoxyParams}
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=306pt]{mode__2_8c_a0a0e6dc0b0cdeab8b22c02c8a58214b8_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{mode__2_8c_a0a0e6dc0b0cdeab8b22c02c8a58214b8_icgraph}
+\end{center}
+\end{figure}
+\Hypertarget{mode__2_8c_aa667d366009c00f9d71e3cd24912e0c9}\label{mode__2_8c_aa667d366009c00f9d71e3cd24912e0c9} 
+\index{mode\_2.c@{mode\_2.c}!process\_cardPressed4@{process\_cardPressed4}}
+\index{process\_cardPressed4@{process\_cardPressed4}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{process\_cardPressed4()}{process\_cardPressed4()}}
+{\footnotesize\ttfamily void process\+\_\+card\+Pressed4 (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Processes button 4 click. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em cards} & An array of \doxylink{structSprite}{Sprite} cards. \\
+\hline
+{\em size} & The size of the cards array. \\
+\hline
+\end{DoxyParams}
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=306pt]{mode__2_8c_aa667d366009c00f9d71e3cd24912e0c9_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{mode__2_8c_aa667d366009c00f9d71e3cd24912e0c9_icgraph}
+\end{center}
+\end{figure}
+\Hypertarget{mode__2_8c_a016105f4f7c1361129d288bb281e68d7}\label{mode__2_8c_a016105f4f7c1361129d288bb281e68d7} 
+\index{mode\_2.c@{mode\_2.c}!process\_cardPressed5@{process\_cardPressed5}}
+\index{process\_cardPressed5@{process\_cardPressed5}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{process\_cardPressed5()}{process\_cardPressed5()}}
+{\footnotesize\ttfamily void process\+\_\+card\+Pressed5 (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Processes button 5 click. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em cards} & An array of \doxylink{structSprite}{Sprite} cards. \\
+\hline
+{\em size} & The size of the cards array. \\
+\hline
+\end{DoxyParams}
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=306pt]{mode__2_8c_a016105f4f7c1361129d288bb281e68d7_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{mode__2_8c_a016105f4f7c1361129d288bb281e68d7_icgraph}
+\end{center}
+\end{figure}
+\Hypertarget{mode__2_8c_a81fcdc96ae1cc4c313a8e068dcbe1bdd}\label{mode__2_8c_a81fcdc96ae1cc4c313a8e068dcbe1bdd} 
+\index{mode\_2.c@{mode\_2.c}!process\_cardPressed6@{process\_cardPressed6}}
+\index{process\_cardPressed6@{process\_cardPressed6}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{process\_cardPressed6()}{process\_cardPressed6()}}
+{\footnotesize\ttfamily void process\+\_\+card\+Pressed6 (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Processes button 6 click. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em cards} & An array of \doxylink{structSprite}{Sprite} cards. \\
+\hline
+{\em size} & The size of the cards array. \\
+\hline
+\end{DoxyParams}
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=306pt]{mode__2_8c_a81fcdc96ae1cc4c313a8e068dcbe1bdd_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{mode__2_8c_a81fcdc96ae1cc4c313a8e068dcbe1bdd_icgraph}
+\end{center}
+\end{figure}
+\Hypertarget{mode__2_8c_a35dbf48a11a300c349223abfb94b2eb2}\label{mode__2_8c_a35dbf48a11a300c349223abfb94b2eb2} 
+\index{mode\_2.c@{mode\_2.c}!process\_cardPressed7@{process\_cardPressed7}}
+\index{process\_cardPressed7@{process\_cardPressed7}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{process\_cardPressed7()}{process\_cardPressed7()}}
+{\footnotesize\ttfamily void process\+\_\+card\+Pressed7 (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Processes button 7 click. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em cards} & An array of \doxylink{structSprite}{Sprite} cards. \\
+\hline
+{\em size} & The size of the cards array. \\
+\hline
+\end{DoxyParams}
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=306pt]{mode__2_8c_a35dbf48a11a300c349223abfb94b2eb2_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{mode__2_8c_a35dbf48a11a300c349223abfb94b2eb2_icgraph}
+\end{center}
+\end{figure}
+\Hypertarget{mode__2_8c_a705da7abd45bd9a43f90a5fc92c49658}\label{mode__2_8c_a705da7abd45bd9a43f90a5fc92c49658} 
+\index{mode\_2.c@{mode\_2.c}!process\_cardPressed8@{process\_cardPressed8}}
+\index{process\_cardPressed8@{process\_cardPressed8}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{process\_cardPressed8()}{process\_cardPressed8()}}
+{\footnotesize\ttfamily void process\+\_\+card\+Pressed8 (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Processes button 8 click. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em cards} & An array of \doxylink{structSprite}{Sprite} cards. \\
+\hline
+{\em size} & The size of the cards array. \\
+\hline
+\end{DoxyParams}
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=306pt]{mode__2_8c_a705da7abd45bd9a43f90a5fc92c49658_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{mode__2_8c_a705da7abd45bd9a43f90a5fc92c49658_icgraph}
+\end{center}
+\end{figure}
+
+
+\doxysubsection{Variable Documentation}
+\Hypertarget{mode__2_8c_a763a48da84f1d2b28b2bdcedb24cc71b}\label{mode__2_8c_a763a48da84f1d2b28b2bdcedb24cc71b} 
+\index{mode\_2.c@{mode\_2.c}!animationFrame@{animationFrame}}
+\index{animationFrame@{animationFrame}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{animationFrame}{animationFrame}}
+{\footnotesize\ttfamily int animation\+Frame\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_aea6d7aabfde5f51bf21b382d70f7b9f9}\label{mode__2_8c_aea6d7aabfde5f51bf21b382d70f7b9f9} 
+\index{mode\_2.c@{mode\_2.c}!back@{back}}
+\index{back@{back}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{back}{back}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} back\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_a9648babd8e22992aa253aa6acc5e8117}\label{mode__2_8c_a9648babd8e22992aa253aa6acc5e8117} 
+\index{mode\_2.c@{mode\_2.c}!back\_anim1@{back\_anim1}}
+\index{back\_anim1@{back\_anim1}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{back\_anim1}{back\_anim1}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} back\+\_\+anim1\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_a56ee21857cb23d034f052420e2440981}\label{mode__2_8c_a56ee21857cb23d034f052420e2440981} 
+\index{mode\_2.c@{mode\_2.c}!back\_anim2@{back\_anim2}}
+\index{back\_anim2@{back\_anim2}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{back\_anim2}{back\_anim2}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} back\+\_\+anim2\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_a40456784800c3736a2ad78e0a511c84e}\label{mode__2_8c_a40456784800c3736a2ad78e0a511c84e} 
+\index{mode\_2.c@{mode\_2.c}!back\_anim3@{back\_anim3}}
+\index{back\_anim3@{back\_anim3}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{back\_anim3}{back\_anim3}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} back\+\_\+anim3\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_a1295b3c0ff423f980d472feb989bf194}\label{mode__2_8c_a1295b3c0ff423f980d472feb989bf194} 
+\index{mode\_2.c@{mode\_2.c}!back\_anim4@{back\_anim4}}
+\index{back\_anim4@{back\_anim4}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{back\_anim4}{back\_anim4}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} back\+\_\+anim4\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_ad5629cf4002b09278d832c4b14cdfac9}\label{mode__2_8c_ad5629cf4002b09278d832c4b14cdfac9} 
+\index{mode\_2.c@{mode\_2.c}!button1@{button1}}
+\index{button1@{button1}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{button1}{button1}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} button1\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_af2773b4ef8483b362e609df8319bdef0}\label{mode__2_8c_af2773b4ef8483b362e609df8319bdef0} 
+\index{mode\_2.c@{mode\_2.c}!button2@{button2}}
+\index{button2@{button2}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{button2}{button2}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} button2\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_a38b52307fbdb2bbd04461980e2c33acd}\label{mode__2_8c_a38b52307fbdb2bbd04461980e2c33acd} 
+\index{mode\_2.c@{mode\_2.c}!button3@{button3}}
+\index{button3@{button3}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{button3}{button3}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} button3\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_a542ab6fd92a7ce52dc07980e5c6edb84}\label{mode__2_8c_a542ab6fd92a7ce52dc07980e5c6edb84} 
+\index{mode\_2.c@{mode\_2.c}!button4@{button4}}
+\index{button4@{button4}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{button4}{button4}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} button4\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_a78a71bfa39bccc12d162802d58a31be3}\label{mode__2_8c_a78a71bfa39bccc12d162802d58a31be3} 
+\index{mode\_2.c@{mode\_2.c}!cardPressed1@{cardPressed1}}
+\index{cardPressed1@{cardPressed1}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{cardPressed1}{cardPressed1}}
+{\footnotesize\ttfamily bool card\+Pressed1\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_ac189f411b38322f6f4186f40e0928329}\label{mode__2_8c_ac189f411b38322f6f4186f40e0928329} 
+\index{mode\_2.c@{mode\_2.c}!cardPressed2@{cardPressed2}}
+\index{cardPressed2@{cardPressed2}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{cardPressed2}{cardPressed2}}
+{\footnotesize\ttfamily bool card\+Pressed2\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_ac78700754b46e3476c882643e76e0773}\label{mode__2_8c_ac78700754b46e3476c882643e76e0773} 
+\index{mode\_2.c@{mode\_2.c}!cardPressed3@{cardPressed3}}
+\index{cardPressed3@{cardPressed3}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{cardPressed3}{cardPressed3}}
+{\footnotesize\ttfamily bool card\+Pressed3\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_a0bbfe7e23040d1eeb3d634f1145f0881}\label{mode__2_8c_a0bbfe7e23040d1eeb3d634f1145f0881} 
+\index{mode\_2.c@{mode\_2.c}!cardPressed4@{cardPressed4}}
+\index{cardPressed4@{cardPressed4}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{cardPressed4}{cardPressed4}}
+{\footnotesize\ttfamily bool card\+Pressed4\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_a038e07903b39c6f013b33c15f4af285e}\label{mode__2_8c_a038e07903b39c6f013b33c15f4af285e} 
+\index{mode\_2.c@{mode\_2.c}!cardPressed5@{cardPressed5}}
+\index{cardPressed5@{cardPressed5}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{cardPressed5}{cardPressed5}}
+{\footnotesize\ttfamily bool card\+Pressed5\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_a6dbd5d3139db2e31f9b74f52ea34e9a7}\label{mode__2_8c_a6dbd5d3139db2e31f9b74f52ea34e9a7} 
+\index{mode\_2.c@{mode\_2.c}!cardPressed6@{cardPressed6}}
+\index{cardPressed6@{cardPressed6}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{cardPressed6}{cardPressed6}}
+{\footnotesize\ttfamily bool card\+Pressed6\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_ae81f34daed5cbf6a7558fd2783f34db3}\label{mode__2_8c_ae81f34daed5cbf6a7558fd2783f34db3} 
+\index{mode\_2.c@{mode\_2.c}!cardPressed7@{cardPressed7}}
+\index{cardPressed7@{cardPressed7}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{cardPressed7}{cardPressed7}}
+{\footnotesize\ttfamily bool card\+Pressed7\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_a4cb3030684170aa8065d7733084f2482}\label{mode__2_8c_a4cb3030684170aa8065d7733084f2482} 
+\index{mode\_2.c@{mode\_2.c}!cardPressed8@{cardPressed8}}
+\index{cardPressed8@{cardPressed8}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{cardPressed8}{cardPressed8}}
+{\footnotesize\ttfamily bool card\+Pressed8\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_a34fba763c6848647d154b031a59f1abc}\label{mode__2_8c_a34fba763c6848647d154b031a59f1abc} 
+\index{mode\_2.c@{mode\_2.c}!drawing\_frame\_buf@{drawing\_frame\_buf}}
+\index{drawing\_frame\_buf@{drawing\_frame\_buf}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{drawing\_frame\_buf}{drawing\_frame\_buf}}
+{\footnotesize\ttfamily uint8\+\_\+t\texorpdfstring{$\ast$}{*} drawing\+\_\+frame\+\_\+buf\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_a6decdccaec76670c7ba6b9996cbe0fd5}\label{mode__2_8c_a6decdccaec76670c7ba6b9996cbe0fd5} 
+\index{mode\_2.c@{mode\_2.c}!easy@{easy}}
+\index{easy@{easy}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{easy}{easy}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} easy\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_a5b805f2a6a9baf773dac07adf02e2985}\label{mode__2_8c_a5b805f2a6a9baf773dac07adf02e2985} 
+\index{mode\_2.c@{mode\_2.c}!frame\_buf\_size@{frame\_buf\_size}}
+\index{frame\_buf\_size@{frame\_buf\_size}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{frame\_buf\_size}{frame\_buf\_size}}
+{\footnotesize\ttfamily uint32\+\_\+t frame\+\_\+buf\+\_\+size\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_abc124d24ce11b630d94587e1b8ec7f50}\label{mode__2_8c_abc124d24ce11b630d94587e1b8ec7f50} 
+\index{mode\_2.c@{mode\_2.c}!game@{game}}
+\index{game@{game}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{game}{game}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} game\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_a1e30742bebf19a062d6570158986c241}\label{mode__2_8c_a1e30742bebf19a062d6570158986c241} 
+\index{mode\_2.c@{mode\_2.c}!gameplayCounter@{gameplayCounter}}
+\index{gameplayCounter@{gameplayCounter}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{gameplayCounter}{gameplayCounter}}
+{\footnotesize\ttfamily int gameplay\+Counter\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_a86918a6ee8c611efed39b31b07278c45}\label{mode__2_8c_a86918a6ee8c611efed39b31b07278c45} 
+\index{mode\_2.c@{mode\_2.c}!hand@{hand}}
+\index{hand@{hand}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{hand}{hand}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} hand\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_a9c4a90f687c138ee287a169b7f841d76}\label{mode__2_8c_a9c4a90f687c138ee287a169b7f841d76} 
+\index{mode\_2.c@{mode\_2.c}!hard@{hard}}
+\index{hard@{hard}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{hard}{hard}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} hard\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_a1152e83d23a08c31a81faf4cb263362f}\label{mode__2_8c_a1152e83d23a08c31a81faf4cb263362f} 
+\index{mode\_2.c@{mode\_2.c}!index\_1@{index\_1}}
+\index{index\_1@{index\_1}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{index\_1}{index\_1}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} index\+\_\+1\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_a1b3d99f8b90f5d8c6e7eae89e2a5ad4a}\label{mode__2_8c_a1b3d99f8b90f5d8c6e7eae89e2a5ad4a} 
+\index{mode\_2.c@{mode\_2.c}!index\_1\_bool@{index\_1\_bool}}
+\index{index\_1\_bool@{index\_1\_bool}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{index\_1\_bool}{index\_1\_bool}}
+{\footnotesize\ttfamily bool\texorpdfstring{$\ast$}{*} index\+\_\+1\+\_\+bool\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_a91c9c95cb9989cf40da08153fc2fabbb}\label{mode__2_8c_a91c9c95cb9989cf40da08153fc2fabbb} 
+\index{mode\_2.c@{mode\_2.c}!index\_2@{index\_2}}
+\index{index\_2@{index\_2}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{index\_2}{index\_2}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} index\+\_\+2\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_a41ed507b08c5d953715c4c268ac59ef8}\label{mode__2_8c_a41ed507b08c5d953715c4c268ac59ef8} 
+\index{mode\_2.c@{mode\_2.c}!index\_2\_bool@{index\_2\_bool}}
+\index{index\_2\_bool@{index\_2\_bool}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{index\_2\_bool}{index\_2\_bool}}
+{\footnotesize\ttfamily bool\texorpdfstring{$\ast$}{*} index\+\_\+2\+\_\+bool\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_a73eaba0a5c1f65d0735af0bb6946a2da}\label{mode__2_8c_a73eaba0a5c1f65d0735af0bb6946a2da} 
+\index{mode\_2.c@{mode\_2.c}!is\_processing@{is\_processing}}
+\index{is\_processing@{is\_processing}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{is\_processing}{is\_processing}}
+{\footnotesize\ttfamily bool is\+\_\+processing\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_a2042a28c63bade49ab3d2bc5dafd6f59}\label{mode__2_8c_a2042a28c63bade49ab3d2bc5dafd6f59} 
+\index{mode\_2.c@{mode\_2.c}!isAnimating@{isAnimating}}
+\index{isAnimating@{isAnimating}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{isAnimating}{isAnimating}}
+{\footnotesize\ttfamily bool is\+Animating\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_a128ae586c5fbd6f3347f466a69a01ba1}\label{mode__2_8c_a128ae586c5fbd6f3347f466a69a01ba1} 
+\index{mode\_2.c@{mode\_2.c}!logo@{logo}}
+\index{logo@{logo}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{logo}{logo}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} logo\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_ac8a13cd769564611a91a88d9ce297bdc}\label{mode__2_8c_ac8a13cd769564611a91a88d9ce297bdc} 
+\index{mode\_2.c@{mode\_2.c}!main\_frame\_buf@{main\_frame\_buf}}
+\index{main\_frame\_buf@{main\_frame\_buf}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{main\_frame\_buf}{main\_frame\_buf}}
+{\footnotesize\ttfamily uint8\+\_\+t\texorpdfstring{$\ast$}{*} main\+\_\+frame\+\_\+buf\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_a29b15c907c8822c05aba021d10bba351}\label{mode__2_8c_a29b15c907c8822c05aba021d10bba351} 
+\index{mode\_2.c@{mode\_2.c}!matrix@{matrix}}
+\index{matrix@{matrix}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{matrix}{matrix}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*}\texorpdfstring{$\ast$}{*} matrix\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_a8627cdd2e7ca66ffccf2b879eff20e61}\label{mode__2_8c_a8627cdd2e7ca66ffccf2b879eff20e61} 
+\index{mode\_2.c@{mode\_2.c}!matrix\_id1@{matrix\_id1}}
+\index{matrix\_id1@{matrix\_id1}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{matrix\_id1}{matrix\_id1}}
+{\footnotesize\ttfamily int matrix\+\_\+id1\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_a7d8413c0913683a3f04f4d696851c475}\label{mode__2_8c_a7d8413c0913683a3f04f4d696851c475} 
+\index{mode\_2.c@{mode\_2.c}!matrix\_id2@{matrix\_id2}}
+\index{matrix\_id2@{matrix\_id2}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{matrix\_id2}{matrix\_id2}}
+{\footnotesize\ttfamily int matrix\+\_\+id2\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_a23b5714dc5df312a3af847a5371dfc74}\label{mode__2_8c_a23b5714dc5df312a3af847a5371dfc74} 
+\index{mode\_2.c@{mode\_2.c}!medium@{medium}}
+\index{medium@{medium}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{medium}{medium}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} medium\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_a92b62ab09159876ce3ca4dc9340931ca}\label{mode__2_8c_a92b62ab09159876ce3ca4dc9340931ca} 
+\index{mode\_2.c@{mode\_2.c}!menuState@{menuState}}
+\index{menuState@{menuState}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{menuState}{menuState}}
+{\footnotesize\ttfamily \mbox{\hyperlink{menu_8h_aa3041ae4242c0dd57a126d17505443b2}{Menu\+State}} menu\+State\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_a9fcc2243068f8e628648febc0909c509}\label{mode__2_8c_a9fcc2243068f8e628648febc0909c509} 
+\index{mode\_2.c@{mode\_2.c}!mode\_info@{mode\_info}}
+\index{mode\_info@{mode\_info}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{mode\_info}{mode\_info}}
+{\footnotesize\ttfamily vbe\+\_\+mode\+\_\+info\+\_\+t mode\+\_\+info\hspace{0.3cm}{\ttfamily [extern]}}
+
+
+
+The VBE mode info. 
+
+\Hypertarget{mode__2_8c_af03a383fdcfdf7501006a5c8d68be42b}\label{mode__2_8c_af03a383fdcfdf7501006a5c8d68be42b} 
+\index{mode\_2.c@{mode\_2.c}!mouse@{mouse}}
+\index{mouse@{mouse}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{mouse}{mouse}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} mouse\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_ae91e7092e34fe82f7681427aeaf551d4}\label{mode__2_8c_ae91e7092e34fe82f7681427aeaf551d4} 
+\index{mode\_2.c@{mode\_2.c}!mouse\_info\_s@{mouse\_info\_s}}
+\index{mouse\_info\_s@{mouse\_info\_s}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{mouse\_info\_s}{mouse\_info\_s}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structMouse__Info__Struct}{Mouse\+\_\+\+Info\+\_\+\+Struct}} mouse\+\_\+info\+\_\+s\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_aaee505dc5b3b45801ffb410df1704541}\label{mode__2_8c_aaee505dc5b3b45801ffb410df1704541} 
+\index{mode\_2.c@{mode\_2.c}!number1@{number1}}
+\index{number1@{number1}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{number1}{number1}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} number1\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_a18e6a886be63dfb579756e81e3fe5292}\label{mode__2_8c_a18e6a886be63dfb579756e81e3fe5292} 
+\index{mode\_2.c@{mode\_2.c}!number2@{number2}}
+\index{number2@{number2}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{number2}{number2}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} number2\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_a5a4ec8b1c2b7241721e90cdb201c7562}\label{mode__2_8c_a5a4ec8b1c2b7241721e90cdb201c7562} 
+\index{mode\_2.c@{mode\_2.c}!number3@{number3}}
+\index{number3@{number3}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{number3}{number3}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} number3\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_abf017686ed31131ad0f09cd637bfff4d}\label{mode__2_8c_abf017686ed31131ad0f09cd637bfff4d} 
+\index{mode\_2.c@{mode\_2.c}!number4@{number4}}
+\index{number4@{number4}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{number4}{number4}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} number4\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_acffe389543fcf770f3dbc3f460b66ff0}\label{mode__2_8c_acffe389543fcf770f3dbc3f460b66ff0} 
+\index{mode\_2.c@{mode\_2.c}!number5@{number5}}
+\index{number5@{number5}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{number5}{number5}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} number5\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_a320b85ccfe029ee4f811ff193e06b9ab}\label{mode__2_8c_a320b85ccfe029ee4f811ff193e06b9ab} 
+\index{mode\_2.c@{mode\_2.c}!number6@{number6}}
+\index{number6@{number6}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{number6}{number6}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} number6\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_a0de4c39e391f59c596d46a00e8fbf7c6}\label{mode__2_8c_a0de4c39e391f59c596d46a00e8fbf7c6} 
+\index{mode\_2.c@{mode\_2.c}!number7@{number7}}
+\index{number7@{number7}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{number7}{number7}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} number7\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_a311c0da3e2d004050eca5fd65a657671}\label{mode__2_8c_a311c0da3e2d004050eca5fd65a657671} 
+\index{mode\_2.c@{mode\_2.c}!number8@{number8}}
+\index{number8@{number8}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{number8}{number8}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} number8\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_a95801f45a4e65616a77c9f92a80a13fd}\label{mode__2_8c_a95801f45a4e65616a77c9f92a80a13fd} 
+\index{mode\_2.c@{mode\_2.c}!pre1@{pre1}}
+\index{pre1@{pre1}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{pre1}{pre1}}
+{\footnotesize\ttfamily int pre1\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_ad9b3c6c4c5ea5d002bb6c6787f5c39b6}\label{mode__2_8c_ad9b3c6c4c5ea5d002bb6c6787f5c39b6} 
+\index{mode\_2.c@{mode\_2.c}!quit@{quit}}
+\index{quit@{quit}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{quit}{quit}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} quit\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_ae32a4889829cce60cde61e39a6e51ae2}\label{mode__2_8c_ae32a4889829cce60cde61e39a6e51ae2} 
+\index{mode\_2.c@{mode\_2.c}!quitButton@{quitButton}}
+\index{quitButton@{quitButton}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{quitButton}{quitButton}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} quit\+Button\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_aafe203b91caf3440a421375411f90d28}\label{mode__2_8c_aafe203b91caf3440a421375411f90d28} 
+\index{mode\_2.c@{mode\_2.c}!quitButtonPressed@{quitButtonPressed}}
+\index{quitButtonPressed@{quitButtonPressed}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{quitButtonPressed}{quitButtonPressed}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} quit\+Button\+Pressed\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_aa1de7a5557e9d96b83cf03f73c92163f}\label{mode__2_8c_aa1de7a5557e9d96b83cf03f73c92163f} 
+\index{mode\_2.c@{mode\_2.c}!scancode@{scancode}}
+\index{scancode@{scancode}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{scancode}{scancode}}
+{\footnotesize\ttfamily uint8\+\_\+t scancode\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_a742281e6807e2b829e7d853c35c36b67}\label{mode__2_8c_a742281e6807e2b829e7d853c35c36b67} 
+\index{mode\_2.c@{mode\_2.c}!SECONDSondary\_frame\_buf@{SECONDSondary\_frame\_buf}}
+\index{SECONDSondary\_frame\_buf@{SECONDSondary\_frame\_buf}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{SECONDSondary\_frame\_buf}{SECONDSondary\_frame\_buf}}
+{\footnotesize\ttfamily uint8\+\_\+t\texorpdfstring{$\ast$}{*} SECONDSondary\+\_\+frame\+\_\+buf\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_a76454a7d013e0b6d5feb29b0ced6429e}\label{mode__2_8c_a76454a7d013e0b6d5feb29b0ced6429e} 
+\index{mode\_2.c@{mode\_2.c}!start@{start}}
+\index{start@{start}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{start}{start}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} start\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_ac705089b22877f6322d09a9f0f5bdb1d}\label{mode__2_8c_ac705089b22877f6322d09a9f0f5bdb1d} 
+\index{mode\_2.c@{mode\_2.c}!systemState@{systemState}}
+\index{systemState@{systemState}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{systemState}{systemState}}
+{\footnotesize\ttfamily \mbox{\hyperlink{menu_8h_aa51313be2faacb739a18fdeecefbac75}{System\+State}} system\+State\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_a8e0b895872b62a170f78da59f0c00628}\label{mode__2_8c_a8e0b895872b62a170f78da59f0c00628} 
+\index{mode\_2.c@{mode\_2.c}!teste@{teste}}
+\index{teste@{teste}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{teste}{teste}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}}\texorpdfstring{$\ast$}{*} teste\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_a94312aa7bce580ff38bc35780b632130}\label{mode__2_8c_a94312aa7bce580ff38bc35780b632130} 
+\index{mode\_2.c@{mode\_2.c}!time\_mode\_info@{time\_mode\_info}}
+\index{time\_mode\_info@{time\_mode\_info}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{time\_mode\_info}{time\_mode\_info}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structreal__time__mode__info}{real\+\_\+time\+\_\+mode\+\_\+info}} time\+\_\+mode\+\_\+info\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_a9dd86e05eb51b73ffa496d0478503939}\label{mode__2_8c_a9dd86e05eb51b73ffa496d0478503939} 
+\index{mode\_2.c@{mode\_2.c}!timer\_interrupts@{timer\_interrupts}}
+\index{timer\_interrupts@{timer\_interrupts}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{timer\_interrupts}{timer\_interrupts}}
+{\footnotesize\ttfamily int timer\+\_\+interrupts\hspace{0.3cm}{\ttfamily [extern]}}
+
+\Hypertarget{mode__2_8c_a96c88eb0ecf85e612afce4ec5c52bbf5}\label{mode__2_8c_a96c88eb0ecf85e612afce4ec5c52bbf5} 
+\index{mode\_2.c@{mode\_2.c}!to\_help@{to\_help}}
+\index{to\_help@{to\_help}!mode\_2.c@{mode\_2.c}}
+\doxysubsubsection{\texorpdfstring{to\_help}{to\_help}}
+{\footnotesize\ttfamily \mbox{\hyperlink{menu_8h_aa3041ae4242c0dd57a126d17505443b2}{Menu\+State}} to\+\_\+help\hspace{0.3cm}{\ttfamily [extern]}}
+

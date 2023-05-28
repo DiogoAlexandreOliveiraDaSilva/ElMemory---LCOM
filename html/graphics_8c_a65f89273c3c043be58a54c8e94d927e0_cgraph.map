@@ -1,0 +1,7 @@
+<map id="draw_rectangle" name="draw_rectangle">
+<area shape="rect" id="Node000001" title="Draws a rectangle at the specified coordinates." alt="" coords="5,5,115,31"/>
+<area shape="rect" id="Node000002" href="$graphics_8c.html#a194d65454fec7d116a8c8cf32916fc32" title="Draws a horizontal line at the specified coordinates." alt="" coords="163,5,253,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,16,148,16,148,21,115,21"/>
+<area shape="rect" id="Node000003" href="$graphics_8c.html#afe65f24b8f80d17967df96eb563229ed" title="Draws a pixel at the specified coordinates." alt="" coords="301,5,432,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="254,16,286,16,286,21,254,21"/>
+</map>

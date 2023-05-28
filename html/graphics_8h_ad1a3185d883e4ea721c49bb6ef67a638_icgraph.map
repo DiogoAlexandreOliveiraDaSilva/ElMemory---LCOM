@@ -1,0 +1,9 @@
+<map id="define_frame_buf" name="define_frame_buf">
+<area shape="rect" id="Node000001" title="Defines the frame buffer for the specified graphics mode." alt="" coords="438,5,559,31"/>
+<area shape="rect" id="Node000002" href="$game_8c.html#a199b01f8f71a0b9ea56742b7f7a73de1" title="Defines the frame buffers for the specified video mode." alt="" coords="263,5,390,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="423,21,391,21,391,16,423,16"/>
+<area shape="rect" id="Node000003" href="$main_8c.html#a099d48038e444c2f3e69904477527798" title=" " alt="" coords="162,5,215,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="248,21,215,21,215,16,248,16"/>
+<area shape="rect" id="Node000004" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,114,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="147,21,114,21,114,16,147,16"/>
+</map>

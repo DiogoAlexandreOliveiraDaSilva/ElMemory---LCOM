@@ -1,0 +1,16 @@
+<map id="draw_mode_menu" name="draw_mode_menu">
+<area shape="rect" id="Node000001" title="Draws the mode menu." alt="" coords="5,52,133,78"/>
+<area shape="rect" id="Node000002" href="$game_8c.html#a8dbd1ea61ff2881fece87b274298b888" title="Draws a sprite at the specified coordinates." alt="" coords="342,52,422,78"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,49,131,29,180,12,237,3,263,5,295,12,326,24,354,41,351,46,324,29,293,17,262,10,238,8,181,17,133,33,93,54"/>
+<area shape="rect" id="Node000004" href="$game_8c.html#a78f4ca3a7de5df1891230ec88716716a" title=" " alt="" coords="181,27,294,53"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="133,53,166,48,167,53,133,58"/>
+<area shape="rect" id="Node000005" href="$game_8c.html#aad9558aa34de10f596231a6f0b50ed99" title=" " alt="" coords="181,76,294,102"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="133,72,167,76,166,82,133,77"/>
+<area shape="rect" id="Node000006" href="$game_8c.html#a683df112386fe1f63330ea016a61d154" title=" " alt="" coords="181,126,294,151"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="101,76,182,112,193,117,191,122,180,117,99,81"/>
+<area shape="rect" id="Node000003" href="$graphics_8c.html#afe65f24b8f80d17967df96eb563229ed" title="Draws a pixel at the specified coordinates." alt="" coords="470,52,602,78"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="423,62,455,62,455,68,423,68"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="295,47,328,53,327,58,294,52"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="294,77,327,72,328,77,295,82"/>
+<area shape="poly" id="edge8_Node000006_Node000002" title=" " alt="" coords="270,123,293,112,345,83,348,88,295,117,272,127"/>
+</map>

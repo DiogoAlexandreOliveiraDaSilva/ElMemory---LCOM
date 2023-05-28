@@ -1,3 +1,8 @@
+/**
+ * @file menu.h
+ * @brief Header file containing declarations for menu functions and types.
+ */
+
 #ifndef __MENU_H
 #define __MENU_H
 
@@ -58,32 +63,66 @@
 #include "game/xpm/player2.xpm"
 #include "game/xpm/victory.xpm"
 
+/**
+ * @brief Enum representing the system state.
+ */
 typedef enum
 {
-    RUNNING,
-    EXIT,
+    RUNNING, /**< The system is running. */
+    EXIT     /**< The system should exit. */
 } SystemState;
 
+/**
+ * @brief Enum representing the menu state.
+ */
 typedef enum
 {
-    START,
-    GAME,
-    GAME_2P,
-    GAME_2,
-    END,
-    MODE,
-    MODE_2, 
-    SEL_P,
-    GAME_3,
-    GAME_4_2P,
-    GAME_8_2P,
+    START,     /**< Start menu state. */
+    GAME,      /**< Game menu state. */
+    GAME_2P,   /**< Two-player game menu state. */
+    GAME_2,    /**< Game mode 2 menu state. */
+    END,       /**< End menu state. */
+    MODE,      /**< Game mode menu state. */
+    MODE_2,    /**< Game mode 2 menu state. */
+    SEL_P,     /**< Select number of players menu state. */
+    GAME_3,    /**< Three-player game menu state. */
+    GAME_4_2P, /**< Four-player game (2 vs 2) menu state. */
+    GAME_8_2P  /**< Eight-player game (4 vs 4) menu state. */
 } MenuState;
 
+/**
+ * @brief Updates the timer frame.
+ */
 void update_timer_frame();
+
+/**
+ * @brief Updates the keyboard frame.
+ */
 void update_keyboard_frame();
+
+/**
+ * @brief Updates the mouse frame.
+ */
 void update_mouse_frame();
+
+/**
+ * @brief Updates the buttons.
+ */
 void update_buttons();
+
+/**
+ * @brief Updates the RTC frame.
+ */
 void update_rtc_frame();
+
+/**
+ * @brief Initializes the sprites.
+ */
 void start_sprites();
+
+/**
+ * @brief Deletes the sprites.
+ */
 void del_sprites();
+
 #endif

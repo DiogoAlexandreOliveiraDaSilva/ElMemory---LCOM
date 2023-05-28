@@ -1,0 +1,103 @@
+\doxysection{menu.\+h}
+\hypertarget{menu_8h_source}{}\label{menu_8h_source}\index{game/modes/menu.h@{game/modes/menu.h}}
+\mbox{\hyperlink{menu_8h}{Go to the documentation of this file.}}
+\begin{DoxyCode}{0}
+\DoxyCodeLine{00001\ }
+\DoxyCodeLine{00006\ \textcolor{preprocessor}{\#ifndef\ \_\_MENU\_H}}
+\DoxyCodeLine{00007\ \textcolor{preprocessor}{\#define\ \_\_MENU\_H}}
+\DoxyCodeLine{00008\ }
+\DoxyCodeLine{00009\ \textcolor{preprocessor}{\#include\ "{}../../controller/video/VBE.h"{}}}
+\DoxyCodeLine{00010\ \textcolor{preprocessor}{\#include\ "{}../../controller/video/graphics.h"{}}}
+\DoxyCodeLine{00011\ \textcolor{preprocessor}{\#include\ "{}../../controller/mouse/mouse.h"{}}}
+\DoxyCodeLine{00012\ \textcolor{preprocessor}{\#include\ "{}\mbox{\hyperlink{game_8h}{game/game.h}}"{}}}
+\DoxyCodeLine{00013\ \textcolor{preprocessor}{\#include\ <minix/sysutil.h>}}
+\DoxyCodeLine{00014\ \textcolor{preprocessor}{\#include\ <lcom/lcf.h>}}
+\DoxyCodeLine{00015\ \textcolor{preprocessor}{\#include\ "{}\mbox{\hyperlink{keyboard_2KBC_8h}{controller/keyboard/KBC.h}}"{}}}
+\DoxyCodeLine{00016\ \textcolor{preprocessor}{\#include\ "{}\mbox{\hyperlink{mouse_8h}{controller/mouse/mouse.h}}"{}}}
+\DoxyCodeLine{00017\ \textcolor{preprocessor}{\#include\ "{}\mbox{\hyperlink{graphics_8h}{controller/video/graphics.h}}"{}}}
+\DoxyCodeLine{00018\ \textcolor{preprocessor}{\#include\ "{}\mbox{\hyperlink{rtc_8h}{controller/rtc/rtc.h}}"{}}}
+\DoxyCodeLine{00019\ \textcolor{preprocessor}{\#include\ "{}game/xpm/hand.xpm"{}}}
+\DoxyCodeLine{00020\ \textcolor{preprocessor}{\#include\ "{}game/xpm/mouse.xpm"{}}}
+\DoxyCodeLine{00021\ \textcolor{preprocessor}{\#include\ "{}game/xpm/teste.xpm"{}}}
+\DoxyCodeLine{00022\ \textcolor{preprocessor}{\#include\ "{}game/xpm/logo.xpm"{}}}
+\DoxyCodeLine{00023\ \textcolor{preprocessor}{\#include\ "{}\mbox{\hyperlink{game_8h}{game/game.h}}"{}}}
+\DoxyCodeLine{00024\ \textcolor{preprocessor}{\#include\ "{}\mbox{\hyperlink{sprite_8h}{game/sprite/sprite.h}}"{}}}
+\DoxyCodeLine{00025\ \textcolor{preprocessor}{\#include\ "{}\mbox{\hyperlink{config_8h}{config.h}}"{}}}
+\DoxyCodeLine{00026\ \textcolor{preprocessor}{\#include\ "{}game/xpm/back.xpm"{}}}
+\DoxyCodeLine{00027\ \textcolor{preprocessor}{\#include\ "{}game/xpm/game.xpm"{}}}
+\DoxyCodeLine{00028\ \textcolor{preprocessor}{\#include\ "{}game/xpm/number1.xpm"{}}}
+\DoxyCodeLine{00029\ \textcolor{preprocessor}{\#include\ "{}game/xpm/number2.xpm"{}}}
+\DoxyCodeLine{00030\ \textcolor{preprocessor}{\#include\ "{}game/xpm/number3.xpm"{}}}
+\DoxyCodeLine{00031\ \textcolor{preprocessor}{\#include\ "{}game/xpm/number4.xpm"{}}}
+\DoxyCodeLine{00032\ \textcolor{preprocessor}{\#include\ "{}game/xpm/number5.xpm"{}}}
+\DoxyCodeLine{00033\ \textcolor{preprocessor}{\#include\ "{}game/xpm/number6.xpm"{}}}
+\DoxyCodeLine{00034\ \textcolor{preprocessor}{\#include\ "{}game/xpm/number7.xpm"{}}}
+\DoxyCodeLine{00035\ \textcolor{preprocessor}{\#include\ "{}game/xpm/number8.xpm"{}}}
+\DoxyCodeLine{00036\ \textcolor{preprocessor}{\#include\ "{}game/xpm/start.xpm"{}}}
+\DoxyCodeLine{00037\ \textcolor{preprocessor}{\#include\ "{}game/xpm/hard.xpm"{}}}
+\DoxyCodeLine{00038\ \textcolor{preprocessor}{\#include\ "{}game/xpm/easy.xpm"{}}}
+\DoxyCodeLine{00039\ \textcolor{preprocessor}{\#include\ "{}game/xpm/medium.xpm"{}}}
+\DoxyCodeLine{00040\ \textcolor{preprocessor}{\#include\ "{}game/xpm/quit.xpm"{}}}
+\DoxyCodeLine{00041\ \textcolor{preprocessor}{\#include\ "{}game/xpm/back\_anim1.xpm"{}}}
+\DoxyCodeLine{00042\ \textcolor{preprocessor}{\#include\ "{}game/xpm/back\_anim2.xpm"{}}}
+\DoxyCodeLine{00043\ \textcolor{preprocessor}{\#include\ "{}game/xpm/back\_anim3.xpm"{}}}
+\DoxyCodeLine{00044\ \textcolor{preprocessor}{\#include\ "{}game/xpm/back\_anim4.xpm"{}}}
+\DoxyCodeLine{00045\ \textcolor{preprocessor}{\#include\ "{}game/xpm/Start.xpm"{}}}
+\DoxyCodeLine{00046\ \textcolor{preprocessor}{\#include\ "{}game/xpm/Quit.xpm"{}}}
+\DoxyCodeLine{00047\ \textcolor{preprocessor}{\#include\ "{}game/xpm/Easy.xpm"{}}}
+\DoxyCodeLine{00048\ \textcolor{preprocessor}{\#include\ "{}game/xpm/Medium.xpm"{}}}
+\DoxyCodeLine{00049\ \textcolor{preprocessor}{\#include\ "{}game/xpm/Hard.xpm"{}}}
+\DoxyCodeLine{00050\ \textcolor{preprocessor}{\#include\ "{}game/xpm/1.xpm"{}}}
+\DoxyCodeLine{00051\ \textcolor{preprocessor}{\#include\ "{}game/xpm/2.xpm"{}}}
+\DoxyCodeLine{00052\ \textcolor{preprocessor}{\#include\ "{}game/xpm/3.xpm"{}}}
+\DoxyCodeLine{00053\ \textcolor{preprocessor}{\#include\ "{}game/xpm/4.xpm"{}}}
+\DoxyCodeLine{00054\ \textcolor{preprocessor}{\#include\ "{}game/xpm/5.xpm"{}}}
+\DoxyCodeLine{00055\ \textcolor{preprocessor}{\#include\ "{}game/xpm/6.xpm"{}}}
+\DoxyCodeLine{00056\ \textcolor{preprocessor}{\#include\ "{}game/xpm/7.xpm"{}}}
+\DoxyCodeLine{00057\ \textcolor{preprocessor}{\#include\ "{}game/xpm/8.xpm"{}}}
+\DoxyCodeLine{00058\ \textcolor{preprocessor}{\#include\ "{}game/xpm/9.xpm"{}}}
+\DoxyCodeLine{00059\ \textcolor{preprocessor}{\#include\ "{}game/xpm/0.xpm"{}}}
+\DoxyCodeLine{00060\ \textcolor{preprocessor}{\#include\ "{}game/xpm/1player.xpm"{}}}
+\DoxyCodeLine{00061\ \textcolor{preprocessor}{\#include\ "{}game/xpm/2player.xpm"{}}}
+\DoxyCodeLine{00062\ \textcolor{preprocessor}{\#include\ "{}game/xpm/player1.xpm"{}}}
+\DoxyCodeLine{00063\ \textcolor{preprocessor}{\#include\ "{}game/xpm/player2.xpm"{}}}
+\DoxyCodeLine{00064\ \textcolor{preprocessor}{\#include\ "{}game/xpm/victory.xpm"{}}}
+\DoxyCodeLine{00065\ }
+\DoxyCodeLine{00069\ \textcolor{keyword}{typedef}\ \textcolor{keyword}{enum}}
+\DoxyCodeLine{00070\ \{}
+\DoxyCodeLine{00071\ \ \ \ \ \mbox{\hyperlink{menu_8h_aa51313be2faacb739a18fdeecefbac75a1061be6c3fb88d32829cba6f6b2be304}{RUNNING}},\ }
+\DoxyCodeLine{00072\ \ \ \ \ \mbox{\hyperlink{menu_8h_aa51313be2faacb739a18fdeecefbac75a7a10b5d68d31711288e1fe0fa17dbf4f}{EXIT}}\ \ \ \ \ }
+\DoxyCodeLine{00073\ \}\ \mbox{\hyperlink{menu_8h_aa51313be2faacb739a18fdeecefbac75}{SystemState}};}
+\DoxyCodeLine{00074\ }
+\DoxyCodeLine{00078\ \textcolor{keyword}{typedef}\ \textcolor{keyword}{enum}}
+\DoxyCodeLine{00079\ \{}
+\DoxyCodeLine{00080\ \ \ \ \ \mbox{\hyperlink{menu_8h_aa3041ae4242c0dd57a126d17505443b2a13d000b4d7dc70d90239b7430d1eb6b2}{START}},\ \ \ \ \ }
+\DoxyCodeLine{00081\ \ \ \ \ \mbox{\hyperlink{menu_8h_aa3041ae4242c0dd57a126d17505443b2ad50cf309d7568040619ed26ee6835a84}{GAME}},\ \ \ \ \ \ }
+\DoxyCodeLine{00082\ \ \ \ \ \mbox{\hyperlink{menu_8h_aa3041ae4242c0dd57a126d17505443b2a79bfb3a2f612dc96f8d702ae2494fdef}{GAME\_2P}},\ \ \ }
+\DoxyCodeLine{00083\ \ \ \ \ \mbox{\hyperlink{menu_8h_aa3041ae4242c0dd57a126d17505443b2add8615b7b489d293646a15e54d3e7fd9}{GAME\_2}},\ \ \ \ }
+\DoxyCodeLine{00084\ \ \ \ \ \mbox{\hyperlink{menu_8h_aa3041ae4242c0dd57a126d17505443b2adc6f24fd6915a3f2786a1b7045406924}{END}},\ \ \ \ \ \ \ }
+\DoxyCodeLine{00085\ \ \ \ \ \mbox{\hyperlink{menu_8h_aa3041ae4242c0dd57a126d17505443b2a865d4bfdc2dd5f698e4558474765cba8}{MODE}},\ \ \ \ \ \ }
+\DoxyCodeLine{00086\ \ \ \ \ \mbox{\hyperlink{menu_8h_aa3041ae4242c0dd57a126d17505443b2a0a36399f2feba688abe010c193b8a5f1}{MODE\_2}},\ \ \ \ }
+\DoxyCodeLine{00087\ \ \ \ \ \mbox{\hyperlink{menu_8h_aa3041ae4242c0dd57a126d17505443b2ab3d0b5bfbe3172f4a451038cb1f0c230}{SEL\_P}},\ \ \ \ \ }
+\DoxyCodeLine{00088\ \ \ \ \ \mbox{\hyperlink{menu_8h_aa3041ae4242c0dd57a126d17505443b2a56c08e9b46e47d9f946fdbc7904724bd}{GAME\_3}},\ \ \ \ }
+\DoxyCodeLine{00089\ \ \ \ \ \mbox{\hyperlink{menu_8h_aa3041ae4242c0dd57a126d17505443b2ad5a8227d9ca4d7c05dcd3c4191034d65}{GAME\_4\_2P}},\ }
+\DoxyCodeLine{00090\ \ \ \ \ \mbox{\hyperlink{menu_8h_aa3041ae4242c0dd57a126d17505443b2ac10b30766b195efc9fcbf7090458156f}{GAME\_8\_2P}}\ \ }
+\DoxyCodeLine{00091\ \}\ \mbox{\hyperlink{menu_8h_aa3041ae4242c0dd57a126d17505443b2}{MenuState}};}
+\DoxyCodeLine{00092\ }
+\DoxyCodeLine{00096\ \textcolor{keywordtype}{void}\ \mbox{\hyperlink{menu_8h_a5791e4d9006275c5477e1f84606f76ba}{update\_timer\_frame}}();}
+\DoxyCodeLine{00097\ }
+\DoxyCodeLine{00101\ \textcolor{keywordtype}{void}\ \mbox{\hyperlink{menu_8h_a98c6c78726a3055d4fd38d1e280ee77d}{update\_keyboard\_frame}}();}
+\DoxyCodeLine{00102\ }
+\DoxyCodeLine{00106\ \textcolor{keywordtype}{void}\ \mbox{\hyperlink{menu_8h_a700d639dd6af8e7fe655cc00bbed358e}{update\_mouse\_frame}}();}
+\DoxyCodeLine{00107\ }
+\DoxyCodeLine{00111\ \textcolor{keywordtype}{void}\ \mbox{\hyperlink{menu_8h_a00c3bc0c2ce052c8ca415de992ae3a84}{update\_buttons}}();}
+\DoxyCodeLine{00112\ }
+\DoxyCodeLine{00116\ \textcolor{keywordtype}{void}\ \mbox{\hyperlink{menu_8h_a404ce8815fe3754781e9d40671fa24bc}{update\_rtc\_frame}}();}
+\DoxyCodeLine{00117\ }
+\DoxyCodeLine{00121\ \textcolor{keywordtype}{void}\ \mbox{\hyperlink{menu_8h_ab6ac87fd3d0ffee40696dd0e80392fae}{start\_sprites}}();}
+\DoxyCodeLine{00122\ }
+\DoxyCodeLine{00126\ \textcolor{keywordtype}{void}\ \mbox{\hyperlink{menu_8h_adf815250a10afe5bf29cf7ea4ff8b879}{del\_sprites}}();}
+\DoxyCodeLine{00127\ }
+\DoxyCodeLine{00128\ \textcolor{preprocessor}{\#endif}}
+
+\end{DoxyCode}

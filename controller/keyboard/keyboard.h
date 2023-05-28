@@ -1,3 +1,8 @@
+/**
+ * @file keyboard.h
+ * @brief Keyboard functions and definitions
+ */
+
 #ifndef _LCOM_KEYBOARD_H_
 #define _LCOM_KEYBOARD_H_
 
@@ -8,12 +13,38 @@
 #include "i8042.h"
 #include "KBC.h"
 
-int (keyboard_subscribe_interrupts)();
+/**
+ * @brief Subscribes keyboard interrupts.
+ *
+ * This function subscribes keyboard interrupts using sys_irqsetpolicy().
+ *
+ * @return Return 0 upon success, non-zero otherwise.
+ */
+int(keyboard_subscribe_interrupts)();
 
-int (keyboard_unsubscribe_interrupts)();
+/**
+ * @brief Unsubscribes keyboard interrupts.
+ *
+ * This function unsubscribes keyboard interrupts using sys_irqrmpolicy().
+ *
+ * @return Return 0 upon success, non-zero otherwise.
+ */
+int(keyboard_unsubscribe_interrupts)();
 
-void (kbc_ih)();
+/**
+ * @brief Keyboard interrupt handler.
+ *
+ * This function is the interrupt handler for keyboard interrupts. It reads the scancode from the output buffer.
+ */
+void(kbc_ih)();
 
-int (keyboard_refresh)();
+/**
+ * @brief Refreshes the keyboard.
+ *
+ * This function refreshes the keyboard by reading and updating the command byte in the keyboard controller.
+ *
+ * @return Return 0 upon success, non-zero otherwise.
+ */
+int(keyboard_refresh)();
 
 #endif

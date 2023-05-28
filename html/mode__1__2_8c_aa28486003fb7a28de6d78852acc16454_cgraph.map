@@ -1,0 +1,26 @@
+<map id="draw_game_menu_2_2" name="draw_game_menu_2_2">
+<area shape="rect" id="Node000001" title="Draws the game menu." alt="" coords="5,153,161,179"/>
+<area shape="rect" id="Node000002" href="$game_8c.html#a0c2cf9da1d93de50e6e434d3b9d563ae" title="Allocates memory for a matrix of sprites." alt="" coords="229,5,320,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,151,139,98,171,67,207,40,215,36,217,40,210,44,175,71,142,102,97,154"/>
+<area shape="rect" id="Node000003" href="$game_8c.html#a167d26be8972b7c15741905e685db777" title="Triggers an animation for a card at the specified coordinates." alt="" coords="214,55,335,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="103,151,149,121,207,89,219,84,221,89,210,94,152,125,105,155"/>
+<area shape="rect" id="Node000006" href="$mode__1__2_8c.html#acc99e8141305b9790e62bc74abd8ba8f" title="Processes button 1 click." alt="" coords="209,104,340,130"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="135,150,207,131,208,137,137,155"/>
+<area shape="rect" id="Node000008" href="$mode__1__2_8c.html#a328097668d4431a4253107a7ce30a60e" title="Processes button 2 click." alt="" coords="209,153,340,179"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="161,164,194,164,194,169,161,169"/>
+<area shape="rect" id="Node000009" href="$mode__1__2_8c.html#a4f3560ab736fe083a1f8e8c29392751a" title="Processes button 3 click." alt="" coords="209,203,340,228"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="137,177,208,196,207,201,135,182"/>
+<area shape="rect" id="Node000010" href="$mode__1__2_8c.html#a6c604cebc94033ef0198c51a6ee26568" title="Processes button 4 click." alt="" coords="209,252,340,278"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="105,177,152,207,210,238,221,244,219,248,207,243,149,211,103,182"/>
+<area shape="rect" id="Node000011" href="$game_8c.html#a0200886b57b76c86691963adfcee7621" title="Shuffles the sprites in an array of cards." alt="" coords="245,301,304,327"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="97,178,142,231,175,261,210,288,232,299,230,304,207,292,171,265,139,234,93,181"/>
+<area shape="rect" id="Node000004" href="$game_8c.html#a8dbd1ea61ff2881fece87b274298b888" title="Draws a sprite at the specified coordinates." alt="" coords="398,55,478,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="335,65,383,65,383,70,335,70"/>
+<area shape="rect" id="Node000005" href="$graphics_8c.html#afe65f24b8f80d17967df96eb563229ed" title="Draws a pixel at the specified coordinates." alt="" coords="535,55,667,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="478,65,521,65,521,70,478,70"/>
+<area shape="rect" id="Node000007" href="$game_8c.html#a3a5c3643075ef834f1841495be35aa46" title="Checks if two sprites have matching IDs." alt="" coords="388,177,487,203"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="315,128,341,138,401,168,398,172,339,143,313,133"/>
+<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="341,173,374,178,373,183,340,178"/>
+<area shape="poly" id="edge10_Node000009_Node000007" title=" " alt="" coords="340,203,373,197,374,203,341,208"/>
+<area shape="poly" id="edge12_Node000010_Node000007" title=" " alt="" coords="313,249,339,238,399,208,401,213,341,243,315,254"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="game/sprite/sprite.c" name="game/sprite/sprite.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="231,5,366,31"/>
+<area shape="rect" id="Node000002" href="$sprite_8h.html" title="Header file for sprite functions and structure." alt="" coords="267,79,330,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="301,31,301,64,296,64,296,31"/>
+<area shape="rect" id="Node000003" href="$graphics_8h.html" title="Header file for graphic functions." alt="" coords="5,160,178,186"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="267,108,138,157,136,152,265,103"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="202,160,394,186"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="301,105,301,145,296,145,296,105"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="418,153,584,193"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="330,103,438,144,436,149,328,108"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="8,241,85,267"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="87,188,63,229,58,227,82,185"/>
+<area shape="rect" id="Node000005" href="$VBE_8h.html" title=" " alt="" coords="110,241,167,267"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="101,185,126,227,121,230,96,188"/>
+</map>

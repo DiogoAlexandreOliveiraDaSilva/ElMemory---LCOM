@@ -1,0 +1,12 @@
+<map id="controller/video/graphics.c" name="controller/video/graphics.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="35,5,208,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,153,83,178"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,33,90,54,72,80,59,110,51,139,46,138,54,108,67,78,86,51,106,30"/>
+<area shape="rect" id="Node000003" href="$graphics_8h.html" title="Header file for graphic functions." alt="" coords="81,79,162,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="124,31,124,64,119,64,119,31"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="186,79,246,105"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="139,29,190,68,187,72,136,34"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="110,107,70,144,66,140,106,103"/>
+<area shape="rect" id="Node000004" href="$VBE_8h.html" title=" " alt="" coords="107,153,165,178"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="126,104,133,137,128,139,121,105"/>
+</map>

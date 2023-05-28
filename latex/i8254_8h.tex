@@ -1,0 +1,194 @@
+\doxysection{controller/timer/i8254.h File Reference}
+\hypertarget{i8254_8h}{}\label{i8254_8h}\index{controller/timer/i8254.h@{controller/timer/i8254.h}}
+{\ttfamily \#include $<$minix/sysutil.\+h$>$}\newline
+{\ttfamily \#include $<$lcom/lcf.\+h$>$}\newline
+Include dependency graph for i8254.\+h\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=232pt]{i8254_8h__incl}
+\end{center}
+\end{figure}
+This graph shows which files directly or indirectly include this file\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=256pt]{i8254_8h__dep__incl}
+\end{center}
+\end{figure}
+\doxysubsubsection*{Macros}
+\begin{DoxyCompactItemize}
+\item 
+\#define \mbox{\hyperlink{i8254_8h_a599217205dc3092c26567a2bd868ef3a}{TIMER}}~0
+\item 
+\#define \mbox{\hyperlink{i8254_8h_acf926951944b6cf370b7229ebd50dd8b}{TIMER\+\_\+\+FREQ}}~1193182
+\item 
+\#define \mbox{\hyperlink{i8254_8h_a30bf84c312af248cb81bb224e09f9ba8}{TIMER0\+\_\+\+IRQ}}~0
+\item 
+\#define \mbox{\hyperlink{i8254_8h_a4ee3c124bc4bb76d4eb1741e7934de3b}{TIMER\+\_\+\+PORT\+\_\+0}}~0x40
+\item 
+\#define \mbox{\hyperlink{i8254_8h_a17d9cc13fbc30aac031e43d17367bc09}{TIMER\+\_\+\+PORT\+\_\+1}}~0x41
+\item 
+\#define \mbox{\hyperlink{i8254_8h_a116fdcb873f42c2ccd43b404bac7e9b9}{TIMER\+\_\+\+PORT\+\_\+2}}~0x42
+\item 
+\#define \mbox{\hyperlink{i8254_8h_aaa62d6d0aae1709d1201572058082e25}{TIMER\+\_\+\+PORT\+\_\+\+CONTROL}}~0x43
+\item 
+\#define \mbox{\hyperlink{i8254_8h_a235f94d9cbfa859a83b24bd71454821f}{TIMER\+\_\+\+IS\+\_\+\+SEL\+\_\+0}}~0x00
+\item 
+\#define \mbox{\hyperlink{i8254_8h_a9a27a068f399b7742968f4d88670d11b}{TIMER\+\_\+\+IS\+\_\+\+SEL\+\_\+1}}~BIT(6)
+\item 
+\#define \mbox{\hyperlink{i8254_8h_a652f21202a5e31afc5df5990c9615ead}{TIMER\+\_\+\+IS\+\_\+\+SEL\+\_\+2}}~BIT(7)
+\item 
+\#define \mbox{\hyperlink{i8254_8h_ae309895f6ee60c74d33959888b47f423}{READBACK\+\_\+\+CMD}}~(BIT(7) \texorpdfstring{$\vert$}{|} BIT(6))
+\item 
+\#define \mbox{\hyperlink{i8254_8h_a4ee31df84311ca3bb212382d643211aa}{TIMER\+\_\+\+LSB\+\_\+F}}~BIT(4)
+\item 
+\#define \mbox{\hyperlink{i8254_8h_a55bb82b0f3df49a21c61e66ba884afcd}{TIMER\+\_\+\+MSB\+\_\+F}}~BIT(5)
+\item 
+\#define \mbox{\hyperlink{i8254_8h_af7db8804b015cac43b750adcd0836da7}{TIMER\+\_\+\+LSB\+\_\+\+F\+\_\+\+MSB}}~(\mbox{\hyperlink{i8254_8h_a4ee31df84311ca3bb212382d643211aa}{TIMER\+\_\+\+LSB\+\_\+F}} \texorpdfstring{$\vert$}{|} \mbox{\hyperlink{i8254_8h_a55bb82b0f3df49a21c61e66ba884afcd}{TIMER\+\_\+\+MSB\+\_\+F}})
+\item 
+\#define \mbox{\hyperlink{i8254_8h_a4745cbf21da3d3fea5dbb080b2b73bac}{TIMER\+\_\+\+SQR\+\_\+\+WAVE}}~(BIT(2) \texorpdfstring{$\vert$}{|} BIT(1))
+\item 
+\#define \mbox{\hyperlink{i8254_8h_a4adbf8f9704c31f1984ad9840f773439}{TIMER\+\_\+\+REF\+\_\+\+RATE}}~BIT(2)
+\item 
+\#define \mbox{\hyperlink{i8254_8h_a85cd2e1e0d8e3430ce93b1e590bca387}{TIMER\+\_\+\+IS\+\_\+\+BCD}}~0x01
+\item 
+\#define \mbox{\hyperlink{i8254_8h_a234bbcf2727bbbd319403f5b97ed4704}{TIMER\+\_\+\+IS\+\_\+\+BIN}}~0x00
+\item 
+\#define \mbox{\hyperlink{i8254_8h_add62b3602951ab3df2ac33ff5d23a4ea}{READBACK\+\_\+\+CMD\+\_\+\+COUNT\+\_\+}}~BIT(5)
+\item 
+\#define \mbox{\hyperlink{i8254_8h_abb8b85ca5e8a99dab93f37c8482280c5}{READBACK\+\_\+\+CMD\+\_\+\+STATUS\+\_\+}}~BIT(4)
+\item 
+\#define \mbox{\hyperlink{i8254_8h_afd15befa728f8b57e6e7480475de99c1}{READBACK\+\_\+\+CMD\+\_\+\+SEL}}(n)~BIT((n) + 1)
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Macro Definition Documentation}
+\Hypertarget{i8254_8h_ae309895f6ee60c74d33959888b47f423}\label{i8254_8h_ae309895f6ee60c74d33959888b47f423} 
+\index{i8254.h@{i8254.h}!READBACK\_CMD@{READBACK\_CMD}}
+\index{READBACK\_CMD@{READBACK\_CMD}!i8254.h@{i8254.h}}
+\doxysubsubsection{\texorpdfstring{READBACK\_CMD}{READBACK\_CMD}}
+{\footnotesize\ttfamily \#define READBACK\+\_\+\+CMD~(BIT(7) \texorpdfstring{$\vert$}{|} BIT(6))}
+
+\Hypertarget{i8254_8h_add62b3602951ab3df2ac33ff5d23a4ea}\label{i8254_8h_add62b3602951ab3df2ac33ff5d23a4ea} 
+\index{i8254.h@{i8254.h}!READBACK\_CMD\_COUNT\_@{READBACK\_CMD\_COUNT\_}}
+\index{READBACK\_CMD\_COUNT\_@{READBACK\_CMD\_COUNT\_}!i8254.h@{i8254.h}}
+\doxysubsubsection{\texorpdfstring{READBACK\_CMD\_COUNT\_}{READBACK\_CMD\_COUNT\_}}
+{\footnotesize\ttfamily \#define READBACK\+\_\+\+CMD\+\_\+\+COUNT\+\_\+~BIT(5)}
+
+\Hypertarget{i8254_8h_afd15befa728f8b57e6e7480475de99c1}\label{i8254_8h_afd15befa728f8b57e6e7480475de99c1} 
+\index{i8254.h@{i8254.h}!READBACK\_CMD\_SEL@{READBACK\_CMD\_SEL}}
+\index{READBACK\_CMD\_SEL@{READBACK\_CMD\_SEL}!i8254.h@{i8254.h}}
+\doxysubsubsection{\texorpdfstring{READBACK\_CMD\_SEL}{READBACK\_CMD\_SEL}}
+{\footnotesize\ttfamily \#define READBACK\+\_\+\+CMD\+\_\+\+SEL(\begin{DoxyParamCaption}\item[{}]{n }\end{DoxyParamCaption})~BIT((n) + 1)}
+
+\Hypertarget{i8254_8h_abb8b85ca5e8a99dab93f37c8482280c5}\label{i8254_8h_abb8b85ca5e8a99dab93f37c8482280c5} 
+\index{i8254.h@{i8254.h}!READBACK\_CMD\_STATUS\_@{READBACK\_CMD\_STATUS\_}}
+\index{READBACK\_CMD\_STATUS\_@{READBACK\_CMD\_STATUS\_}!i8254.h@{i8254.h}}
+\doxysubsubsection{\texorpdfstring{READBACK\_CMD\_STATUS\_}{READBACK\_CMD\_STATUS\_}}
+{\footnotesize\ttfamily \#define READBACK\+\_\+\+CMD\+\_\+\+STATUS\+\_\+~BIT(4)}
+
+\Hypertarget{i8254_8h_a599217205dc3092c26567a2bd868ef3a}\label{i8254_8h_a599217205dc3092c26567a2bd868ef3a} 
+\index{i8254.h@{i8254.h}!TIMER@{TIMER}}
+\index{TIMER@{TIMER}!i8254.h@{i8254.h}}
+\doxysubsubsection{\texorpdfstring{TIMER}{TIMER}}
+{\footnotesize\ttfamily \#define TIMER~0}
+
+\Hypertarget{i8254_8h_a30bf84c312af248cb81bb224e09f9ba8}\label{i8254_8h_a30bf84c312af248cb81bb224e09f9ba8} 
+\index{i8254.h@{i8254.h}!TIMER0\_IRQ@{TIMER0\_IRQ}}
+\index{TIMER0\_IRQ@{TIMER0\_IRQ}!i8254.h@{i8254.h}}
+\doxysubsubsection{\texorpdfstring{TIMER0\_IRQ}{TIMER0\_IRQ}}
+{\footnotesize\ttfamily \#define TIMER0\+\_\+\+IRQ~0}
+
+\Hypertarget{i8254_8h_acf926951944b6cf370b7229ebd50dd8b}\label{i8254_8h_acf926951944b6cf370b7229ebd50dd8b} 
+\index{i8254.h@{i8254.h}!TIMER\_FREQ@{TIMER\_FREQ}}
+\index{TIMER\_FREQ@{TIMER\_FREQ}!i8254.h@{i8254.h}}
+\doxysubsubsection{\texorpdfstring{TIMER\_FREQ}{TIMER\_FREQ}}
+{\footnotesize\ttfamily \#define TIMER\+\_\+\+FREQ~1193182}
+
+\Hypertarget{i8254_8h_a85cd2e1e0d8e3430ce93b1e590bca387}\label{i8254_8h_a85cd2e1e0d8e3430ce93b1e590bca387} 
+\index{i8254.h@{i8254.h}!TIMER\_IS\_BCD@{TIMER\_IS\_BCD}}
+\index{TIMER\_IS\_BCD@{TIMER\_IS\_BCD}!i8254.h@{i8254.h}}
+\doxysubsubsection{\texorpdfstring{TIMER\_IS\_BCD}{TIMER\_IS\_BCD}}
+{\footnotesize\ttfamily \#define TIMER\+\_\+\+IS\+\_\+\+BCD~0x01}
+
+\Hypertarget{i8254_8h_a234bbcf2727bbbd319403f5b97ed4704}\label{i8254_8h_a234bbcf2727bbbd319403f5b97ed4704} 
+\index{i8254.h@{i8254.h}!TIMER\_IS\_BIN@{TIMER\_IS\_BIN}}
+\index{TIMER\_IS\_BIN@{TIMER\_IS\_BIN}!i8254.h@{i8254.h}}
+\doxysubsubsection{\texorpdfstring{TIMER\_IS\_BIN}{TIMER\_IS\_BIN}}
+{\footnotesize\ttfamily \#define TIMER\+\_\+\+IS\+\_\+\+BIN~0x00}
+
+\Hypertarget{i8254_8h_a235f94d9cbfa859a83b24bd71454821f}\label{i8254_8h_a235f94d9cbfa859a83b24bd71454821f} 
+\index{i8254.h@{i8254.h}!TIMER\_IS\_SEL\_0@{TIMER\_IS\_SEL\_0}}
+\index{TIMER\_IS\_SEL\_0@{TIMER\_IS\_SEL\_0}!i8254.h@{i8254.h}}
+\doxysubsubsection{\texorpdfstring{TIMER\_IS\_SEL\_0}{TIMER\_IS\_SEL\_0}}
+{\footnotesize\ttfamily \#define TIMER\+\_\+\+IS\+\_\+\+SEL\+\_\+0~0x00}
+
+\Hypertarget{i8254_8h_a9a27a068f399b7742968f4d88670d11b}\label{i8254_8h_a9a27a068f399b7742968f4d88670d11b} 
+\index{i8254.h@{i8254.h}!TIMER\_IS\_SEL\_1@{TIMER\_IS\_SEL\_1}}
+\index{TIMER\_IS\_SEL\_1@{TIMER\_IS\_SEL\_1}!i8254.h@{i8254.h}}
+\doxysubsubsection{\texorpdfstring{TIMER\_IS\_SEL\_1}{TIMER\_IS\_SEL\_1}}
+{\footnotesize\ttfamily \#define TIMER\+\_\+\+IS\+\_\+\+SEL\+\_\+1~BIT(6)}
+
+\Hypertarget{i8254_8h_a652f21202a5e31afc5df5990c9615ead}\label{i8254_8h_a652f21202a5e31afc5df5990c9615ead} 
+\index{i8254.h@{i8254.h}!TIMER\_IS\_SEL\_2@{TIMER\_IS\_SEL\_2}}
+\index{TIMER\_IS\_SEL\_2@{TIMER\_IS\_SEL\_2}!i8254.h@{i8254.h}}
+\doxysubsubsection{\texorpdfstring{TIMER\_IS\_SEL\_2}{TIMER\_IS\_SEL\_2}}
+{\footnotesize\ttfamily \#define TIMER\+\_\+\+IS\+\_\+\+SEL\+\_\+2~BIT(7)}
+
+\Hypertarget{i8254_8h_a4ee31df84311ca3bb212382d643211aa}\label{i8254_8h_a4ee31df84311ca3bb212382d643211aa} 
+\index{i8254.h@{i8254.h}!TIMER\_LSB\_F@{TIMER\_LSB\_F}}
+\index{TIMER\_LSB\_F@{TIMER\_LSB\_F}!i8254.h@{i8254.h}}
+\doxysubsubsection{\texorpdfstring{TIMER\_LSB\_F}{TIMER\_LSB\_F}}
+{\footnotesize\ttfamily \#define TIMER\+\_\+\+LSB\+\_\+F~BIT(4)}
+
+\Hypertarget{i8254_8h_af7db8804b015cac43b750adcd0836da7}\label{i8254_8h_af7db8804b015cac43b750adcd0836da7} 
+\index{i8254.h@{i8254.h}!TIMER\_LSB\_F\_MSB@{TIMER\_LSB\_F\_MSB}}
+\index{TIMER\_LSB\_F\_MSB@{TIMER\_LSB\_F\_MSB}!i8254.h@{i8254.h}}
+\doxysubsubsection{\texorpdfstring{TIMER\_LSB\_F\_MSB}{TIMER\_LSB\_F\_MSB}}
+{\footnotesize\ttfamily \#define TIMER\+\_\+\+LSB\+\_\+\+F\+\_\+\+MSB~(\mbox{\hyperlink{i8254_8h_a4ee31df84311ca3bb212382d643211aa}{TIMER\+\_\+\+LSB\+\_\+F}} \texorpdfstring{$\vert$}{|} \mbox{\hyperlink{i8254_8h_a55bb82b0f3df49a21c61e66ba884afcd}{TIMER\+\_\+\+MSB\+\_\+F}})}
+
+\Hypertarget{i8254_8h_a55bb82b0f3df49a21c61e66ba884afcd}\label{i8254_8h_a55bb82b0f3df49a21c61e66ba884afcd} 
+\index{i8254.h@{i8254.h}!TIMER\_MSB\_F@{TIMER\_MSB\_F}}
+\index{TIMER\_MSB\_F@{TIMER\_MSB\_F}!i8254.h@{i8254.h}}
+\doxysubsubsection{\texorpdfstring{TIMER\_MSB\_F}{TIMER\_MSB\_F}}
+{\footnotesize\ttfamily \#define TIMER\+\_\+\+MSB\+\_\+F~BIT(5)}
+
+\Hypertarget{i8254_8h_a4ee3c124bc4bb76d4eb1741e7934de3b}\label{i8254_8h_a4ee3c124bc4bb76d4eb1741e7934de3b} 
+\index{i8254.h@{i8254.h}!TIMER\_PORT\_0@{TIMER\_PORT\_0}}
+\index{TIMER\_PORT\_0@{TIMER\_PORT\_0}!i8254.h@{i8254.h}}
+\doxysubsubsection{\texorpdfstring{TIMER\_PORT\_0}{TIMER\_PORT\_0}}
+{\footnotesize\ttfamily \#define TIMER\+\_\+\+PORT\+\_\+0~0x40}
+
+\Hypertarget{i8254_8h_a17d9cc13fbc30aac031e43d17367bc09}\label{i8254_8h_a17d9cc13fbc30aac031e43d17367bc09} 
+\index{i8254.h@{i8254.h}!TIMER\_PORT\_1@{TIMER\_PORT\_1}}
+\index{TIMER\_PORT\_1@{TIMER\_PORT\_1}!i8254.h@{i8254.h}}
+\doxysubsubsection{\texorpdfstring{TIMER\_PORT\_1}{TIMER\_PORT\_1}}
+{\footnotesize\ttfamily \#define TIMER\+\_\+\+PORT\+\_\+1~0x41}
+
+\Hypertarget{i8254_8h_a116fdcb873f42c2ccd43b404bac7e9b9}\label{i8254_8h_a116fdcb873f42c2ccd43b404bac7e9b9} 
+\index{i8254.h@{i8254.h}!TIMER\_PORT\_2@{TIMER\_PORT\_2}}
+\index{TIMER\_PORT\_2@{TIMER\_PORT\_2}!i8254.h@{i8254.h}}
+\doxysubsubsection{\texorpdfstring{TIMER\_PORT\_2}{TIMER\_PORT\_2}}
+{\footnotesize\ttfamily \#define TIMER\+\_\+\+PORT\+\_\+2~0x42}
+
+\Hypertarget{i8254_8h_aaa62d6d0aae1709d1201572058082e25}\label{i8254_8h_aaa62d6d0aae1709d1201572058082e25} 
+\index{i8254.h@{i8254.h}!TIMER\_PORT\_CONTROL@{TIMER\_PORT\_CONTROL}}
+\index{TIMER\_PORT\_CONTROL@{TIMER\_PORT\_CONTROL}!i8254.h@{i8254.h}}
+\doxysubsubsection{\texorpdfstring{TIMER\_PORT\_CONTROL}{TIMER\_PORT\_CONTROL}}
+{\footnotesize\ttfamily \#define TIMER\+\_\+\+PORT\+\_\+\+CONTROL~0x43}
+
+\Hypertarget{i8254_8h_a4adbf8f9704c31f1984ad9840f773439}\label{i8254_8h_a4adbf8f9704c31f1984ad9840f773439} 
+\index{i8254.h@{i8254.h}!TIMER\_REF\_RATE@{TIMER\_REF\_RATE}}
+\index{TIMER\_REF\_RATE@{TIMER\_REF\_RATE}!i8254.h@{i8254.h}}
+\doxysubsubsection{\texorpdfstring{TIMER\_REF\_RATE}{TIMER\_REF\_RATE}}
+{\footnotesize\ttfamily \#define TIMER\+\_\+\+REF\+\_\+\+RATE~BIT(2)}
+
+\Hypertarget{i8254_8h_a4745cbf21da3d3fea5dbb080b2b73bac}\label{i8254_8h_a4745cbf21da3d3fea5dbb080b2b73bac} 
+\index{i8254.h@{i8254.h}!TIMER\_SQR\_WAVE@{TIMER\_SQR\_WAVE}}
+\index{TIMER\_SQR\_WAVE@{TIMER\_SQR\_WAVE}!i8254.h@{i8254.h}}
+\doxysubsubsection{\texorpdfstring{TIMER\_SQR\_WAVE}{TIMER\_SQR\_WAVE}}
+{\footnotesize\ttfamily \#define TIMER\+\_\+\+SQR\+\_\+\+WAVE~(BIT(2) \texorpdfstring{$\vert$}{|} BIT(1))}
+

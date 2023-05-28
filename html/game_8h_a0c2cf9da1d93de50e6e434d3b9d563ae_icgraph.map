@@ -1,0 +1,33 @@
+<map id="alloc_matrix" name="alloc_matrix">
+<area shape="rect" id="Node000001" title="Allocates memory for a matrix of sprites." alt="" coords="719,129,809,155"/>
+<area shape="rect" id="Node000002" href="$mode__1_8c.html#a0a9f56467341cbe24bd981d4b9960fdd" title="Draws the game menu." alt="" coords="529,5,657,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="744,119,712,81,669,44,648,34,650,29,672,40,715,77,748,116"/>
+<area shape="rect" id="Node000008" href="$mode__2_8c.html#ab589130d7270a5c968f50ec7ac92b049" title="Draws the game menu for mode 2." alt="" coords="522,55,664,80"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="728,124,670,94,641,83,643,78,672,89,730,119"/>
+<area shape="rect" id="Node000009" href="$mode__1__2_8c.html#aa28486003fb7a28de6d78852acc16454" title="Draws the game menu." alt="" coords="515,104,671,130"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="704,136,670,131,671,126,704,131"/>
+<area shape="rect" id="Node000010" href="$mode__3_8c.html#ad6b6bbeb6f03ee844bb9b797f02be4a3" title="Draws the game menu for mode 3." alt="" coords="522,153,664,179"/>
+<area shape="poly" id="edge14_Node000001_Node000010" title=" " alt="" coords="704,153,665,159,664,154,703,148"/>
+<area shape="rect" id="Node000011" href="$mode__2__2_8c.html#a072c7dd3774d19b22df0ff84438f9f87" title="Draws the game menu." alt="" coords="515,203,671,228"/>
+<area shape="poly" id="edge16_Node000001_Node000011" title=" " alt="" coords="729,165,672,194,643,205,641,200,670,189,727,160"/>
+<area shape="rect" id="Node000012" href="$mode__3__2_8c.html#afdbbaa6e5ade60bdcc8036ca5b80d998" title="Draws the game menu." alt="" coords="515,252,671,278"/>
+<area shape="poly" id="edge18_Node000001_Node000012" title=" " alt="" coords="747,169,715,207,672,243,650,254,648,249,669,239,711,203,743,166"/>
+<area shape="rect" id="Node000003" href="$game_8c.html#a0694ecde7300c4efe3f418dce1277314" title="Draws a new framebuffer." alt="" coords="369,129,467,155"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="525,40,517,44,490,65,466,88,431,130,427,127,462,84,486,61,514,40,523,35"/>
+<area shape="rect" id="Node000004" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,129,114,155"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="385,123,354,107,320,94,276,85,241,82,206,85,162,94,118,111,82,131,79,126,116,106,161,89,206,80,241,76,277,79,322,89,357,102,387,119"/>
+<area shape="rect" id="Node000005" href="$menu_8c.html#a98c6c78726a3055d4fd38d1e280ee77d" title="Updates the keyboard frame." alt="" coords="162,104,321,130"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="354,136,321,131,322,126,355,130"/>
+<area shape="rect" id="Node000006" href="$menu_8c.html#a700d639dd6af8e7fe655cc00bbed358e" title="Updates the mouse frame." alt="" coords="168,153,315,179"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="355,153,315,159,314,154,354,148"/>
+<area shape="rect" id="Node000007" href="$menu_8c.html#a5791e4d9006275c5477e1f84606f76ba" title="Updates the timer frame." alt="" coords="173,203,310,228"/>
+<area shape="poly" id="edge8_Node000003_Node000007" title=" " alt="" coords="382,165,322,194,292,205,290,200,320,189,380,160"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="147,133,114,137,114,132,147,127"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="153,157,114,152,115,147,154,152"/>
+<area shape="poly" id="edge9_Node000007_Node000004" title=" " alt="" coords="177,200,161,194,84,158,87,153,163,189,179,195"/>
+<area shape="poly" id="edge11_Node000008_Node000003" title=" " alt="" coords="532,88,516,94,443,131,441,126,514,89,530,83"/>
+<area shape="poly" id="edge13_Node000009_Node000003" title=" " alt="" coords="501,133,468,138,467,132,500,128"/>
+<area shape="poly" id="edge15_Node000010_Node000003" title=" " alt="" coords="507,157,467,152,468,146,508,152"/>
+<area shape="poly" id="edge17_Node000011_Node000003" title=" " alt="" coords="530,200,514,194,441,158,444,153,516,189,532,195"/>
+<area shape="poly" id="edge19_Node000012_Node000003" title=" " alt="" coords="523,248,514,243,486,223,462,199,427,157,431,154,466,195,490,219,517,239,525,243"/>
+</map>

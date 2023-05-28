@@ -1,0 +1,155 @@
+\doxysection{controller/keyboard/keyboard.h File Reference}
+\hypertarget{keyboard_8h}{}\label{keyboard_8h}\index{controller/keyboard/keyboard.h@{controller/keyboard/keyboard.h}}
+
+
+Keyboard functions and definitions.  
+
+
+{\ttfamily \#include $<$minix/sysutil.\+h$>$}\newline
+{\ttfamily \#include $<$lcom/lcf.\+h$>$}\newline
+{\ttfamily \#include \"{}i8042.\+h\"{}}\newline
+{\ttfamily \#include \"{}KBC.\+h\"{}}\newline
+Include dependency graph for keyboard.\+h\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=297pt]{keyboard_8h__incl}
+\end{center}
+\end{figure}
+This graph shows which files directly or indirectly include this file\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=240pt]{keyboard_8h__dep__incl}
+\end{center}
+\end{figure}
+\doxysubsubsection*{Macros}
+\begin{DoxyCompactItemize}
+\item 
+\#define \mbox{\hyperlink{keyboard_8h_a5e5eed428d17d44fd5c7e24ceb2fc1b7}{KEYBOARD\+\_\+\+BIT}}~BIT(1)
+\end{DoxyCompactItemize}
+\doxysubsubsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+int() \mbox{\hyperlink{keyboard_8h_a4f3036dc383cb3264414c231f2ca11e4}{keyboard\+\_\+subscribe\+\_\+interrupts}} ()
+\begin{DoxyCompactList}\small\item\em Subscribes keyboard interrupts. \end{DoxyCompactList}\item 
+int() \mbox{\hyperlink{keyboard_8h_a97f07efdc4bf5955236db1b8f111daf6}{keyboard\+\_\+unsubscribe\+\_\+interrupts}} ()
+\begin{DoxyCompactList}\small\item\em Unsubscribes keyboard interrupts. \end{DoxyCompactList}\item 
+void() \mbox{\hyperlink{keyboard_8h_aea970a154161a35f6894898a092ed70a}{kbc\+\_\+ih}} ()
+\begin{DoxyCompactList}\small\item\em Keyboard interrupt handler. \end{DoxyCompactList}\item 
+int() \mbox{\hyperlink{keyboard_8h_a4f3fa1b325e41610b8d06e08db68e366}{keyboard\+\_\+refresh}} ()
+\begin{DoxyCompactList}\small\item\em Refreshes the keyboard. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Keyboard functions and definitions. 
+
+
+
+\doxysubsection{Macro Definition Documentation}
+\Hypertarget{keyboard_8h_a5e5eed428d17d44fd5c7e24ceb2fc1b7}\label{keyboard_8h_a5e5eed428d17d44fd5c7e24ceb2fc1b7} 
+\index{keyboard.h@{keyboard.h}!KEYBOARD\_BIT@{KEYBOARD\_BIT}}
+\index{KEYBOARD\_BIT@{KEYBOARD\_BIT}!keyboard.h@{keyboard.h}}
+\doxysubsubsection{\texorpdfstring{KEYBOARD\_BIT}{KEYBOARD\_BIT}}
+{\footnotesize\ttfamily \#define KEYBOARD\+\_\+\+BIT~BIT(1)}
+
+
+
+\doxysubsection{Function Documentation}
+\Hypertarget{keyboard_8h_aea970a154161a35f6894898a092ed70a}\label{keyboard_8h_aea970a154161a35f6894898a092ed70a} 
+\index{keyboard.h@{keyboard.h}!kbc\_ih@{kbc\_ih}}
+\index{kbc\_ih@{kbc\_ih}!keyboard.h@{keyboard.h}}
+\doxysubsubsection{\texorpdfstring{kbc\_ih()}{kbc\_ih()}}
+{\footnotesize\ttfamily void() kbc\+\_\+ih (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Keyboard interrupt handler. 
+
+This function is the interrupt handler for keyboard interrupts. It reads the scancode from the output buffer. Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{keyboard_8h_aea970a154161a35f6894898a092ed70a_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{keyboard_8h_aea970a154161a35f6894898a092ed70a_icgraph}
+\end{center}
+\end{figure}
+\Hypertarget{keyboard_8h_a4f3fa1b325e41610b8d06e08db68e366}\label{keyboard_8h_a4f3fa1b325e41610b8d06e08db68e366} 
+\index{keyboard.h@{keyboard.h}!keyboard\_refresh@{keyboard\_refresh}}
+\index{keyboard\_refresh@{keyboard\_refresh}!keyboard.h@{keyboard.h}}
+\doxysubsubsection{\texorpdfstring{keyboard\_refresh()}{keyboard\_refresh()}}
+{\footnotesize\ttfamily int() keyboard\+\_\+refresh (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Refreshes the keyboard. 
+
+This function refreshes the keyboard by reading and updating the command byte in the keyboard controller.
+
+\begin{DoxyReturn}{Returns}
+Return 0 upon success, non-\/zero otherwise. 
+\end{DoxyReturn}
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{keyboard_8h_a4f3fa1b325e41610b8d06e08db68e366_cgraph}
+\end{center}
+\end{figure}
+\Hypertarget{keyboard_8h_a4f3036dc383cb3264414c231f2ca11e4}\label{keyboard_8h_a4f3036dc383cb3264414c231f2ca11e4} 
+\index{keyboard.h@{keyboard.h}!keyboard\_subscribe\_interrupts@{keyboard\_subscribe\_interrupts}}
+\index{keyboard\_subscribe\_interrupts@{keyboard\_subscribe\_interrupts}!keyboard.h@{keyboard.h}}
+\doxysubsubsection{\texorpdfstring{keyboard\_subscribe\_interrupts()}{keyboard\_subscribe\_interrupts()}}
+{\footnotesize\ttfamily int() keyboard\+\_\+subscribe\+\_\+interrupts (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Subscribes keyboard interrupts. 
+
+This function subscribes keyboard interrupts using sys\+\_\+irqsetpolicy().
+
+\begin{DoxyReturn}{Returns}
+Return 0 upon success, non-\/zero otherwise. 
+\end{DoxyReturn}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{keyboard_8h_a4f3036dc383cb3264414c231f2ca11e4_icgraph}
+\end{center}
+\end{figure}
+\Hypertarget{keyboard_8h_a97f07efdc4bf5955236db1b8f111daf6}\label{keyboard_8h_a97f07efdc4bf5955236db1b8f111daf6} 
+\index{keyboard.h@{keyboard.h}!keyboard\_unsubscribe\_interrupts@{keyboard\_unsubscribe\_interrupts}}
+\index{keyboard\_unsubscribe\_interrupts@{keyboard\_unsubscribe\_interrupts}!keyboard.h@{keyboard.h}}
+\doxysubsubsection{\texorpdfstring{keyboard\_unsubscribe\_interrupts()}{keyboard\_unsubscribe\_interrupts()}}
+{\footnotesize\ttfamily int() keyboard\+\_\+unsubscribe\+\_\+interrupts (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Unsubscribes keyboard interrupts. 
+
+This function unsubscribes keyboard interrupts using sys\+\_\+irqrmpolicy().
+
+\begin{DoxyReturn}{Returns}
+Return 0 upon success, non-\/zero otherwise. 
+\end{DoxyReturn}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{keyboard_8h_a97f07efdc4bf5955236db1b8f111daf6_icgraph}
+\end{center}
+\end{figure}

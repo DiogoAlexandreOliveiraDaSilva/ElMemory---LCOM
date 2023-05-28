@@ -1,0 +1,84 @@
+\doxysection{game/sprite/sprite.c File Reference}
+\hypertarget{sprite_8c}{}\label{sprite_8c}\index{game/sprite/sprite.c@{game/sprite/sprite.c}}
+{\ttfamily \#include \"{}sprite.\+h\"{}}\newline
+Include dependency graph for sprite.\+c\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{sprite_8c__incl}
+\end{center}
+\end{figure}
+\doxysubsubsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{sprite_8c_a8c923e94a35a2b4d9505beb3c3af03e0}{initiate\+\_\+xpm}} (xpm\+\_\+map\+\_\+t sp)
+\begin{DoxyCompactList}\small\item\em Initializes a sprite using the given XPM map. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{sprite_8c_a4e51a4bafffd4238721466bc88e2db66}{del\+\_\+sprite}} (\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*}sp)
+\begin{DoxyCompactList}\small\item\em Deletes a sprite and frees the associated memory. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsubsection*{Variables}
+\begin{DoxyCompactItemize}
+\item 
+int \mbox{\hyperlink{sprite_8c_a9841e6f9d1ce09ab6b26e88884bbdc72}{counter\+\_\+test}} = 0
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Function Documentation}
+\Hypertarget{sprite_8c_a4e51a4bafffd4238721466bc88e2db66}\label{sprite_8c_a4e51a4bafffd4238721466bc88e2db66} 
+\index{sprite.c@{sprite.c}!del\_sprite@{del\_sprite}}
+\index{del\_sprite@{del\_sprite}!sprite.c@{sprite.c}}
+\doxysubsubsection{\texorpdfstring{del\_sprite()}{del\_sprite()}}
+{\footnotesize\ttfamily void del\+\_\+sprite (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*}}]{sprite }\end{DoxyParamCaption})}
+
+
+
+Deletes a sprite and frees the associated memory. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em sprite} & The sprite to be deleted. \\
+\hline
+\end{DoxyParams}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{sprite_8c_a4e51a4bafffd4238721466bc88e2db66_icgraph}
+\end{center}
+\end{figure}
+\Hypertarget{sprite_8c_a8c923e94a35a2b4d9505beb3c3af03e0}\label{sprite_8c_a8c923e94a35a2b4d9505beb3c3af03e0} 
+\index{sprite.c@{sprite.c}!initiate\_xpm@{initiate\_xpm}}
+\index{initiate\_xpm@{initiate\_xpm}!sprite.c@{sprite.c}}
+\doxysubsubsection{\texorpdfstring{initiate\_xpm()}{initiate\_xpm()}}
+{\footnotesize\ttfamily \mbox{\hyperlink{structSprite}{Sprite}} \texorpdfstring{$\ast$}{*} initiate\+\_\+xpm (\begin{DoxyParamCaption}\item[{xpm\+\_\+map\+\_\+t}]{sprite }\end{DoxyParamCaption})}
+
+
+
+Initializes a sprite using the given XPM map. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em sprite} & XPM map representing the sprite. \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+A pointer to the created sprite structure, or NULL on failure. 
+\end{DoxyReturn}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{sprite_8c_a8c923e94a35a2b4d9505beb3c3af03e0_icgraph}
+\end{center}
+\end{figure}
+
+
+\doxysubsection{Variable Documentation}
+\Hypertarget{sprite_8c_a9841e6f9d1ce09ab6b26e88884bbdc72}\label{sprite_8c_a9841e6f9d1ce09ab6b26e88884bbdc72} 
+\index{sprite.c@{sprite.c}!counter\_test@{counter\_test}}
+\index{counter\_test@{counter\_test}!sprite.c@{sprite.c}}
+\doxysubsubsection{\texorpdfstring{counter\_test}{counter\_test}}
+{\footnotesize\ttfamily int counter\+\_\+test = 0}
+

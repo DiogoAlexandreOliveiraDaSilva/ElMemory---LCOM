@@ -1,0 +1,16 @@
+<map id="draw_finish_menu" name="draw_finish_menu">
+<area shape="rect" id="Node000001" title="Draws the finish menu." alt="" coords="515,56,641,81"/>
+<area shape="rect" id="Node000002" href="$game_8c.html#a0694ecde7300c4efe3f418dce1277314" title="Draws a new framebuffer." alt="" coords="369,56,467,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="501,71,468,71,468,66,501,66"/>
+<area shape="rect" id="Node000003" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,56,114,81"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="385,50,354,33,320,20,276,11,241,8,206,11,162,20,118,37,82,57,79,53,116,32,161,15,206,6,241,3,277,6,322,15,357,28,387,45"/>
+<area shape="rect" id="Node000004" href="$menu_8c.html#a98c6c78726a3055d4fd38d1e280ee77d" title="Updates the keyboard frame." alt="" coords="162,30,321,56"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="354,62,321,57,322,52,355,57"/>
+<area shape="rect" id="Node000005" href="$menu_8c.html#a700d639dd6af8e7fe655cc00bbed358e" title="Updates the mouse frame." alt="" coords="168,80,315,105"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="355,80,315,85,314,80,354,75"/>
+<area shape="rect" id="Node000006" href="$menu_8c.html#a5791e4d9006275c5477e1f84606f76ba" title="Updates the timer frame." alt="" coords="173,129,310,155"/>
+<area shape="poly" id="edge7_Node000002_Node000006" title=" " alt="" coords="382,91,322,120,292,131,290,126,320,115,380,86"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="147,59,114,64,114,58,147,54"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="153,84,114,78,115,73,154,78"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="177,126,161,120,84,84,87,80,163,115,179,121"/>
+</map>

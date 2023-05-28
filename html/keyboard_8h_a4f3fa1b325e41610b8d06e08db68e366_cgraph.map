@@ -1,0 +1,13 @@
+<map id="keyboard_refresh" name="keyboard_refresh">
+<area shape="rect" id="Node000001" title="Refreshes the keyboard." alt="" coords="5,35,126,60"/>
+<area shape="rect" id="Node000002" href="$keyboard_2KBC_8c.html#a60b50761648a085dbe01762db4fa63a8" title="Reads the output buffer of the keyboard controller." alt="" coords="174,55,322,96"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,54,160,59,159,65,126,59"/>
+<area shape="rect" id="Node000005" href="$keyboard_2KBC_8c.html#a197264e257ef55ec928394ffa1ac3d7c" title="Writes a command byte to the keyboard controller." alt="" coords="189,5,307,31"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="126,35,174,27,175,33,127,40"/>
+<area shape="rect" id="Node000003" href="$keyboard_2KBC_8c.html#a6ccb81683de14e9ff796e729f0cc331f" title="Reads the keyboard controller status register." alt="" coords="370,12,518,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="322,54,377,39,379,44,323,59"/>
+<area shape="rect" id="Node000004" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="566,37,656,63"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="322,68,551,52,552,57,323,73"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="519,34,552,39,551,44,519,39"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="307,18,356,19,355,24,307,23"/>
+</map>
