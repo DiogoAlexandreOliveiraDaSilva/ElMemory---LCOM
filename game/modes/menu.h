@@ -13,7 +13,6 @@
 #include "controller/rtc/rtc.h"
 #include "game/xpm/hand.xpm"
 #include "game/xpm/mouse.xpm"
-#include "game/xpm/smile.xpm"
 #include "game/xpm/teste.xpm"
 #include "game/xpm/logo.xpm"
 #include "game/game.h"

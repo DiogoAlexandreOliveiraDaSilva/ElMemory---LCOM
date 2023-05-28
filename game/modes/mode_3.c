@@ -17,7 +17,6 @@ extern MenuState menuState;
 extern SystemState systemState;
 extern Sprite *mouse;
 extern Sprite *hand;
-extern Sprite *smile;
 extern Sprite *teste;
 extern Sprite *logo;
 extern Sprite *quitButton;
@@ -988,6 +987,23 @@ void draw_game_menu_3()
     Sprite cards3[] = {*number1, *number1, *number2, *number2, *number3, *number3, *number4, *number4, *number5, *number5, *number6, *number6, *number7, *number7, *number8, *number8};
     if (pre2 == 0)
     {
+        backPressed1 = false;
+        backPressed2 = false;
+        backPressed3 = false;
+        backPressed4 = false;
+        backPressed5 = false;
+        backPressed6 = false;
+        backPressed7 = false;
+        backPressed8 = false;
+        backPressed9 = false;
+        backPressed10 = false;
+        backPressed11 = false;
+        backPressed12 = false;
+        backPressed13 = false;
+        backPressed14 = false;
+        backPressed15 = false;
+        backPressed16 = false;
+        is_processing = false;
         matrix = alloc_matrix(4, 4);
         shuffle3(cards3);
         pre2++;
@@ -1140,7 +1156,12 @@ void draw_game_menu_3()
     }
     if (matrix[0][0].block == true && matrix[0][1].block == true && matrix[0][2].block == true && matrix[0][3].block == true && matrix[1][0].block == true && matrix[1][1].block == true && matrix[1][2].block == true && matrix[1][3].block == true && matrix[2][0].block == true && matrix[2][1].block == true && matrix[2][2].block == true && matrix[2][3].block == true && matrix[3][0].block == true && matrix[3][1].block == true && matrix[3][2].block == true && matrix[3][3].block == true)
     {
+        if(pre2 == 1) {
+        gameplayCounter = 20; 
+        pre2++;
+        }
         to_help = menuState;
+        pre2 = 0;
         menuState = END;
     }
 

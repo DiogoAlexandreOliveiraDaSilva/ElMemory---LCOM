@@ -21,7 +21,6 @@ extern SystemState systemState;
 
 extern Sprite *mouse;
 extern Sprite *hand;
-extern Sprite *smile;
 extern Sprite *teste;
 extern Sprite *logo;
 extern Sprite *quitButton;
@@ -69,9 +68,9 @@ extern Sprite *player_1_xpm;
 extern Sprite *player_2_xpm;
 extern Sprite *player_1_menu;
 extern Sprite *player_2_menu;
-extern int pre;
+extern int pre; 
 extern int pre1; 
-extern int pre2;
+extern int pre2; 
 int animationFrame = 0;
 bool isAnimating = false;
 int chosen;
@@ -122,6 +121,9 @@ void draw_new_fb()
     switch (menuState)
     {
     case START:
+        pre = 0; 
+        pre1 = 0; 
+        pre2 = 0;
         draw_initial_menu();
         mouse_info_s.left_click = 0;
         break;
@@ -559,14 +561,12 @@ bool check_match(int id1, int id2)
     }
 }
 
-// O menu do jogo é constituído por quatro botões
-
-// O menu final é apenas um retângulo com tamanho máximo, com um smile ao centro
 void draw_finish_menu()
 {
     Sprite final[] = {*score0,*score1,*score2,*score3,*score4,*score5,*score6,*score7,*score8};
     printf("The value of player_1 is %d\n", player_1);
     printf("The value of player_2 is %d\n", player_2);
+    printf("THe value of gameplayCounter is %d\n", gameplayCounter);
     memset(drawing_frame_buf, 0, mode_info.XResolution * mode_info.YResolution * mode_info.BitsPerPixel / 8);
         if(to_help == GAME || to_help == GAME_2 || to_help == GAME_3)
         {
@@ -585,6 +585,12 @@ void draw_finish_menu()
 
         draw_xpm(player_2_xpm, 0, mode_info.YResolution / 2);
         draw_xpm(&final[player_2], mode_info.XResolution / 3, mode_info.YResolution / 2);}
+        if(gameplayCounter != 20 && gameplayCounter % 10 == 0) { 
+            pre = 0;
+            pre1 = 0;
+            pre2 = 0;
+            menuState = START; 
+        }
 }
 
 void draw_mouse()

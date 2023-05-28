@@ -16,7 +16,6 @@ extern MenuState menuState;
 extern SystemState systemState;
 extern Sprite *mouse;
 extern Sprite *hand;
-extern Sprite *smile;
 extern Sprite *teste;
 extern Sprite *logo;
 extern Sprite *quitButton;
@@ -345,7 +344,12 @@ void draw_game_menu_2_2()
     int j = sizeof(cards) / sizeof(cards[0]);
 
     if (pre == 0)
-    {
+    {   
+        is_processing = false;
+        button1Pressed = false; 
+        button2Pressed = false;
+        button3Pressed = false;
+        button4Pressed = false;
         player1 = true;
         player2 = false;
         player_1 = 0;
@@ -409,9 +413,12 @@ void draw_game_menu_2_2()
     }
     if (matrix[0][0].block == true && matrix[0][1].block == true && matrix[1][0].block == true && matrix[1][1].block == true)
     {
-        printf("player1Score %d", player_1);
-        printf("player2Score %d", player_2);
+        if(pre == 1) {
+        gameplayCounter = 20; 
+        pre++;
+        }
         to_help = menuState;
+        pre = 0;
         menuState = END;
     }
      if(scancode == R_KEY){

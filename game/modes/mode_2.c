@@ -16,7 +16,6 @@ extern MenuState menuState;
 extern SystemState systemState;
 extern Sprite *mouse;
 extern Sprite *hand;
-extern Sprite *smile;
 extern Sprite *teste;
 extern Sprite *logo;
 extern Sprite *quitButton;
@@ -529,6 +528,15 @@ void draw_game_menu_2()
     Sprite cards2[] = {*number1, *number1, *number2, *number2, *number3, *number3, *number4, *number4};
     if (pre1 == 0)
     {
+        is_processing = false;
+        cardPressed1 =false;
+        cardPressed2 =false;
+        cardPressed3 =false;
+        cardPressed4 =false;
+        cardPressed5 =false;
+        cardPressed6 =false;
+        cardPressed7 =false;
+        cardPressed8 =false;
         matrix = alloc_matrix(4, 2);
         shuffle2(cards2);
         pre1++;
@@ -609,7 +617,12 @@ void draw_game_menu_2()
     }
     if (matrix[0][0].block == true && matrix[0][1].block == true && matrix[0][2].block == true && matrix[0][3].block == true && matrix[1][0].block == true && matrix[1][1].block == true && matrix[1][2].block == true && matrix[1][3].block == true)
     {
+        if(pre1 == 1) {
+        gameplayCounter = 20; 
+        pre1++;
+        }
         to_help = menuState;
+        pre1 = 0;
         menuState = END;
     }
      if(scancode == R_KEY){

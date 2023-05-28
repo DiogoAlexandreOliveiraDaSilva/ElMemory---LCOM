@@ -16,7 +16,6 @@ extern MenuState menuState;
 extern SystemState systemState;
 extern Sprite *mouse;
 extern Sprite *hand;
-extern Sprite *smile;
 extern Sprite *teste;
 extern Sprite *logo;
 extern Sprite *quitButton;
@@ -283,14 +282,18 @@ void draw_game_menu()
     int j = sizeof(cards) / sizeof(cards[0]);
 
     if (pre == 0)
-    {
+    {   
+        is_processing = false;
+        button1Pressed = false;
+        button2Pressed = false;
+        button3Pressed = false;
+        button4Pressed = false;
         matrix = alloc_matrix(2, 2);
         shuffle(cards, j);
         printf("matrix allocated\n,%d", matrix);
         pre++;
     }
     printf("VOLTEI AQUI\n");
-
     memset(drawing_frame_buf, 0, mode_info.XResolution * mode_info.YResolution * mode_info.BitsPerPixel / 8);
     animation_trigger(&matrix[0][0], 0, 0);
     animation_trigger(&matrix[0][1], mode_info.XResolution / 2, 0);
@@ -340,7 +343,12 @@ void draw_game_menu()
     }
     if (matrix[0][0].block == true && matrix[0][1].block == true && matrix[1][0].block == true && matrix[1][1].block == true)
     {
+        if(pre == 1) {
+        gameplayCounter = 20; 
+        pre++;
+        }
         to_help = menuState;
+        pre = 0;
         menuState = END;
     }
      if(scancode == R_KEY){

@@ -14,7 +14,6 @@ bool is_processing = false;
 
 Sprite *mouse;
 Sprite *hand;
-Sprite *smile;
 Sprite *teste;
 Sprite *logo;
 Sprite *quitButton;
@@ -70,7 +69,6 @@ void start_sprites()
 {
     mouse = initiate_xpm((xpm_map_t)mouse_xpm);
     hand = initiate_xpm((xpm_map_t)hand_xpm);
-    smile = initiate_xpm((xpm_map_t)smile_xpm);
     teste = initiate_xpm((xpm_map_t)teste_xpm);
     logo = initiate_xpm((xpm_map_t)logo_xpm);
     number1 = initiate_xpm((xpm_map_t)number1_xpm);
@@ -128,7 +126,6 @@ void del_sprites()
     del_sprite(game);
     del_sprite(mouse);
     del_sprite(hand);
-    del_sprite(smile);
     del_sprite(teste);
     del_sprite(number1);
     del_sprite(number2);
@@ -174,11 +171,10 @@ void del_sprites()
 
 void update_timer_frame()
 {
-
     if (DOUBLE_BUFFER)
         swap_buffers();
     timer_interrupts++;
-    if (timer_interrupts % 60 == 0 && (menuState == GAME || menuState == GAME_2 || menuState == GAME_3 || menuState == GAME_2P || menuState == GAME_4_2P || menuState == GAME_8_2P))
+    if (timer_interrupts % 60 == 0 && (menuState == GAME || menuState == GAME_2 || menuState == GAME_3 || menuState == GAME_2P || menuState == GAME_4_2P || menuState == GAME_8_2P || menuState == END))
     {
         gameplayCounter--;
         printf("Counter: %d\n", gameplayCounter);
@@ -201,28 +197,31 @@ void update_keyboard_frame()
         menuState = START;
         break;
     case G_KEY:
-        menuState = GAME;
-        break;
-    case E_KEY:
-        menuState = END;
+    if(menuState == START){
+        menuState = GAME;}
         break;
     case Q_KEY:
         systemState = EXIT;
         break;
     case I_KEY:
-        menuState = GAME_2;
+    if(menuState == START){
+        menuState = GAME_2;}
         break;
     case H_KEY:
-        menuState = GAME_3;
+    if(menuState == START) {
+        menuState = GAME_3;}
         break;
     case K_KEY:
-        menuState = GAME_2P;
+    if(menuState == START){
+        menuState = GAME_2P;}
         break;
     case L_KEY: 
-        menuState = GAME_4_2P;
+    if(menuState == START){
+        menuState = GAME_4_2P;}
         break;
     case P_KEY:
-        menuState = GAME_8_2P;
+    if(menuState == START){
+        menuState = GAME_8_2P;}
         break;
     default:
         break;

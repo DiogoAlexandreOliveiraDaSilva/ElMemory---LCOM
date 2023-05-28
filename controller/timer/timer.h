@@ -1,7 +1,7 @@
 #ifndef _LCOM_TIMER_H_
 #define _LCOM_TIMER_H_
 
-#define TIMER_MASK BIT(0)
+#define TIMER_BIT BIT(0)
 
 #include <minix/sysutil.h>
 #include <lcom/lcf.h>

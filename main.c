@@ -34,61 +34,96 @@ int(main)(int argc, char *argv[])
 int setup()
 {
 
-  // Atualização da frequência
   if (timer_set_frequency(TIMER, FPS) != 0)
+  {
+    printf("Error setting timer frequency\n");
     return 1;
+  }
 
-  // Inicialização dos buffers de vídeo (double buffering)
   if (define_frame_bufs(RESOLUTION) != 0)
+  {
+    printf("Error defining frame buffers\n");
     return 1;
+  }
 
-  // Inicialização do modo gráfico
   if (set_graphics_mode(RESOLUTION) != 0)
+  {
+    printf("Error setting graphics mode\n");
     return 1;
+  }
 
   start_sprites();
 
-  // Ativação das interrupções dos dispositivos
   if (timer_subscribe_interrupts() != 0)
+  {
+    printf("Error subscribing timer interrupts\n");
     return 1;
+  }
+
   if (keyboard_subscribe_interrupts() != 0)
+  {
+    printf("Error subscribing keyboard interrupts\n");
     return 1;
+  }
+
   if (mouse_subscribe_interrupts() != 0)
+  {
+    printf("Error subscribing mouse interrupts\n");
     return 1;
+  }
+
   if (rtc_subscribe_interrupts() != 0)
+  {
+    printf("Error subscribing rtc interrupts\n");
     return 1;
+  }
 
-  // Ativar stream-mode e report de dados do rato
   if (mouse_write(ON_STREAM) != 0)
+  {
+    printf("Error activating stream mode\n");
     return 1;
-  if (mouse_write(ON_DATA_REP) != 0)
-    return 1;
+  }
 
-  // Setup do Real Time Clock
+  if (mouse_write(ON_DATA_REP) != 0)
+  {
+    printf("Error activating data reporting\n");
+    return 1;
+  }
+
   start_rtc();
 
   return 0;
 }
 
-int teardown()
+int turn_off()
 {
-
-  // Volta ao modo de texto
   if (vg_exit() != 0)
+  {
+    printf("Error exiting graphics mode\n");
     return 1;
-
-  // Destruição dos sprites
+  }
   del_sprites();
 
-  // Desativa todas as interrupções
   if (timer_unsubscribe_interrupts() != 0)
+  {
+    printf("Error unsubscribing timer interrupts\n");
     return 1;
-  if (keyboard_unsubscribe_interrupts() != 0)
+  }
+  if (keyboard_unsubscribe_interrupts() != 0){
+    printf("Error unsubscribing keyboard interrupts\n");
     return 1;
+  }
   if (mouse_unsubscribe_interrupts() != 0)
+  {
+    printf("Error unsubscribing mouse interrupts\n");
+    return 1;
+  }
     return 1;
   if (rtc_unsubscribe_interrupts() != 0)
+  {
+    printf("Error unsubscribing rtc interrupts\n");
     return 1;
+  }
 
   // Desativar o report de dados do rato
   if (mouse_write(OFF_DATA_REP) != 0)
@@ -100,14 +135,11 @@ int teardown()
 int(proj_main_loop)(int argc, char *argv[])
 {
 
-  // Setup do Minix
   if (setup() != 0)
-    return teardown();
+    return turn_off();
 
-  // Desenha a primeira frame
   draw_new_fb();
 
-  // Tratamento das interrupções
   int ipc_status;
   message msg;
   while (systemState == RUNNING)
@@ -124,11 +156,11 @@ int(proj_main_loop)(int argc, char *argv[])
       switch (_ENDPOINT_P(msg.m_source))
       {
       case HARDWARE:
-        if (msg.m_notify.interrupts & TIMER_MASK)
+        if (msg.m_notify.interrupts & TIMER_BIT)
           update_timer_frame();
-        if (msg.m_notify.interrupts & KEYBOARD_MASK)
+        if (msg.m_notify.interrupts & KEYBOARD_BIT)
           update_keyboard_frame();
-        if (msg.m_notify.interrupts & MOUSE_MASK)
+        if (msg.m_notify.interrupts & MOUSE_BIT)
           update_mouse_frame();
         if (msg.m_notify.interrupts & MASK_OF_RTC)
           update_rtc_frame();
@@ -136,8 +168,7 @@ int(proj_main_loop)(int argc, char *argv[])
     }
   }
 
-  // Tear-down do Minix
-  if (teardown() != 0)
+  if (turn_off() != 0)
     return 1;
 
   return 0;

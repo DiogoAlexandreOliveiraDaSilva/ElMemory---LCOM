@@ -1,7 +1,7 @@
 #ifndef _LCOM_KEYBOARD_H_
 #define _LCOM_KEYBOARD_H_
 
-#define KEYBOARD_MASK BIT(1)
+#define KEYBOARD_BIT BIT(1)
 
 #include <minix/sysutil.h>
 #include <lcom/lcf.h>
