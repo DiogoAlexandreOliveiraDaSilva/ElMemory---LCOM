@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "model.h": "c",
+        "*.xpm": "c",
+        "game.h": "c",
+        "view.h": "c",
+        "menu.h": "c",
+        "vbe.h": "c",
+        "sprite.h": "c",
+        "cstdlib": "c",
+        "graphics.h": "c",
+        "stdio.h": "c",
+        "kbc.h": "c",
+        "mouse.h": "c",
+        "mode_1_2.h": "c",
+        "mode_3.h": "c"
+    }
+}
