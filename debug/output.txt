@@ -1,4601 +1,1670 @@
-NOW: 2023/5/28 @17:19:23
-NOW: 2023/5/28 @17:19:24
-8 7 7 6 
-8 5 5 6 
-Entrei no botao 1
-The value of index_1 on button1 is 142815416
-The value of matrix_id1 on button1 is 5Entrei no botao 1
+NOW: 2023/5/28 @17:39:59
+NOW: 2023/5/28 @17:40:0
+NOW: 2023/5/28 @17:40:1
+Match found: matrix[0][0].id = 6 and matrix[0][1].id = 6
+Match found: matrix[0][1].id = 6 and matrix[0][0].id = 6
+Match found: matrix[1][0].id = 5 and matrix[1][1].id = 5
+Match found: matrix[1][1].id = 5 and matrix[1][0].id = 5
+matrix allocated
+,138396288gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: -1
+ENTREI NO BOTAO 2
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 200player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
 Counter: 199
+gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+NOW: 2023/5/28 @17:40:2
+gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
+ENTREI NO BOTAO 2
+gameplayCounter 199player1 1player2 0player1score 0player2score 0matrix: 6
+BOTAO 1 CLICK
+Entrei no botao 1
+THe value of the index_1->state on button 1 is 1
+The value of index_2 on button1 is 142888960
+The value of matrix_id2 on button1 is 6ENTREI NO BOTAO 2
+gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
+Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
-NOW: 2023/5/28 @17:19:25
+ENTREI NO BOTAO 2
+gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 5player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-The value of index_2 on button1 is 142815360
-The value of matrix_id2 on button1 is 8Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
+ENTREI NO BOTAO 2
 Counter: 4
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+NOW: 2023/5/28 @17:40:3
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
-NOW: 2023/5/28 @17:19:26
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 4player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
+ENTREI NO BOTAO 2
 Counter: 3
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+NOW: 2023/5/28 @17:40:4
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
-NOW: 2023/5/28 @17:19:27
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
+ENTREI NO BOTAO 2
+gameplayCounter 3player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
+ENTREI NO BOTAO 2
 Counter: 2
+gameplayCounter 2player1 1player2 0player1score 0player2score 0matrix: 6
 Entrei no botao 1
-The value of the cardPressed5 is 0NOW: 2023/5/28 @17:19:28
+ENTERED HEREplayer1CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARNOW: 2023/5/28 @17:40:5
+gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARgameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: -1
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
 Counter: 1
-NOW: 2023/5/28 @17:19:29
-Counter: 0
-NOW: 2023/5/28 @17:19:30
-Counter: -1
-NOW: 2023/5/28 @17:19:31
-Counter: -2
-NOW: 2023/5/28 @17:19:32
-Counter: -3
-NOW: 2023/5/28 @17:19:33
-Counter: -4
-NOW: 2023/5/28 @17:19:34
-Counter: -5
-NOW: 2023/5/28 @17:19:35
-Counter: -6
-NOW: 2023/5/28 @17:19:36
-Counter: -7
-NOW: 2023/5/28 @17:19:37
-Counter: -8
-NOW: 2023/5/28 @17:19:38
-Entrei no botao 1
-The value of index_1 on button1 is 142815260
-The value of matrix_id1 on button1 is 7Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Counter: -9
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-NOW: 2023/5/28 @17:19:39
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-The value of index_2 on button1 is 142815388
-The value of matrix_id2 on button1 is 5Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+NOW: 2023/5/28 @17:40:6
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+gameplayCounter 1player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 5player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
 Counter: 4
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-NOW: 2023/5/28 @17:19:40
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+NOW: 2023/5/28 @17:40:7
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 4player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
 Counter: 3
-Entrei no botao 1
-Entrei no botao 1
-NOW: 2023/5/28 @17:19:41
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+NOW: 2023/5/28 @17:40:8
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
+gameplayCounter 3player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTREI NO BOTAO 4
 Counter: 2
-Entrei no botao 1
-The value of the cardPressed2 is 0NOW: 2023/5/28 @17:19:42
-Entrei no botao 1
-The value of index_1 on button1 is 142815260
-The value of matrix_id1 on button1 is 7Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-The value of index_2 on button1 is 142815416
-The value of matrix_id2 on button1 is 5Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Counter: 4
-Entrei no botao 1
-Entrei no botao 1
-NOW: 2023/5/28 @17:19:43
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Counter: 3
-Entrei no botao 1
-Entrei no botao 1
-NOW: 2023/5/28 @17:19:44
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Counter: 2
-Entrei no botao 1
-The value of the cardPressed2 is 0NOW: 2023/5/28 @17:19:45
-Entrei no botao 1
-The value of index_1 on button1 is 142815388
-The value of matrix_id1 on button1 is 5Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Counter: 1
-Entrei no botao 1
-Entrei no botao 1
-NOW: 2023/5/28 @17:19:46
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-The value of index_2 on button1 is 142815416
-The value of matrix_id2 on button1 is 5Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Counter: 4
-Entrei no botao 1
-Entrei no botao 1
-NOW: 2023/5/28 @17:19:47
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Counter: 3
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-NOW: 2023/5/28 @17:19:48
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Counter: 2
-Entrei no botao 1
-ENTERED HERE player2NOW: 2023/5/28 @17:19:49
-Entrei no botao 1
-The value of index_1 on button1 is 142815260
-The value of matrix_id1 on button1 is 7Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Counter: 1
-Entrei no botao 1
-NOW: 2023/5/28 @17:19:50
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-The value of index_2 on button1 is 142815288
-The value of matrix_id2 on button1 is 7Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Counter: 4
-Entrei no botao 1
-Entrei no botao 1
-NOW: 2023/5/28 @17:19:51
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Counter: 3
-Entrei no botao 1
-Entrei no botao 1
-NOW: 2023/5/28 @17:19:52
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Counter: 2
-Entrei no botao 1
-ENTERED HERE player2NOW: 2023/5/28 @17:19:53
-Entrei no botao 1
-The value of index_1 on button1 is 142815316
-The value of matrix_id1 on button1 is 6Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Counter: 1
-Entrei no botao 1
-Entrei no botao 1
-NOW: 2023/5/28 @17:19:54
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-The value of index_2 on button1 is 142815444
-The value of matrix_id2 on button1 is 6Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Counter: 4
-Entrei no botao 1
-Entrei no botao 1
-NOW: 2023/5/28 @17:19:55
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Counter: 3
-Entrei no botao 1
-Entrei no botao 1
-NOW: 2023/5/28 @17:19:56
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Counter: 2
-Entrei no botao 1
-ENTERED HERE player2NOW: 2023/5/28 @17:19:57
-Entrei no botao 1
-The value of the variable gamplayCounter is 2
-The value of index_1 on button1 is 142815232
-The value of matrix_id1 on button1 is 8Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-The value of index_2 on button1 is 142815360
-The value of matrix_id2 on button1 is 8Entrei no botao 1
-Entrei no botao 1
-Counter: 4
-Entrei no botao 1
-Entrei no botao 1
-NOW: 2023/5/28 @17:19:58
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Counter: 3
-Entrei no botao 1
-Entrei no botao 1
-NOW: 2023/5/28 @17:19:59
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Entrei no botao 1
-Counter: 2
-Entrei no botao 1
-ENTERED HERE player2NOW: 2023/5/28 @17:20:0
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-NOW: 2023/5/28 @17:20:1
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-NOW: 2023/5/28 @17:20:2
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-NOW: 2023/5/28 @17:20:3
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-NOW: 2023/5/28 @17:20:4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-NOW: 2023/5/28 @17:20:5
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-NOW: 2023/5/28 @17:20:6
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-NOW: 2023/5/28 @17:20:7
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
-The value of player_1 is 0
-The value of player_2 is 4
+gameplayCounter 2player1 1player2 0player1score 1player2score 0matrix: 5
+CONSEGUIU BLOQUEARCONSEGUIU BLOQUEARENTREI NO BOTAO 3
+ENTERED HEREENTERED HERE player1CONSEGUIU BLOQUEARplayer1Score 2player2Score 0NOW: 2023/5/28 @17:40:9
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+NOW: 2023/5/28 @17:40:10
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0
+The value of player_1 is 2
+The value of player_2 is 0

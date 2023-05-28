@@ -18,6 +18,6 @@ typedef struct
 } Sprite;
 
 Sprite *initiate_xpm(xpm_map_t sprite);
-void destroy_sprite(Sprite *sprite);
+void del_sprite(Sprite *sprite);
 
 #endif

@@ -57,6 +57,7 @@
 #include "game/xpm/2player.xpm"
 #include "game/xpm/player1.xpm"
 #include "game/xpm/player2.xpm"
+#include "game/xpm/victory.xpm"
 
 typedef enum
 {
@@ -85,5 +86,5 @@ void update_mouse_frame();
 void update_buttons();
 void update_rtc_frame();
 void start_sprites();
-void destroy_sprites();
+void del_sprites();
 #endif

@@ -26,7 +26,7 @@ Sprite *initiate_xpm(xpm_map_t sp)
   }
   return mec;
 }
-void destroy_sprite(Sprite *sp)
+void del_sprite(Sprite *sp)
 {
   if (sp == NULL){
     printf("The sprite is null\n");

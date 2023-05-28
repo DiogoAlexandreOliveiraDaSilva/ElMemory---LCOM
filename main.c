@@ -78,7 +78,7 @@ int teardown()
     return 1;
 
   // Destruição dos sprites
-  destroy_sprites();
+  del_sprites();
 
   // Desativa todas as interrupções
   if (timer_unsubscribe_interrupts() != 0)

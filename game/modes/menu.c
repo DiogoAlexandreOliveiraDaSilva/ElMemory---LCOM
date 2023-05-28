@@ -61,6 +61,7 @@ Sprite *player_1_xpm;
 Sprite *player_2_xpm;
 Sprite *player_1_menu; 
 Sprite *player_2_menu;
+Sprite *victory;
 
 
 int timer_interrupts = 0;
@@ -117,56 +118,58 @@ void start_sprites()
     player_2_xpm = initiate_xpm((xpm_map_t)player2_xpm);
     player_1_menu = initiate_xpm((xpm_map_t)_1player_xpm);
     player_2_menu = initiate_xpm((xpm_map_t)_2player_xpm);
+    victory = initiate_xpm((xpm_map_t)victory_xpm);
 
 
 }
 
-void destroy_sprites()
+void del_sprites()
 {
-    destroy_sprite(game);
-    destroy_sprite(mouse);
-    destroy_sprite(hand);
-    destroy_sprite(smile);
-    destroy_sprite(teste);
-    destroy_sprite(number1);
-    destroy_sprite(number2);
-    destroy_sprite(number3);
-    destroy_sprite(number4);
-    destroy_sprite(number5);
-    destroy_sprite(number6);
-    destroy_sprite(number7);
-    destroy_sprite(back);
-    destroy_sprite(quitButton);
-    destroy_sprite(quitButtonPressed);
-    destroy_sprite(back);
-    destroy_sprite(easy);
-    destroy_sprite(medium);
-    destroy_sprite(hard);
-    destroy_sprite(quit);
-    destroy_sprite(start);
-    destroy_sprite(back_anim1);
-    destroy_sprite(back_anim2);
-    destroy_sprite(back_anim3);
-    destroy_sprite(back_anim4);
-    destroy_sprite(Start);
-    destroy_sprite(Quit);
-    destroy_sprite(Easy);
-    destroy_sprite(Medium);
-    destroy_sprite(Hard);
-    destroy_sprite(score0);
-    destroy_sprite(score1);
-    destroy_sprite(score2);
-    destroy_sprite(score3);
-    destroy_sprite(score4);
-    destroy_sprite(score5);
-    destroy_sprite(score6);
-    destroy_sprite(score7);
-    destroy_sprite(score8);
-    destroy_sprite(score9);
-    destroy_sprite(player_1_xpm);
-    destroy_sprite(player_2_xpm);
-    destroy_sprite(player_1_menu);
-    destroy_sprite(player_2_menu);
+    del_sprite(game);
+    del_sprite(mouse);
+    del_sprite(hand);
+    del_sprite(smile);
+    del_sprite(teste);
+    del_sprite(number1);
+    del_sprite(number2);
+    del_sprite(number3);
+    del_sprite(number4);
+    del_sprite(number5);
+    del_sprite(number6);
+    del_sprite(number7);
+    del_sprite(back);
+    del_sprite(quitButton);
+    del_sprite(quitButtonPressed);
+    del_sprite(back);
+    del_sprite(easy);
+    del_sprite(medium);
+    del_sprite(hard);
+    del_sprite(quit);
+    del_sprite(start);
+    del_sprite(back_anim1);
+    del_sprite(back_anim2);
+    del_sprite(back_anim3);
+    del_sprite(back_anim4);
+    del_sprite(Start);
+    del_sprite(Quit);
+    del_sprite(Easy);
+    del_sprite(Medium);
+    del_sprite(Hard);
+    del_sprite(score0);
+    del_sprite(score1);
+    del_sprite(score2);
+    del_sprite(score3);
+    del_sprite(score4);
+    del_sprite(score5);
+    del_sprite(score6);
+    del_sprite(score7);
+    del_sprite(score8);
+    del_sprite(score9);
+    del_sprite(player_1_xpm);
+    del_sprite(player_2_xpm);
+    del_sprite(player_1_menu);
+    del_sprite(player_2_menu);
+    del_sprite(victory);
 }
 
 void update_timer_frame()
